@@ -14,9 +14,9 @@ timezone: Europe/London
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nick Shelbourne
+title: Thoughts
 
-tagline: Thoughts
+tagline: by Nick Shelbourne
 
 description: >- # used by seo meta and the atom feed
   Personal notes by Nick Shelbourne
