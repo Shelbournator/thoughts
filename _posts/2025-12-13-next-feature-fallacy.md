@@ -12,7 +12,7 @@ mermaid: true
 > The belief that when there is a gap between a product and customer value, that gap can always be closed by expanding the product or shipping another feature.
 {: .prompt-tip }
 
-The Next Feature Fallacy describes a common mistake in how organisations reason about customer value.
+The [Next Feature Fallacy](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/) - a term popularized by Andrew Chen - describes a common mistake in how organisations reason about customer value.
 
 In practice, value gaps arise for multiple, structurally different reasons. Confusing them leads organisations to apply correct solutions to the wrong problems.
 
