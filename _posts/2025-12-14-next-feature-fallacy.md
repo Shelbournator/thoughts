@@ -47,6 +47,7 @@ flowchart TD
     style Cap fill:#3d3d3d,stroke:#fff,stroke-width:2px
     style Adopt fill:#3d3d3d,stroke:#fff,stroke-width:2px
     style Align fill:#1a4d2e,stroke:#fff,stroke-width:3px
+``` 
 
 ## When Features Are (and Aren’t) the Right Answer
 
