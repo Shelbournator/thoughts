@@ -1,6 +1,6 @@
 ---
 title: "The Next Feature Fallacy: Why Value Gaps Aren’t Always Feature Problems"
-date: 2025-12-14 12:00:00 +0000
+date: 2025-12-14 09:00:00 +0000
 categories: [Craft, Product]
 tags: [strategy, frameworks, mental-models]
 pin: true
@@ -37,9 +37,9 @@ Using this mental model allows us to triage the issue before committing engineer
 
 ```mermaid
 flowchart TD
-    Start[Value Gap Detected] --> Q1{Is functionality<br>missing?}
+    Start[Value Gap Detected] --> Q1{"Is functionality<br>missing?"}
     Q1 -- Yes --> Cap[Capability Gap]
-    Q1 -- No --> Q2{Is the customer<br>using it?}
+    Q1 -- No --> Q2{"Is the customer<br>using it?"}
     
     Q2 -- No --> Adopt[Adoption Gap]
     Q2 -- Yes --> Align[Alignment Gap]
@@ -47,7 +47,7 @@ flowchart TD
     style Cap fill:#3d3d3d,stroke:#fff,stroke-width:2px
     style Adopt fill:#3d3d3d,stroke:#fff,stroke-width:2px
     style Align fill:#1a4d2e,stroke:#fff,stroke-width:3px
-``` 
+```
 
 ## When Features Are (and Aren’t) the Right Answer
 
