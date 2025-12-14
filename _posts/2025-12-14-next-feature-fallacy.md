@@ -8,14 +8,29 @@ mermaid: true
 description: "Why shipping another feature won't fix an alignment gap. A framework for diagnosing why products fail to deliver value."
 ---
 
-> **The Next Feature Fallacy**
->
-> The belief that when there is a gap between a product and customer value, that gap can be closed by expanding the product or shipping another feature. 
-{: .prompt-tip }
-
 The Next Feature Fallacy describes a common mistake in how organisations reason about customer value. 
 
 In practice, value gaps arise for multiple, structurally different reasons. Confusing them leads organisations to apply correct solutions to the wrong problems.
+
+
+### Visualising the Diagnosis
+
+Using this mental model allows us to triage the issue before committing engineering resources:
+
+```mermaid
+flowchart TD
+    Start[Value Gap Detected] --> Q1{"Is functionality<br>missing?"}
+    Q1 -- Yes --> Cap[Capability Gap]
+    Q1 -- No --> Q2{"Is the customer<br>using it?"}
+    
+    Q2 -- No --> Adopt[Adoption Gap]
+    Q2 -- Yes --> Align[Alignment Gap]
+    
+    style Cap fill:#3d3d3d,stroke:#fff,stroke-width:2px
+    style Adopt fill:#3d3d3d,stroke:#fff,stroke-width:2px
+    style Align fill:#1a4d2e,stroke:#fff,stroke-width:3px
+```
+
 
 ## Three Types of Value Gaps
 
