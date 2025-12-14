@@ -7,7 +7,10 @@ pin: false
 mermaid: true
 ---
 
-**The Next Feature Fallacy:** The belief that when there is a gap between a product and customer value, that gap can be closed by expanding the product or shipping another feature.
+> **The Next Feature Fallacy**
+>
+> The belief that when there is a gap between a product and customer value, that gap can be closed by expanding the product or shipping another feature.
+{: .prompt-tip }
 
 The Next Feature Fallacy describes a common mistake in how organisations reason about customer value.
 
