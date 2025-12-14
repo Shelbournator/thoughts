@@ -4,7 +4,6 @@ date: 2025-12-14 09:00:00 +0000
 categories: [Craft, Product]
 tags: [strategy, frameworks, mental-models]
 pin: true
-math: false
 mermaid: true
 description: "Why shipping another feature won't fix an alignment gap. A framework for diagnosing why products fail to deliver value."
 ---
@@ -30,24 +29,6 @@ When a product fails to deliver for a customer, it is usually due to one of thre
 
 **3. Alignment Gap**
 : The product *is* used as intended and performs well against its internal success metrics, yet still fails to deliver the value the customer believes they are buying.
-
-### Visualising the Diagnosis
-
-Using this mental model allows us to triage the issue before committing engineering resources:
-
-```mermaid
-flowchart TD
-    Start[Value Gap Detected] --> Q1{"Is functionality<br>missing?"}
-    Q1 -- Yes --> Cap[Capability Gap]
-    Q1 -- No --> Q2{"Is the customer<br>using it?"}
-    
-    Q2 -- No --> Adopt[Adoption Gap]
-    Q2 -- Yes --> Align[Alignment Gap]
-    
-    style Cap fill:#3d3d3d,stroke:#fff,stroke-width:2px
-    style Adopt fill:#3d3d3d,stroke:#fff,stroke-width:2px
-    style Align fill:#1a4d2e,stroke:#fff,stroke-width:3px
-```
 
 ## When Features Are (and Aren’t) the Right Answer
 
