@@ -18,9 +18,9 @@ One concrete example is **Artificial Intelligence**. The UK has exerted outsized
 
 > ***Case Study***
 > 
->  DeepMind sits at the core of Google’s AI strategy, leading major initiatives including Gemini and AI Studio.
+> DeepMind - a British AI startup acquired by Google - now sits at the core of the tech giant's AI strategy, leading major initiatives including Gemini and AI Studio.
 >
-> The productivity was real. The value creation was real. But the scaling and capture of that value happened elsewhere (Google).
+> The productivity was real. The value creation was real. But the *scaling and capture* of that value happened elsewhere.
 {: .prompt-info }
 
 This pattern is not unique to AI. It is representative. The UK is strong at creating productive capability, but weak at transmitting it into scaled, durable economic outcomes.
