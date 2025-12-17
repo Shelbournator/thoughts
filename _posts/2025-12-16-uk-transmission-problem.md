@@ -78,7 +78,7 @@ Productivity does not scale automatically. It propagates through mechanisms that
 
 **1. Capital Investment** : The UK has persistently under-invested relative to OECD peers across both public and private capital, limiting capital deepening and scale.
 >As [the Office for National Statistics (ONS)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/ukproductivityintroduction/januarytomarch2022) have pointed out, capital deepening is a crucial factor in UK labour productivity.
-> 
+
 **2. Management Practices** : Weak diffusion of modern management, software, data, and organisational capability sustains a long tail of low-productivity firms.
 > Research by [Bloom and Van Reenen](https://blogs.lse.ac.uk/businessreview/2022/05/20/improving-productivity-through-better-management-practices/) suggests management practices are a multiplier on technology-related productivity gains, while [Jonathan Haskel](https://www.productivity.ac.uk/research/accounting-for-the-slowdown-in-uk-innovation-and-productivity/) argues the UK productivity slowdown is specifically a slowdown in innovation linked to "intangible capital".
 
