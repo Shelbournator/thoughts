@@ -50,8 +50,7 @@ The transmission layer is where force multipliers operate: taking local, firm-le
 
 In the **US**, transmission is explicitly designed around high-risk scaling. A dense venture capital ecosystem exists to fund extreme risk in exchange for extreme upside. As Peter Thiel puts it: 
 
->  The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined.
-{: .prompt-info }
+>  The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined. _Source: From Zero to One: Notes on Startups, Or How to Build the Future_
 
 In other words, the system is built to over-allocate resources to outliers.
 
