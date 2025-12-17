@@ -6,7 +6,6 @@ tags: [uk-economy, scaling, infrastructure, strategy]
 pin: false
 math: false
 mermaid: true
-description: "The UK excels at upstream value creation but fails at downstream transmission. A model for understanding the productivity stagnation."
 ---
 
 The UK economy is defined by a specific structural contradiction.
