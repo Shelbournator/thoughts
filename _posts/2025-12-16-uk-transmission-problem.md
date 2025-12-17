@@ -8,11 +8,11 @@ math: false
 mermaid: true
 ---
 
-The UK economy is defined by a specific structural contradiction.
+The UK economy is defined by a structural contradiction.
 
 It excels at some things and consistently fails at others.
 
-At the productivity layer, the UK is genuinely world-class. Its upstream knowledge production and value-creation capabilities remain exceptional. The country produces high-quality ideas, research, and institutions at a rate that far exceeds what its size would suggest.
+At the frontier of value creation, the UK is genuinely world-class. Its upstream knowledge production capabilities remain exceptional. The country produces high-quality ideas, research, and institutions at a rate that far exceeds what its size would suggest.
 
 One concrete example is **Artificial Intelligence**. The UK has exerted outsized influence on modern AI through foundational work in computation, mathematics, and theoretical machine learning.
 
