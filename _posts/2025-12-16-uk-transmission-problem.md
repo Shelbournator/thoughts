@@ -54,7 +54,7 @@ In the **US**, transmission is explicitly designed around high-risk scaling. A d
 
 In other words, the system is built to over-allocate resources to outliers.
 
-In **Germany**, transmission relies on the *Mittelstand*: a "missing middle" of technically specialised, capital-intensive firms with long investment horizons.
+In **Germany**, transmission relies on the *Mittelstand*: a "middle class" of technically specialised, capital-intensive firms with long investment horizons.
 
 The UK has neither structure in sufficient depth. It has highly productive frontier firms—overwhelmingly concentrated in London—and a long tail of low-productivity firms elsewhere.
 
