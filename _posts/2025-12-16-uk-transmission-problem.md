@@ -16,7 +16,9 @@ At the productivity layer, the UK is genuinely world-class. Its upstream knowled
 
 One concrete example is **Artificial Intelligence**. The UK has exerted outsized influence on modern AI through foundational work in computation, mathematics, and theoretical machine learning.
 
-> DeepMind sits at the core of Google’s AI strategy, leading major initiatives including Gemini and AI Studio.
+> ### Case Study
+> 
+>  DeepMind sits at the core of Google’s AI strategy, leading major initiatives including Gemini and AI Studio.
 >
 > The productivity was real. The value creation was real. But the scaling and capture of that value happened elsewhere (Google).
 {: .prompt-info }
