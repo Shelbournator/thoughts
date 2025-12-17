@@ -16,8 +16,6 @@ At the productivity layer, the UK is genuinely world-class. Its upstream knowled
 
 One concrete example is **Artificial Intelligence**. The UK has exerted outsized influence on modern AI through foundational work in computation, mathematics, and theoretical machine learning.
 
-> **The DeepMind Case Study**
->
 > DeepMind sits at the core of Google’s AI strategy, leading major initiatives including Gemini and AI Studio.
 >
 > The productivity was real. The value creation was real. But the scaling and capture of that value happened elsewhere (Google).
@@ -113,4 +111,3 @@ The UK has the ingredients to be a top-tier economy, but it is highly skewed tow
 We have seen over the last 20 years that this skew eventually affects everyone through bad policy. The temptation is to treat government spending as charity - mitigating the symptoms of stagnation - rather than targeting the underlying processes.
 
 The most important next step is to spread economic literacy. We need to understand that we cannot solve a **Transmission Problem** with **Productivity Solutions** (more research) or **Output Solutions** (more welfare). We have to fix the spokes.
-```
