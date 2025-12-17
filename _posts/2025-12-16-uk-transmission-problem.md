@@ -55,9 +55,9 @@ In other words, the system is built to over-allocate resources to outliers.
 
 In **Germany**, transmission relies on the *Mittelstand*: a "middle class" of technically specialised, capital-intensive firms with long investment horizons.
 
-The UK has neither structure in sufficient depth. It has highly productive frontier firms—overwhelmingly concentrated in London—and a long tail of low-productivity firms elsewhere.
+The UK has neither structure in sufficient depth. It has highly productive frontier firms - overwhelmingly concentrated in London - and a long tail of low-productivity firms elsewhere.
 
-What it lacks is the thick middle layer of scalable businesses to connect them. This spatial skew creates a secondary transmission failure: it forces value creation to compete for the country’s scarcest resources—housing and transport capacity in the South East—driving up costs and choking off scale.
+What it lacks is the thick middle layer of scalable businesses to connect them. This spatial skew creates a secondary transmission failure: it forces value creation to compete for the country’s scarcest resources - housing and transport capacity in the South East - driving up costs and choking off scale.
 
 ### Visualising the Skew
 
