@@ -97,7 +97,7 @@ The result is a double bind. Infrastructure is both under-built and over-expensi
 ![Cost of warehouse space](/assets/img/graphs/high-warehouse-cost.png)
 _Figure 1: The extraordinary cost of London warehousing. Source: Savilles via [Bloomberg](https://www.bloomberg.com/news/articles/2023-08-21/warehouse-costs-rise-10-with-london-most-expensive-globally)._
 
-## Outputs: Why Wages Disappoint
+## Outputs: Why Average Wages Stagnate
 
 One of the most common economic mis-framings is to see wealth as a fixed quantity that needs to be distributed.
 
