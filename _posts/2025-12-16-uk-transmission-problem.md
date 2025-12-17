@@ -16,7 +16,7 @@ At the frontier of value creation, the UK is genuinely world-class. Its upstream
 
 One concrete example is **Artificial Intelligence**. The UK has exerted outsized influence on modern AI through foundational work in computation, mathematics, and theoretical machine learning.
 
-> ### Case Study
+> ***Case Study***
 > 
 >  DeepMind sits at the core of Google’s AI strategy, leading major initiatives including Gemini and AI Studio.
 >
