@@ -9,11 +9,6 @@ mermaid: true
 description: "Why Britain and Amazon faced the same scaling crisis, and why Dominic Cummings failed to ship the patch."
 ---
 
-> **TL;DR**
->
-> Britain (1854) and Amazon (2002) demonstrate that surviving scale requires an **Operating System update**—a fundamental re-architecture of how value flows. Modern civil service reforms failed because they attempted to solve this architectural problem with a **Talent Solution**.
-{: .prompt-info }
-
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
 
 ![Relative Per Capita Industrialization 1750-1900](/assets/img/graphs/bairoch-industrialization.png){: style="display:block; margin-left:auto; margin-right:auto; width:50%" }
