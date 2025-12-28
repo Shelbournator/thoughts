@@ -11,6 +11,9 @@ description: "Why Britain and Amazon faced the same scaling crisis, and why Domi
 
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
 
+![Relative Per Capita Industrialization 1750-1900](/assets/img/graphs/bairoch-industrialization.png)
+_Figure 1: The Scale Gap. By 1860, Britain’s per capita industrialisation (Black Line) was 3x that of the United States or Germany. It was operating at a scale that had no historical precedent. Data: Bairoch (1982)._
+
 It was the Amazon.com of industrialisation: scaling explosively while still running on inherited, pre-industrial systems. That mismatch manifested as **administrative technical debt**: a state built for scale, governed by machinery that had never been designed for it.
 
 Amazon experienced the exact same phenomenon in the late 1990s. It scaled explosively while running on a system architecture from its days as a bookstore. This manifested as technical debt: a business built for scale, using a system that hadn’t been optimised for it.
@@ -70,7 +73,7 @@ What made Crimea embarrassing was not that Britain failed to achieve its objecti
 Amazon’s analogue to the Crimean War was the point at which rapid scale exposed systemic fragility. Despite strong talent and capital, Amazon experienced cascading failures from small changes and risk-averse paralysis around deployments.
 
 ![Amazon vs Netflix Architecture](/assets/img/graphs/amazon-vs-netflix-architecture.png)
-_Figure 1: The Complexity Trap. Left: Amazon's "Death Star" (c. 2008)—a visual representation of service dependencies spiralling into unmanaged complexity. Right: Netflix's architecture—equally scaled, but structured through stricter service boundaries. The goal of an OS update is not to remove complexity, but to make it legible._
+_Figure 2: The Complexity Trap. Left: Amazon's "Death Star" (c. 2008)—a visual representation of service dependencies spiralling into unmanaged complexity. Right: Netflix's architecture—equally scaled, but structured through stricter service boundaries. The goal of an OS update is not to remove complexity, but to make it legible._
 
 Crimea and Amazon’s early outages were the same failure: **Value scaled faster than coordination.**
 
@@ -115,7 +118,7 @@ Britain optimised for **Organizational Character** (Neutrality, Competence). Ama
 The British system successfully produced a durable institution, but it created a system whose incentives were self-contained. As the external environment changed, the internal architecture exerted little pressure to adapt. Amazon’s architecture did the opposite: by wiring customer value end-to-end, it forced continuous reconfiguration.
 
 ![Amazon Revenue Streams](/assets/img/graphs/Amazon_Exponential_Growth.avif)
-_Figure 2: The value of the API Mandate. By decoupling its architecture, Amazon was able to layer entirely new business models (AWS, Third-Party Services, Ads) on top of its existing infrastructure._
+_Figure 3: The value of the API Mandate. By decoupling its architecture, Amazon was able to layer entirely new business models (AWS, Third-Party Services, Ads) on top of its existing infrastructure._
 
 ## The Modern Debug: Why Dominic Cummings Failed
 
