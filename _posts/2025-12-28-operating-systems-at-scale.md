@@ -11,7 +11,7 @@ description: "Why Britain and Amazon faced the same scaling crisis, and why Domi
 
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
 
-![Relative Per Capita Industrialization 1750-1900](/assets/img/graphs/bairoch-industrialization.png)
+![Relative Per Capita Industrialization 1750-1900](/assets/img/graphs/bairoch-industrialization.png){: width="50%" }
 _Figure 1: The Scale Gap. By 1860, Britain’s per capita industrialisation (Black Line) was 3x that of the United States or Germany. It was operating at a scale that had no historical precedent. Data: Bairoch (1982)._
 
 It was the Amazon.com of industrialisation: scaling explosively while still running on inherited, pre-industrial systems. That mismatch manifested as **administrative technical debt**: a state built for scale, governed by machinery that had never been designed for it.
@@ -62,7 +62,9 @@ What made Crimea embarrassing was not that Britain failed to achieve its objecti
 
 > **The Charge of the Light Brigade**
 >
-> "Theirs not to make reply, / Theirs not to reason why, / Theirs but to do and die"
+> "Theirs not to make reply,
+> Theirs not to reason why,
+> Theirs but to do and die"
 >
 > Tennyson captured it perfectly: not a story of courage, but a portrait of a system that demanded obedience where judgement was required.
 >
