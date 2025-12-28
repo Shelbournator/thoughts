@@ -153,15 +153,19 @@ Operating system updates can fail at three distinct layers. Cummings failed at a
 %%{init: {
   "theme": "base",
   "themeVariables": {
-    "background": "#ffffff",
-    "primaryColor": "#f1f5f9",
-    "primaryBorderColor": "#cbd5e1",
-    "primaryTextColor": "#0f172a",
-    "lineColor": "#64748b",
-    "secondaryColor": "#e2e8f0",
-    "tertiaryColor": "#f8fafc",
-    "fontFamily": "Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
-    "fontSize": "14px"
+    "background": "transparent",
+    
+    "primaryColor": "#1e293b",
+    "primaryBorderColor": "#ffffff",
+    "primaryTextColor": "#ffffff",
+    
+    "lineColor": "#94a3b8",
+    
+    "secondaryColor": "#334155",
+    "tertiaryColor": "#0f172a",
+    
+    "fontFamily": "Inter, system-ui, sans-serif",
+    "fontSize": "16px"
   }
 }}%%
 timeline
