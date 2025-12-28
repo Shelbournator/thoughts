@@ -11,7 +11,7 @@ description: "Why Britain and Amazon faced the same scaling crisis, and why Domi
 
 > **TL;DR**
 >
-> Britain (1854) and Amazon (2002) demonstrate that surviving scale requires an **Operating System update**—a fundamental re-architecture of how value flows. Modern reforms fail because they attempt to solve this architectural problem with a **Talent Solution**.
+> Britain (1854) and Amazon (2002) demonstrate that surviving scale requires an **Operating System update**—a fundamental re-architecture of how value flows. Modern civil service reforms failed because they attempted to solve this architectural problem with a **Talent Solution**.
 {: .prompt-info }
 
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
@@ -118,6 +118,12 @@ The memo—later known as the “Google Platforms Rant”—describes how Jeff B
 >
 > In other words, coordination was not wished into existence; it was engineered, enforced, and paid for up front.
 {: .prompt-info }
+
+This account complicates the Amazon narrative. Yegge notes that Amazon was often worse than its peers (specifically Google) on typical dimensions like hiring standards, internal tooling, and code quality.
+
+What distinguished it was that it made one operating-system-level decision correctly and enforced it relentlessly: to embed coordination through **platform architecture** rather than culture or hierarchy.
+
+Over time, this mattered more than hiring practices or managerial polish. In systems terms, Amazon won not by optimising every component, but by getting the **control plane** right.
 
 ### The Divergence
 Britain optimised for **Organizational Character** (Neutrality, Competence). Amazon optimised for **System Outcomes** (Delivery, Speed).
