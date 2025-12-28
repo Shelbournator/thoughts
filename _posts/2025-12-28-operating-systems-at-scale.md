@@ -8,12 +8,14 @@ math: false
 mermaid: true
 description: "Why Britain and Amazon faced the same scaling crisis, and why Dominic Cummings failed to ship the patch."
 ---
-> **Administrative Technical Debt**
+
+> **TL;DR**
 >
-> The specific type of friction that emerges when an organisation scales faster than its coordination mechanisms.
->
-> It manifests not as a lack of resources, but as a failure of routing: value exists in aggregate but cannot be embedded or aligned end-to-end.
-{: .prompt-tip }
+> *   **The Parallel:** Britain (1854) and Amazon (2002) faced the same "Coordination Ceiling." Scale outpaced the system, causing "technical debt".
+> *   **The Solution:** Both solved it via **Architecture**, not incrementalism. Britain optimised for Stability (Civil Service v1.0); Amazon optimised for Speed (API Mandate).
+> *   **The Failure:** Dominic Cummings failed to ship Civil Service v2.0 because he applied a **Talent Solution** to an **Architectural Problem**.
+> *   **The Trilemma:** A successful OS update requires three things: **Authority** to enforce, **Architecture** to replace, and **Legitimacy** to sustain. Cummings lacked all three.
+{: .prompt-info }
 
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
 
