@@ -8,6 +8,12 @@ math: false
 mermaid: true
 description: "Why Britain and Amazon faced the same scaling crisis, and why Dominic Cummings failed to ship the patch."
 ---
+> **Administrative Technical Debt**
+>
+> The specific type of friction that emerges when an organisation scales faster than its coordination mechanisms.
+>
+> It manifests not as a lack of resources, but as a failure of routing: value exists in aggregate but cannot be embedded or aligned end-to-end.
+{: .prompt-tip }
 
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
 
