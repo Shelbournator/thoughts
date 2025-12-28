@@ -186,6 +186,7 @@ timeline
     2021 : System reverts
          : Existing OS absorbs shock
          : No durable structural change
+```
 
 ## Conclusion: Towards v2.0
 
