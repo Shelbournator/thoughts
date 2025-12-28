@@ -125,7 +125,7 @@ Britain optimised for **Organizational Character** (Neutrality, Competence). Ama
 
 The British system successfully produced a durable institution, but it created a system whose incentives were self-contained. As the external environment changed, the internal architecture exerted little pressure to adapt. Amazon’s architecture did the opposite: by wiring customer value end-to-end, it forced continuous reconfiguration.
 
-![Amazon Revenue Streams](/assets/img/graphs/Amazon_Exponential_Growth.avif)
+![Amazon Revenue Streams](/assets/img/graphs/Amazon_Exponential_Growth.avif){: style="display:block; margin-left:auto; margin-right:auto; width:50%" }
 _Figure 3: The value of the API Mandate. By decoupling its architecture, Amazon was able to layer entirely new business models (AWS, Third-Party Services, Ads) on top of its existing infrastructure._
 
 ## The Modern Debug: Why Dominic Cummings Failed
