@@ -11,10 +11,7 @@ description: "Why Britain and Amazon faced the same scaling crisis, and why Domi
 
 > **TL;DR**
 >
-> *   **The Parallel:** Britain (1854) and Amazon (2002) faced the same "Coordination Ceiling." Scale outpaced the system, causing "technical debt".
-> *   **The Solution:** Both solved it via **Architecture**, not incrementalism. Britain optimised for Stability (Civil Service v1.0); Amazon optimised for Speed (API Mandate).
-> *   **The Failure:** Dominic Cummings failed to ship Civil Service v2.0 because he applied a **Talent Solution** to an **Architectural Problem**.
-> *   **The Trilemma:** A successful OS update requires three things: **Authority** to enforce, **Architecture** to replace, and **Legitimacy** to sustain. Cummings lacked all three.
+> Britain (1854) and Amazon (2002) demonstrate that surviving scale requires an **Operating System update**—a fundamental re-architecture of how value flows. Modern reforms fail because they attempt to solve this architectural problem with a **Talent Solution**.
 {: .prompt-info }
 
 Britain was the first state to hit modern scale. It did so 50–70 years before anyone else.
