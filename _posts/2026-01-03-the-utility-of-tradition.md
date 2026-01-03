@@ -21,7 +21,7 @@ For me, this exaltation points towards a broader question about judgement. We sp
 
 ## Case Study: The Unanchored Mind
 
-To test Bradbury’s advice, I read *The Love Song of J. Alfred Prufrock* by T.S. Eliot.
+To test Bradbury’s advice, I read [*The Love Song of J. Alfred Prufrock*](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) by T.S. Eliot.
 
 My immediate reaction was not appreciation, but anxiety. The poem starts with a deceptive optimism ("Let us go then, you and I...") before crashing into a state of paralysis ("Like a patient etherized upon a table").
 
@@ -46,7 +46,7 @@ This reading of Prufrock seems at odds with T.S. Eliot’s reputation as the gre
 
 But Eliot was not a conservative looking backward; he was a modernist looking forward. He understood that **you cannot have the Individual Talent without the Tradition.**
 
-In *Tradition and the Individual Talent*, Eliot explicitly rejects the idea of tradition as mere imitation ("blind or timid adherence"). Instead, he frames it as a dynamic system:
+In [*Tradition and the Individual Talent*](https://www.poetryfoundation.org/articles/69400/tradition-and-the-individual-talent), Eliot explicitly rejects the idea of tradition as mere imitation ("blind or timid adherence"). Instead, he frames it as a dynamic system:
 
 > "The past should be altered by the present as much as the present is directed by the past."
 
