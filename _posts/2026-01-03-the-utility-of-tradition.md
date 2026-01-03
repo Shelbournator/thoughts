@@ -9,13 +9,13 @@ mermaid: false
 description: "Why reading the classics is not an act of nostalgia, but of calibration. T.S. Eliot, Prufrock, and the necessity of structure."
 ---
 
-I recently came across Ray Bradbury’s incitement to read a poem a day for your life.
+I recently came across [Ray Bradbury’s incitement](https://www.goodreads.com/quotes/1216205-read-poetry-every-day-of-your-life-poetry-is-good) to read a poem a day for your life.
 
 For a modern professional, this feels like an inefficiency. We are conditioned to ask: *What is the utility?* How does reading Greek philosophy or modernist poetry make me more effective in the digital economy?
 
 I’m a big believer that a question being difficult to answer does not make it irrelevant.
 
-Jeffrey Brenzel (former Dean of Admissions at Yale) argues that the classics provide **Transformative Wisdom** rather than just **Information**. They are not vessels of facts to be emptied, but structures of thought to be inhabited. Harold Bloom called this "The Great Conversation."
+Jeffrey Brenzel (former Dean of Admissions at Yale) [argues](https://bigthink.com/videos/strange-beauty-how-reading-the-classics-will-change-you) that the classics provide **Transformative Wisdom** rather than just **Information**. They are not vessels of facts to be emptied, but structures of thought to be inhabited. Harold Bloom called this "The Great Conversation."
 
 For me, this exaltation points towards a broader question about judgement. We spend our lives learning practical things, but we often neglect the abstract structures—history, philosophy, culture—that allow us to orient ourselves.
 
