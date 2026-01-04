@@ -8,7 +8,7 @@ math: false
 mermaid: false
 description: "Sailing to Byzantium is an attempt to escape the instability of biological decay by migrating meaning to the artificial."
 ---
-Today’s entry in the [Poem-a-Day]({{ site.baseurl }}/tags/poem-a-day/) challenge is *Sailing to Byzantium* by W. B. Yeats.
+Today’s entry in the [Poem-a-Day]({{ site.baseurl }}/tags/poem-a-day/) challenge is [*Sailing to Byzantium*](https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium) by W. B. Yeats.
 
 Yesterday I read T. S. Eliot and thought about his ideas of tradition—how our humanity is grounded in concepts we inherit. Today, I’m looking at a different response to the problem of grounding.
 
