@@ -8,27 +8,32 @@ math: false
 mermaid: false
 description: "Sailing to Byzantium is an attempt to escape the instability of biological decay by migrating meaning to the artificial."
 ---
-Today’s entry in the [Poem-a-Day]({{ site.baseurl }}/tags/poem-a-day/) challenge is [*Sailing to Byzantium*](https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium) by W. B. Yeats.
+
+Today’s entry in the [Poem-a-Day]({{ site.baseurl }}/tags/poem-a-day/) challenge is *Sailing to Byzantium* by W. B. Yeats.
 
 Yesterday I read T. S. Eliot and thought about his ideas of tradition—how our humanity is grounded in concepts we inherit. Today, I’m looking at a different response to the problem of grounding.
 
-I should mention that I am taking it upon myself to read these poems directly, without outside analysis, to develop a sense of what they mean to me before looking more deeply at the context. It seems relevant, then, to recognise that my own perception is already grounded by concepts I’ve learned in the past.
+I should mention that I am taking it upon myself to read these poems directly, without outside analysis, **first**, to develop a sense of what they mean to me before looking more deeply at the context. It seems relevant, then, to recognise that my own perception is already grounded by concepts I’ve learned in the past.
 
-## The Context: Romanticism as a Crisis of Grounding
+This is the best way to read classics, even if it feels like being thrown in at the deep-end at times. Speak to the author *directly* yourself, first, then only afterwards look at context and analysis.
 
-I’ve never studied Yeats explicitly, but I view him through the lens of British Romanticism.
+## A Modernist Looking Back
 
-The broader context of Romanticism is the dawn of the modern age. Religious worldviews were becoming increasingly uninhabitable—particularly in Britain, where science and technology were deeply embedded. For many, religiosity had been the primary ground of meaning; its loss was experienced as a loss of meaning itself.
+*Sailing to Byzantium* was written in 1926 and published in 1927. Yeats was roughly 60 years old.
 
-For earlier Romantics (like Wordsworth), the solution was an inward turn: meaning could be reclaimed from **Perception** itself.
+This puts the poem firmly in the Modernist era, published a decade *after* Eliot’s *Prufrock*. However, Yeats occupies a unique position. He began his career in the twilight of the 19th century as a "Late Romantic," obsessed with folklore, nature, and the sublime.
 
-But perception is slippery. For some, rather than providing an unambiguous foundation, perception became unsettling and strange. As Timothy Morton argues, Romanticism is the beginning of the modern condition: an attempt to ground all meaning in perception, only to discover that perception itself must be grounded in something, otherwise it feels uncanny.
+In this poem, he is not writing *from* that Romantic tradition, but looking back at it with the clarity of old age.
 
-### The Kantian Architecture
+The Romantic project of the 19th century was an attempt to ground **Meaning** in **Perception**—most famously in the immediate experience of the natural world. Early Romantics like Wordsworth found that, despite the collapse of the metaphysical beliefs undergirding Western civilization, individual moments of human experience, especially in Nature, were still saturated with Meaning. However, it wasn't long until other Romantics, in exploring this to its natural conclusions, would start to find that Perception itself was ungrounded and sometimes alienating.
 
-To understand this, we have to look at Immanuel Kant.
+At 60 years old, Keats is disillusioned with this approach: as his biology starts to fade, he no longer believes it can bear the weight of **Meaning**. He seeks to build up artificial symbols far and distant from the impermanent reality of his fading body.
 
-Influencing the later Romantics, Kant tried to find a grounding for perception in the structure of the mind itself. He proposed the **Transcendental Conditions of Experience**: features necessary for experience to occur (Space, Time, Causality).
+## The Kantian Architecture
+
+To deep dive into these ideas, let's look at the philosophical rock star of that earlier era: Immanuel Kant.
+
+Influencing some Romantics, Kant tried to find a grounding for the self and perception in the structure of the mind itself. He proposed the **Transcendental Conditions of Experience**: features necessary for experience to occur (Space, Time, Causality).
 
 > **Note on "Transcendental"**
 >
@@ -41,23 +46,23 @@ Influencing the later Romantics, Kant tried to find a grounding for perception i
 
 Like Eliot's *Prufrock*, *Sailing to Byzantium* deals with themes of youth and old age. But Yeats approaches the lack of grounding differently.
 
-As a late Romantic, he remains interested in how experience might be grounded. But he is unconvinced that this can be achieved through direct, immediate perception alone.
+As an older man who has lived through the transition from Romanticism to Modernism, he remains interested in how experience might be grounded. But the poem feels unconvinced that this can be achieved through direct, immediate perception alone. *Prufrock* was not a happy poem, but this poem feels sader, colder, and, to me, more hopeless.
 
 Rather than invoking imagery that is immanent and perceptually close—as Blake does with Jerusalem, or Wordsworth does with Nature—Yeats turns to imagery that is deliberately distant.
 
 He invokes **Byzantium**.
 
-Byzantium is not Rome; it is not Athens. It is a city that no longer exists under that name. It survives only as an idea, a symbol, a historical memory. It is already abstracted from perception.
+Byzantium is not Jerusalem, nor Rome, and it is not Athens. It is a city that no longer exists under that name. It survives only as an idea, a symbol, a historical memory. It is already abstracted from perception, and in that sense safe from decay.
 
 ### The Turn to the Artificial
 
-For Yeats, this distant city becomes the site in which meaning is relocated. It is where the “soul clap its hands and sing,” where permanence is imagined not in flesh but in form.
+For Yeats, this distant city becomes the site in which **Meaning** is relocated. It is where the “soul clap its hands and sing,” where permanence is imagined not in flesh but in form.
 
 Yet this meaning is not grounded in lived experience. It is grounded in **Symbols**—crafted, artificial, enduring.
 
 To me, these symbols feel cold, inert, almost lifeless. They are not alive in the way that Wordsworth’s nature is alive. They are hammered, fixed, eternal.
 
-But this is exactly Yeats’ intention. He is not trying to recover meaning *within* existence, but to separate meaning *from* existence.
+But this is exactly Yeats’ intention. He is not trying to recover meaning *within* existence, but to separate meaning *from* existence. He calls up language and imagery reminiscient of the Romantic project, but with none of the hopefulness that ones feels there.
 
 The attempt to ground meaning in an imagined Byzantium feels uninhabitable. But that uninhabitability is the point. Byzantium is a monument to what meaning looks like once it has been severed from life itself.
 
@@ -73,15 +78,14 @@ It is a search—a desperate search—for a grounding of meaning. But the answer
 
 It is said that interesting thinkers do not solve problems so much as take potential solutions all the way through to their necessary conclusions, thereby illuminating the structure of the problem itself. That is what I find here.
 
-I don’t find satisfaction. But in that sense, I embody Yeats’ own experience. Yeats offers an insight into an age obsessed with both meaning and analysis, seeking desperately to locate a source of meaning—any source—that could withstand the analytical power unleashed by the Enlightenment.
+I don’t find satisfaction. But in that sense, I embody Yeats’ own experience. Yeats offers an insight into a dying age, one obsessed with both meaning and analysis, seeking desperately to locate a source of meaning—any source—that could withstand the analytical power unleashed by the Enlightenment.
 
 So what can we learn from Yeats?
 
-We learn about the difficulty of trying to ground meaning in direct experience. We learn about the difficult interplay between meaning and our finite existence.
+We learn about the difficulty of trying to ground meaning in direct experience. We learn about the difficult interplay between meaning and our finite existence. We find a bridge from Modernism back to the Romanticism of the previous era.
 
 We learn that neither grounding our meaning only in direct experience (Nature) nor trying to extract it fully into a purely structural distant form (Byzantium) is satisfying.
 
-For me, the only path forward is some balance between structure and experience—an interplay, or dialectic, of the two.
+The poem sets up the stage for Eliot: the only path forward must be some balance between structure and experience—an interplay, or dialectic, of the two.
 
-This is exactly where T.S. Eliot finds himself, writing some 100 years after the Romantics first posed the problem. His solution was neither pure structure nor pure experience, but the synthesis of the two: **Tradition** *and* the **Individual Talent**.
-
+T.S. Eliot wrote *Prufrock* (1915) and *The Waste Land* (1922) during the same period Yeats was wrestling with these questions. As a younger man, despite his existential axiety, he is more hopeful. His solution was neither pure structure nor pure experience, but the synthesis of the two: **Tradition** *and* the **Individual Talent**.
