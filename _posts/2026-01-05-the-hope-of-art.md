@@ -11,7 +11,7 @@ description: "Ode on a Grecian Urn presents a hopeful attempt to ground meaning 
 
 Today’s entry in the [Poem-a-Day]({{ site.baseurl }}/tags/poem-a-day/) challenge is *Ode on a Grecian Urn* by John Keats.
 
-After the melancholy of [Eliot]({% post_url 2026-01-03-the-utility-of-tradition %}) and the desperate structuralism of [Yeats]({% post_url 2026-01-04-yeats-and-the-artificial %}), it felt right to step back upstream. I wanted to look at an earlier attempt to solve the same problem.
+After the melancholy of [Eliot]({% post_url 2026-01-03-the-utility-of-tradition %}) and the desperate structuralism of [Yeats]({% post_url 2026-01-04-the-architecture-of-meaning.md %}), it felt right to step back upstream. I wanted to look at an earlier attempt to solve the same problem.
 
 Immediately, the difference in tone is striking. This poem feels hopeful—almost like a breath of fresh air.
 
