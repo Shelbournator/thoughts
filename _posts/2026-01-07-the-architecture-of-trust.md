@@ -22,13 +22,14 @@ In this state, the system is closed. Energy is consumed by internal friction (Si
 
 ```mermaid
 graph TD
-    A[Threat Perception] -->|Cortisol| B(Self-Protection)
-    B -->|Siloing| C[Information Hoarding]
+    V[Value Creation] -->|Input| B(Self-Protection & Siloing)
+    A[Threat Perception] -->|Cortisol| B
+    B -->|Blocked Transmission| C[Internal Friction / Entropy]
     C -->|Fragmentation| A
 
+    style V fill:#3d3d3d,stroke:#fff,color:#fff
     style A fill:#b00b1e,stroke:#fff,color:#fff
-    style B stroke:#b00b1e
-    style C stroke:#b00b1e
+    style C stroke:#b00b1e,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
 ### 2. The Safety Loop (Scaling)
