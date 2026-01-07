@@ -11,7 +11,9 @@ description: "The Red Wheelbarrow shows how meaning can emerge effortlessly from
 
 Today’s poem felt like another breath of fresh air.
 
-After reading two difficult, existentially heavy poems in a row, it’s easy to come away with the impression that poetry is primarily concerned with anxiety, melancholy, and philosophical struggle. Reading Ode on a Grecian Urn yesterday was refreshing precisely because of its optimism—its belief that beauty could still ground meaning. Today’s poem, The Red Wheelbarrow by William Carlos Williams, felt refreshing in a different way.
+After reading two difficult, existentially heavy poems in a row, it’s easy to come away with the impression that poetry is primarily concerned with anxiety, melancholy, and philosophical struggle. Reading Ode on a Grecian Urn yesterday was refreshing precisely because of its optimism—its belief that beauty could still ground meaning.
+
+Today’s poem, [**The Red Wheelbarrow**](https://www.poetryfoundation.org/poems/45502/the-red-wheelbarrow) by William Carlos Williams, felt refreshing in a different way.
 
 Where Keats offers transcendence, Williams offers attention.
 
