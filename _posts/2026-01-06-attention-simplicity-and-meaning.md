@@ -1,3 +1,14 @@
+---
+title: "So Much Depends: Attention, Simplicity, and Meaning in William Carlos Williams"
+date: 2026-01-06 09:00:00 +0000
+categories: [Mind, Culture]
+tags: [literature, williams, modernism, poem-a-day]
+pin: false
+math: false
+mermaid: false
+description: "The Red Wheelbarrow shows how meaning can emerge effortlessly from attention, simplicity, and place."
+---
+
 Today’s poem felt like another breath of fresh air.
 
 After reading two difficult, existentially heavy poems in a row, it’s easy to come away with the impression that poetry is primarily concerned with anxiety, melancholy, and philosophical struggle. Reading [Ode on a Grecian Urn]({% post_url 2026-01-05-beauty-as-ground %}) yesterday was refreshing precisely because of its optimism—its belief that **Beauty** could still ground **Meaning**.
