@@ -1,5 +1,5 @@
 ---
-title: "Sinek and The Architecture of Trust: Value Scaling vs. Value Entropy"
+title: "The Architecture of Trust: Value Scaling vs. Value Entropy"
 date: 2026-01-07 09:00:00 +0000
 categories: [Build, Management]
 tags: [leadership, org-design, sinek, thiel, scaling, enshittification]
