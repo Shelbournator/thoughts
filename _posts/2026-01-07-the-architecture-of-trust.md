@@ -15,28 +15,38 @@ From a systems perspective, this is not a moral distinction; it is a **resource 
 *   In **Danger Mode**, the brain reallocates resources to self-protection.
 *   In **Safety Mode**, the brain allocates resources to collaboration and long-term planning.
 
-We can visualize these as two distinct feedback loops that determine the operating efficiency of value scaling within the organization.
+We can visualize these as two distinct feedback loops.
+
+### 1. The Danger Loop (Entropy)
+In this state, the system is closed. Energy is consumed by internal friction (Siloing/Hoarding) rather than output.
 
 ```mermaid
 graph TD
-    subgraph "The Danger Loop (Value fragmentation)"
     A[Threat Perception] -->|Cortisol| B(Self-Protection)
     B -->|Siloing| C[Information Hoarding]
     C -->|Fragmentation| A
-    end
 
-    subgraph "The Safety Loop (Value scaling)"
+    style A fill:#b00b1e,stroke:#fff,color:#fff
+    style B stroke:#b00b1e
+    style C stroke:#b00b1e
+```
+
+### 2. The Safety Loop (Scaling)
+In this state, the system is open. Trust acts as the transmission layer that allows **Value Creation** (Input) to become **Value Scaling** (Output).
+
+```mermaid
+graph TD
     V[Value Creation] -->|Input| S(Sharing & Collaboration)
     X[Safety Perception] -->|Oxytocin| Y(Trust)
     Y -->|Amplification| S
     S -->|Transmission| Z[Value Scaling]
     Z -->|Cohesion| X
-    end
 
-    style A fill:#b00b1e,stroke:#fff
-    style X fill:#1a4d2e,stroke:#fff
+    style X fill:#1a4d2e,stroke:#fff,color:#fff
     style V fill:#3d3d3d,stroke:#fff,color:#fff
+    style Z stroke:#1a4d2e,stroke-width:2px
 ```
+
 For Sinek, these loops explain the difference between Servant Leadership and what we might call **Competitive Leadership**. One creates a foundation for value scaling; the other creates a foundation for internal politics.
 
 
