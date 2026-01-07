@@ -58,7 +58,7 @@ This is where Williams’ maxim really earns its keep. The wheelbarrow may be tr
 
 ## Conclusion
 
-What strikes me most is how effortless the meaning feels. Williams isn’t trying to convince us that the wheelbarrow **Matters**. He isn’t constructing an argument or gesturing toward something beyond it. He simply presents the thing, and trusts that **Attention** itself will do the work.
+What strikes me most is how effortless the meaning feels. Williams isn’t trying to convince us that the wheelbarrow **Matters**. He isn’t constructing an argument or gesturing toward something **Beyond It**. He simply presents the thing, and trusts that **Attention** itself will do the work.
 
 After the symbolic weight of Yeats and the existential strain of Eliot, this feels like both a rejection of their question and a kind of answer to it. Meaning doesn’t have to be excavated or justified. It doesn’t need to be relocated into Transcendence or Tradition.
 
