@@ -11,7 +11,7 @@ description: "The Red Wheelbarrow shows how meaning can emerge effortlessly from
 
 Today’s poem felt like another breath of fresh air.
 
-After reading two difficult, existentially heavy poems in a row, it’s easy to come away with the impression that poetry is primarily concerned with anxiety, melancholy, and philosophical struggle. Reading [Ode on a Grecian Urn]({% post_url 2026-01-05-beauty-as-ground %}) yesterday was refreshing precisely because of its optimism—its belief that **Beauty** could still ground **Meaning**.
+After reading two difficult, existentially heavy poems in a row, it’s easy to come away with the impression that poetry is primarily concerned with anxiety, melancholy, and philosophical struggle. Reading [Ode on a Grecian Urn]({% post_url 2026-01-05-the-hope-of-art %}) yesterday was refreshing precisely because of its optimism—its belief that **Beauty** could still ground **Meaning**.
 
 Today’s poem, [**The Red Wheelbarrow**](https://www.poetryfoundation.org/poems/45502/the-red-wheelbarrow) by William Carlos Williams, felt refreshing in a different way.
 
