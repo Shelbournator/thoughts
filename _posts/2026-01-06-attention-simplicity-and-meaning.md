@@ -34,7 +34,7 @@ Williams famously summarised his poetic philosophy with the phrase:
 
 Nowhere does that feel clearer than here. The poem contains no abstraction, no thesis, no attempt to tell us what to think. Whatever **Meaning** it has arises entirely from **the thing itself**, and from the act of **Attending to it**.
 
-The poem opens with the line “*so much depends upon*.” Like the openings of [Eliot]({% post_url 2026-01-03-the-utility-of-tradition %}) or [Yeats]({% post_url 2026-01-04-yeats-and-the-artificial %}), it is expansive—but unlike them, it is immediately **Concrete**.
+The poem opens with the line “*so much depends upon*.” Like the openings of [Eliot]({% post_url 2026-01-03-the-utility-of-tradition %}) or [Yeats]({% post_url 2026-01-04-the-architecture-of-meaning %}), it is expansive—but unlike them, it is immediately **Concrete**.
 
 To say that something depends upon something else is to suggest solidity, reliability, even necessity. It implies that this thing bears weight. There’s almost a nostalgic quality to the phrase, as though pointing to something foundational that we no longer properly notice. Why do we need to be reminded that so much depends upon it?
 
