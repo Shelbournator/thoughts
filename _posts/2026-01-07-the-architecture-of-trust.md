@@ -1,4 +1,4 @@
---
+---
 title: "Sinek and The Architecture of Trust: Value Scaling vs. Value Entropy"
 date: 2026-01-07 09:00:00 +0000
 categories: [Build, Management]
@@ -7,7 +7,7 @@ pin: false
 math: false
 mermaid: true
 description: "Fear creates internal friction. Trust creates a transmission layer. Why value cannot scale in 'Danger Mode'."
---
+---
 
 In *Leaders Eat Last*, Simon Sinek introduces a model of leadership based on a simple evolutionary premise: humans operate in one of two dominant **bio-social modes**.
 
