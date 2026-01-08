@@ -86,24 +86,6 @@ If I hadn't done this maintenance task, my first experience removing the rear wh
 
 By voluntarily engaging with the complexity now, I have reduced the "Shock" of a future failure. I have converted a potential crisis into a known procedure.
 
-## Conclusion
-
-## Conclusion: The Aristotelian Ladder
-
-Maintenance looks like a cost, but it is actually an investment in **System Knowledge**.
-
-Every time you touch the machine to clean it or fix a minor annoyance (like a squeak), you are climbing a hierarchy of knowledge that Aristotle outlined in his *Metaphysics*:
-
-1.  **The User (*Empeiria*):** Knows *that* it works. They treat the machine as a Black Box.
-2.  **The Operator (*Techne*):** Knows *how* it works. They can execute procedures to maintain the state of the system.
-3.  **The Architect (*Architekton*):** Knows *why* it works. They understand the **Telos** (purpose) and the constraints that dictated the design.
-
-Fixing the brake didn't make me a master mechanic, but it forced me to **reverse-engineer** the Architect's intent.
-
-I didn't just see a lever; I saw the specific trade-off between leverage, cable tension, and pad clearance. I stepped out of the role of the User and caught a glimpse of the engineering logic that holds the system together.
-
-Next time: The drive train starts making a grinding noise, and I learn the hard way about **Observability**.
-
 ## Conclusion: The Aristotelian Ladder
 
 Maintenance looks like a cost, but it is actually an investment in **System Knowledge**.
