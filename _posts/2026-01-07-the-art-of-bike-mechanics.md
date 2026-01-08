@@ -1,7 +1,7 @@
 ---
 title: "Zen and the Art of Bike Mechanics"
 date: 2026-01-07 09:00:00 +0000
-categories: [Craft, Bike Mechanics]
+categories: [Build, Bike Mechanics]
 tags: [maintenance, personal-finance, pirsig, cycling, skill-acquisition]
 pin: false
 math: false
