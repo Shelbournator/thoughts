@@ -1,7 +1,7 @@
 ---
 title: "The Protocol of Maintenance: Fighting Entropy and Squeaky Brakes"
 date: 2026-01-08 09:00:00 +0000
-categories: [Craft, Systems]
+categories: [Build, Bike Mechanics]
 tags: [maintenance, entropy, technical-debt, cycling, anti-fragility]
 pin: false
 math: false
