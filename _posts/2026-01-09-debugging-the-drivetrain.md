@@ -1,4 +1,3 @@
-
 ---
 title: "Debugging the Drivetrain: Tight Coupling and Root Cause Analysis"
 date: 2026-01-09 09:00:00 +0000
