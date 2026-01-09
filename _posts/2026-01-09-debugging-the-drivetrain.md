@@ -10,7 +10,7 @@ mermaid: true
 description: "A grinding noise led to a total system teardown. A lesson in tight coupling and why you cannot fix what you cannot measure."
 ---
 
-In my [previous post]({% post_url 2026-01-14-protocol-of-maintenance %}), I discussed the **"Happy Path"** of maintenance: cleaning, checking, and scheduled replacement.
+In my [previous post]({% post_url 2026-01-08-the-protocol-of-maintenance %}), I discussed the **"Happy Path"** of maintenance: cleaning, checking, and scheduled replacement.
 
 But systems rarely fail on the *happy path*.
 
