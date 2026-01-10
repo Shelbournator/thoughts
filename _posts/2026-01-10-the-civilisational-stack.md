@@ -1,4 +1,4 @@
----
+<img width="1200" height="1400" alt="image" src="https://github.com/user-attachments/assets/33a2eb6c-ae48-4516-bdf9-aa69c5713b29" />---
 title: "The Civilisational Stack: Value, Alignment, and the ROI of Education"
 date: 2026-01-10 09:00:00 +0000
 categories: [Mind, Systems]
@@ -17,7 +17,18 @@ The most provocative version of this argument comes from **Bryan Caplan** in *Th
 
 I am also sensitive to this view. When you look at the modern university system—bloated administrations, spiraling debt, and degree inflation—it is hard to argue that the institutional machinery is efficient at value creation.
 
-In this context, the "De Facto" mindset of the modern economy is rational: If you are going to spend money on education, you should focus on **ROI**. This leads immediately into a focus on **Hard Skills** (STEM), since this is the only sector that consistently delivers labor market utility ([meaningfully increasing lifetime earning potential](https://www.cnbc.com/2023/10/20/more-students-pursue-stem-degrees-because-of-high-paying-careers.html)). Otherwise, _skip university_. Or, so this argument goes.
+In some regions, like the Anglosphere, these costs tend to be paid by the students, usually via **Student Debt**. The rules around this debt can differ between countries, but Debt that doesn't increase Earning Potential is not a good CapEx.
+
+![Tuition fees - 2020-2021](/assets/img/graphs/tuition-fees.png)
+_Figure 1: In the Anglosphere, tuition fees are largely covered by students; in other Western countries they are paid for via tax. Source: OECD via Statistica via [Reddit](https://www.reddit.com/r/europe/comments/prw0y4/the_oecds_latest_education_at_a_glance_report_has/). _
+
+In other regions, Education is funded by tax, but _if anything_ that may make some taxpayers _even more_ concerned about the societal ROI for government spending.
+
+![Tuition fees - 2020-2021](/assets/img/graphs/tuition-fees.png)
+_Figure 2: Estimated expenditure on primary, second, and tertiary education across the OECD. Source: [OECD](https://oecdch.art/36603ad1d2)._
+expenditure-on-education
+
+In this context, the "De Facto" mindset of the modern economy is rational: If you are going to spend money on education, you should focus on **ROI**. This leads immediately into a focus on **Hard Skills** (STEM), since this is the only sector that consistently delivers labor market utility (using [meaningfully increasing lifetime earning potential](https://www.cnbc.com/2023/10/20/more-students-pursue-stem-degrees-because-of-high-paying-careers.html) as the proxy). Otherwise, _skip university_. Or, so this argument goes.
 
 Arguments that **Classical Liberal Education** is functionally useless soon follow. It doesn't help you ship code, balance a ledger, or build a bridge. It appears to be an expensive luxury: your knowledge of Plato might be good for signaling your upper-middle class status, but is it actually *useful*?
 
@@ -25,7 +36,7 @@ Arguments that **Classical Liberal Education** is functionally useless soon foll
 
 But on the other side, we have the argument I explored a previous [post]({% post_url 2026-01-03-the-utility-of-tradition %}) via Jeffrey Brenzel (former Dean of Admissions at Yale).
 
-Brenzel argues that the Canon offers **"Transformative Wisdom."** He suggests that reading the Classics isn't about acquiring facts (which have a shelf life), but about structuring the mind to handle complexity, judgement, and meaning. That the value we get from this stays with us throughout our lives (unlike knowledge of technical systems which may become redundant).
+Brenzel argues that the Canon offers **"Transformative Wisdom."** He suggests that reading the Classics isn't about acquiring facts (which have a shelf life), but about structuring the mind to handle complexity, judgement, and meaning. That the value we get from this stays with us throughout our lives (unlike knowledge of technical systems which may become redundant). He sees this as a foundational part of a University Education.
 
 This leaves us with a tension.
 *   **The Economist** implies that education should be efficient by mapping to immediate economic outputs.
@@ -189,3 +200,5 @@ Civilisation or culture isn’t just something out there, it’s something in he
 On a day-to-day basis, being educated at the **Operational Layer** is more likely to increase your _immediate_ earning potential. ML engineers working at Google or OpenAI are probably paid more than Turing was when he did his foundational work: that doesn’t mean that they are producing more value as such.
 
 My claim is this: even those very engineers are likely to be better at being engineers, better people, and better citizens, by having a better understanding of the deeper layers they’re operating in.
+
+What about the cost? The truth is, educationally, we live in a [post-scarcity](https://en.wikipedia.org/wiki/Post-scarcity) world: the vast majority of the classics are available as e-books completely free online. On YouTube, Coursera and other sites, you can find tier 1 lectures on almost any subject. Why aren't you grounding yourself?
