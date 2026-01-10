@@ -17,7 +17,7 @@ The most provocative version of this argument comes from **Bryan Caplan** in *Th
 
 I am also sensitive to this view. When you look at the modern university system—bloated administrations, spiraling debt, and degree inflation—it is hard to argue that the institutional machinery is efficient at value creation.
 
-In some regions, like the Anglosphere, these costs tend to be paid by the students, usually via **Student Debt**. The rules around this debt can differ between countries, but Debt that doesn't increase Earning Potential is not a good CapEx.
+In some regions, like the Anglosphere, these costs tend to be paid by the students, usually via **Student Debt**. The rules around this debt can differ between countries, but one questions whether Debt that doesn't increase Earning Potential is a good CapEx (Capital Expenditure).
 
 ![Tuition fees - 2020-2021](/assets/img/graphs/Statistics.jpeg){: style="display:block; margin-left:auto; margin-right:auto; width:50%" }
 _Figure 1: In the Anglosphere, tuition fees are largely covered by students; in other Western countries they are paid for via tax. Source: OECD via Statistica via [Wikipedia](https://en.wikipedia.org/wiki/File:Statistics.jpeg)._
