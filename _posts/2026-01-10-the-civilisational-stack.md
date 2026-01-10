@@ -172,7 +172,7 @@ graph TD
     style S3 fill:#1a4d2e,stroke:#fff,color:#fff
 ```
 
-A good computer scientist understands its grounding in logic, and a good logician understands its grounding in truth. When our systems of formal logic break down, the philosophical exploration of truth is the Emergent Complexity. Even the Conceptual Discovery space can break down sometimes, with us crashing back into the problem space.
+A good computer scientist understands its grounding in logic, and a good logician understands its grounding in truth. When our systems of formal logic break down, the philosophical exploration of truth is the Emergent Complexity. Even that can break down sometimes, with us crashing back into the problem space of meaning and existence.
 
 A computer scientist who understands math and logic understands the architecture of the field and the paradigm. It's not uncommon for modern universities to teach it without this, creating Operators, not Architects (in the abstract sense).
 
