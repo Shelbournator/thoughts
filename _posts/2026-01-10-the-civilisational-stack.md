@@ -26,7 +26,6 @@ In other regions, Education is funded by tax, but _if anything_ that may make so
 
 ![Educational Expenditure - 2021](/assets/img/graphs/expenditure-on-education.png){: style="display:block; margin-left:auto; margin-right:auto; width:150%" }
 _Figure 2: Estimated expenditure on primary, second, and tertiary education across the OECD. Source: [OECD](https://oecdch.art/36603ad1d2)._
-expenditure-on-education
 
 In this context, the "De Facto" mindset of the modern economy is rational: If you are going to spend money on education, you should focus on **ROI**. This leads immediately into a focus on **Hard Skills** (STEM), since this is the only sector that consistently delivers labor market utility (using [meaningfully increasing lifetime earning potential](https://www.cnbc.com/2023/10/20/more-students-pursue-stem-degrees-because-of-high-paying-careers.html) as the proxy). Otherwise, _skip university_. Or, so this argument goes.
 
