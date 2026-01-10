@@ -46,7 +46,7 @@ I think we can use this model to understand why we need both STEM (The Tools) an
 
 To visualize this, let's look at a concrete system we all interact with: **Democracy**.
 
-In my [bike maintenance post]({% post_url 2026-01-28-debugging-the-drivetrain %}), I described how a simple task (fixing a noise) revealed a hidden web of tight coupling (cable tension, indexing, limit screws). The **Emergent Complexity** forced me to deal with a different layer of the Bike Mechanics Stack.
+In my [bike maintenance post]({% post_url 2026-01-09-debugging-the-drivetrain %}), I described how a simple task (fixing a noise) revealed a hidden web of tight coupling (cable tension, indexing, limit screws). The **Emergent Complexity** forced me to deal with a different layer of the Bike Mechanics Stack.
 
 However, as long as the bike worked, that complexity was invisible. I just pedalled.
 
