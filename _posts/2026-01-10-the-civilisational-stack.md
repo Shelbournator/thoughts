@@ -17,7 +17,7 @@ The most provocative version of this argument comes from **Bryan Caplan** in *Th
 
 I am also sensitive to this view. When you look at the modern university system—bloated administrations, spiraling debt, and degree inflation—it is hard to argue that the institutional machinery is efficient at value creation.
 
-In this context, the "De Facto" mindset of the modern economy is rational: If you are going to spend money on education, you should focus on **ROI**. This leads immediately into a focus on **Hard Skills** (STEM), since this is the only sector that consistently delivers labor market utility ([meaningfully increasing lifetime earning potential])https://www.cnbc.com/2023/10/20/more-students-pursue-stem-degrees-because-of-high-paying-careers.html)). Otherwise, _skip university_. Or, so this argument goes.
+In this context, the "De Facto" mindset of the modern economy is rational: If you are going to spend money on education, you should focus on **ROI**. This leads immediately into a focus on **Hard Skills** (STEM), since this is the only sector that consistently delivers labor market utility ([meaningfully increasing lifetime earning potential])(https://www.cnbc.com/2023/10/20/more-students-pursue-stem-degrees-because-of-high-paying-careers.html)). Otherwise, _skip university_. Or, so this argument goes.
 
 Arguments that **Classical Liberal Education** is functionally useless soon follow. It doesn't help you ship code, balance a ledger, or build a bridge. It appears to be an expensive luxury: your knowledge of Plato might be good for signaling your upper-middle class status, but is it actually *useful*?
 
