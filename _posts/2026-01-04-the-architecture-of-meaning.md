@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Meaning: Yeats, Kant, and the Artificial"
 date: 2026-01-04 09:00:00 +0000
-categories: [Mind, Culture]
+categories: [Mind, Poem-a-Day]
 tags: [literature, yeats, philosophy, poem-a-day]
 pin: false
 math: false
