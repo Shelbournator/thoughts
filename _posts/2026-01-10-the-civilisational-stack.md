@@ -31,11 +31,11 @@ In this context, the "De Facto" mindset of the modern economy is rational: If yo
 
 Otherwise, _skip university_. Or, so this argument goes.
 
-Arguments that **Classical Liberal Education** is functionally useless soon follow. It doesn't help you ship code, balance a ledger, or build a bridge. It appears to be an expensive luxury: your knowledge of Plato might be good for signaling your upper-middle class status, but is it actually *useful*?
+Is **Classical Liberal Education** is functionally useless? It doesn't help you ship code, balance a ledger, or build a bridge. It appears to be an expensive luxury: your knowledge of Plato might be good for signaling your upper-middle class status, but is it actually *useful*?
 
 ### The Counter-Argument: Transformative Wisdom
 
-But on the other side, we have the argument I explored a previous [post]({% post_url 2026-01-03-the-utility-of-tradition %}) via Jeffrey Brenzel (former Dean of Admissions at Yale).
+On the other side, we have the argument I explored a previous [post]({% post_url 2026-01-03-the-utility-of-tradition %}) via Jeffrey Brenzel (former Dean of Admissions at Yale).
 
 Brenzel argues that the Canon offers **"Transformative Wisdom."** He suggests that reading the Classics isn't about acquiring facts (which have a shelf life), but about structuring the mind to handle complexity, judgement, and meaning. That the value we get from this stays with us throughout our lives (unlike knowledge of technical systems which may become redundant). He sees this as a foundational part of a University Education.
 
