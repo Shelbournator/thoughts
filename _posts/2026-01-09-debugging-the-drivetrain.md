@@ -1,7 +1,7 @@
 ---
 title: "Debugging the Drivetrain: Tight Coupling and Root Cause Analysis"
 date: 2026-01-09 09:00:00 +0000
-categories: [Craft, Systems]
+categories: [Build, Bike Mechanics]
 tags: [maintenance, debugging, systems-thinking, complexity, failure-analysis]
 pin: false
 math: false
