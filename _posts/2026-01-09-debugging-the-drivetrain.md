@@ -68,7 +68,7 @@ I had to reverse-engineer the shifter mechanism—a "Black Box" I had never open
 **The Good News:** I learned how to re-cable a bike. I built competence.
 **The Bad News:** I reassembled the system, took it for a test ride... and the crunching noise was still there.
 
-## The Real Failure: Lack of Observability
+## The Real Failure: [Mechanical Sympathy](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.concept.mechanical-sympathy.en.html)
 
 I had fixed the alignment. I had replaced the cable. The system was tuned perfectly.
 
@@ -79,7 +79,7 @@ This forced me to confront the gap in my tooling. I had stepped into a classic t
 My current hypothesis is **Chain Stretch**.
 As a chain wears, the pins degrade, and the chain physically lengthens. If it stretches too far, the rollers no longer fit perfectly between the teeth of the cogs. They grind.
 
-**The Problem:** I cannot confirm this hypothesis because I lack **Observability**. I do not own a **Chain Checker Tool** (£5).
+**The Problem:** I cannot easily confirm this hypothesis because I lack **Observability**. I do not own a **Chain Checker Tool** (£5).
 
 Because I was not measuring the wear, I was stuck guessing. In hindsight, **Chain Stretch** is the more obvious answer since it's a consumable.
 
@@ -89,7 +89,7 @@ Without educated intuition, observability is even more important: when learning 
 
 ## The Cost of Blindness
 
-This lack of observability is expensive. It forces me to solve problems by "throwing parts at them" rather than targeting the **Root Cause**.
+This lack of observability or intuition is expensive. It forces me to solve problems by "throwing parts at them" rather than targeting the **Root Cause**.
 
 *   If I had the tool, I could rule out chain wear in 10 seconds.
 *   Without the tool, I assumed the worst case (though there *are* other ways of checking).
