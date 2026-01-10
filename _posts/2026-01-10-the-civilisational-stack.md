@@ -95,7 +95,7 @@ For forty years, the UK's relationship with the EU was a stable background proce
 The act of voting felt like a standard input. But unlike most Democratic user inputs, this decision had **write access** to the deeper layers of the British political system.
 
 ![Brexit.exe](/assets/img/graphs/brexit-error-window.png)
-_Figure 1: One wonders if the results might have been different if this warning dialogue box had popped up._
+_Figure 3: One wonders if the results might have been different if this warning dialogue box had popped up._
 
 The entire nation was forced to transition from **Operator** to **Architect**. Voting was no longer using the system: it was making system design decisions. Complexity had emerged, whether we were ready to deal with it or not.
 
@@ -116,7 +116,7 @@ Understanding the nested system (n) from an architectural perspective requires k
 In software architecture, the set of nested sub-systems that make up a platform is often called a **Stack**.
 
 ![The Modern Software Stack](/assets/img/graphs/software-stack-diagram.png)
-_Figure 2: The nested complexity of modern software. Source: ByteByteGo._
+_Figure 4: The nested complexity of modern software. Source: ByteByteGo._
 
 If we look at programming languages, we see that Higher-Level languages like Python and JavaScript are usually nested within Lower-Level languages like C# via libraries and compilers. Lower-Level languages are nested within machine code that speaks directly to the hardware.
 
