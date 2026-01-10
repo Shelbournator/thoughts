@@ -19,12 +19,12 @@ I am also sensitive to this view. When you look at the modern university systemâ
 
 In some regions, like the Anglosphere, these costs tend to be paid by the students, usually via **Student Debt**. The rules around this debt can differ between countries, but Debt that doesn't increase Earning Potential is not a good CapEx.
 
-![Tuition fees - 2020-2021](/assets/img/graphs/tuition-fees.png)
-_Figure 1: In the Anglosphere, tuition fees are largely covered by students; in other Western countries they are paid for via tax. Source: OECD via Statistica via [Reddit](https://www.reddit.com/r/europe/comments/prw0y4/the_oecds_latest_education_at_a_glance_report_has/). _
+![Tuition fees - 2020-2021](/assets/img/graphs/Statistics.jpeg)
+_Figure 1: In the Anglosphere, tuition fees are largely covered by students; in other Western countries they are paid for via tax. Source: OECD via Statistica via [Wikipedia](https://en.wikipedia.org/wiki/File:Statistics.jpeg). _
 
 In other regions, Education is funded by tax, but _if anything_ that may make some taxpayers _even more_ concerned about the societal ROI for government spending.
 
-![Tuition fees - 2020-2021](/assets/img/graphs/tuition-fees.png)
+![Educational Expenditure - 2021](/assets/img/graphs/expenditure-on-education.png)
 _Figure 2: Estimated expenditure on primary, second, and tertiary education across the OECD. Source: [OECD](https://oecdch.art/36603ad1d2)._
 expenditure-on-education
 
