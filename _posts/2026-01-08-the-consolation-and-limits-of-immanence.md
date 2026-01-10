@@ -1,7 +1,7 @@
 ---
 title: "No Ideas but in Things? The Consolation and Limits of Immanence"
 date: 2026-01-08 09:00:00 +0000
-categories: [Mind, Culture]
+categories: [Mind, Culture, Poem-a-Day]
 tags: [literature, williams, modernism, poem-a-day]
 pin: false
 math: false
