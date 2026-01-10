@@ -1,6 +1,6 @@
 ---
 title: "The Civilisational Stack: Value, Alignment, and the ROI of Education"
-date: 2026-02-14 09:00:00 +0000
+date: 2026-01-10 09:00:00 +0000
 categories: [Mind, Systems]
 tags: [education, mental-models, architecture, philosophy, systems-thinking, complexity]
 pin: false
