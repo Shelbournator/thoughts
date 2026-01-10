@@ -1,4 +1,4 @@
-<img width="1200" height="1400" alt="image" src="https://github.com/user-attachments/assets/33a2eb6c-ae48-4516-bdf9-aa69c5713b29" />---
+---
 title: "The Civilisational Stack: Value, Alignment, and the ROI of Education"
 date: 2026-01-10 09:00:00 +0000
 categories: [Mind, Systems]
