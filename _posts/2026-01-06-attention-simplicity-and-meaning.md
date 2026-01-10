@@ -1,7 +1,7 @@
 ---
 title: "So Much Depends: Attention, Simplicity, and Meaning in William Carlos Williams"
 date: 2026-01-06 09:00:00 +0000
-categories: [Mind, Culture]
+categories: [Mind, Poem-a-Day]
 tags: [literature, williams, modernism, poem-a-day]
 pin: false
 math: false
