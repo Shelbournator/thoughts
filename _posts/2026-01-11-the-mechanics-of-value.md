@@ -81,17 +81,17 @@ Finally, there is the leverage of **Protocols**. The **Shipping Container** didn
 What makes these force multipliers powerful is that they are **Scale Invariant**. The physics of leverage apply whether you are optimizing a single life or a G7 economy.
 
 ### 1. The Nation (The UK)
-As I explored in the [UK Transmission Problem]({% post_url 2025-12-17-uk-transmission-problem %}), the UK has high Production (DeepMind) but low Scaling. It lacks the **Transmission Layer**—the "Boat and Nets" of capital investment and management capability—required to turn raw ideas into broad economic surplus.
+As I explored in the [UK Transmission Problem]({% post_url 2025-12-16-uk-transmission-problem %}), the UK has high Production (DeepMind) but low Scaling. It lacks the **Transmission Layer**—the "Boat and Nets" of capital investment and management capability—required to turn raw ideas into broad economic surplus.
 
 ### 2. The Capability (The SAS)
-David Stirling didn't scale the [SAS]({% post_url 2025-12-24-asymmetry-of-value %}) by simply adding more soldiers (Linear). He scaled it by changing the **Operating Model**.
+David Stirling didn't scale the [SAS]({% post_url 2025-12-24-engineering-the-special-forces %}) by simply adding more soldiers (Linear). He scaled it by changing the **Operating Model**.
 
 *   He used **Selection** (People as CapEx) and **Autonomy** (Management as Technology) to create a unit where small inputs produced asymmetric outputs. Thus creating a **Specialised Capability** (The Pin Factory).
 *   He designed an **Interface** with the Regular Army to protect the Leverage and ensure Alignment with the desired outcomes (The API).
 *   He **Standardised** the type of problem and the playbook, rather than the solution, to turn the SAS into a blueprint for Special Forces that could be scaled geometrically.
 
 ### 3. The Individual (Competence)
-On a physical level, my recent [bike maintenance project]({% post_url 2026-01-07-maintenance-as-knowing %}) was an attempt to move from OpEx to CapEx. By buying tools and learning skills, I am trading upfront effort for long-term **Anti-Fragility**. I am building a personal "Boat" that reduces my dependency on the "Fishing Rods" of public transport.
+On a physical level, my recent [bike maintenance project]({% post_url 2026-01-08-the-protocol-of-maintenance %}) was an attempt to move from OpEx to CapEx. By buying tools and learning skills, I am trading upfront effort for long-term **Anti-Fragility**. I am building a personal "Boat" that reduces my dependency on the "Fishing Rods" of public transport.
 
 But this applies equally to professional skills.
 
