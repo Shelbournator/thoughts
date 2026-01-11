@@ -129,25 +129,25 @@ The day-to-day system of democracy is nested in a parent system of institutions,
 
 In truth, the Civilisational Stack is far more complicated than this nested systems model, but this is sufficient for our purposes.
 
-**1. Civilisational Problem Space**
+**Layer 0. Civilisational Problem Space (Constraints)**
 : Fundamental constraints and pressures any society must operate within: biology, mortality, cognition, scarcity, violence, coordination, status, desire, fear, and meaning-seeking.
 
-**2. Civilisational Solution Space (Conceptual Discovery)**
+**Layer 1. Civilisational Solution Space (Conceptual Discovery)**
 : The space in which models for coping with, understanding, and responding to constraints are developed: moral frameworks, political theories, cosmologies, notions of justice, authority, truth, personhood, and value. *(This is where the Canon primarily lives.)*
 
-**3. Civilisational Architectural Space (Cultural Runtime)**
+**Layer 2. Civilisational Architectural Space (Cultural Runtime)**
 : Stabilised assumptions and defaults selected from the solution space and made implicit: norms, legitimacy structures, moral intuitions, expectations, time horizons, trust models, and “how things are done.”
 
-**4. Disciplines & Paradigms (Epistemic Frameworks)**
+**Layer 3. Disciplines & Paradigms (Epistemic Frameworks)**
 : Formalised ways of carving reality into intelligible domains: medicine, law, economics, engineering, science, psychology. These define what counts as knowledge, evidence, success, and failure within a domain.
 
-**5. Institutional Engineering Space (Implementation & Scaling)**
+**Layer 4. Institutional Engineering Space (Implementation & Scaling)**
 : Concrete systems that operationalise disciplines within cultural constraints: states, courts, hospitals, universities, markets, corporations, churches.
 
-**6. Roles & Outputs (Operational Layer)**
+**Layer 5. Roles & Outputs (Operational Layer)**
 : Professions, jobs, policies, technologies, goods, and services produced by institutions and disciplines interacting with reality.
 
-**7. Lived Experience (Phenomenological Layer)**
+**6. Lived Experience (Phenomenological Layer)**
 : How the system is experienced by individuals: objects, identity, dignity, suffering, aspiration, alienation, belonging, meaning.
 
 ### Tracing the Stack: The AI Case Study
@@ -200,6 +200,8 @@ Civilisation or culture isn’t just something out there, it’s something in he
 
 On a day-to-day basis, being educated at the **Operational Layer** is more likely to increase your _immediate_ earning potential. ML engineers working at Google or OpenAI are probably paid more than Turing was when he did his foundational work: that doesn’t mean that they are producing more value as such.
 
-My claim is this: even those very engineers are likely to be better at being engineers, better people, and better citizens, by having a better understanding of the deeper layers they’re operating in.
+What about the cost? The truth is, educationally, we live in a [post-scarcity](https://en.wikipedia.org/wiki/Post-scarcity) world: the vast majority of the classics are available as e-books completely free online. On YouTube, Coursera and other sites, you can find tier 1 lectures on almost any subject.
 
-What about the cost? The truth is, educationally, we live in a [post-scarcity](https://en.wikipedia.org/wiki/Post-scarcity) world: the vast majority of the classics are available as e-books completely free online. On YouTube, Coursera and other sites, you can find tier 1 lectures on almost any subject. Why aren't you grounding yourself?
+_Ceteris paribus_ (all things equal), I probably _would_ advise people to focus their formal education towards STEM subjects. ROI is a crucial consideration. But I see **STEM Knowledge** and **Civilisational Knowledge** as fundamentally Complementary.
+
+My claim is this: even those very engineers are likely to be better at being engineers, better people, and better citizens, by having a better understanding of the deeper layers they’re operating in.
