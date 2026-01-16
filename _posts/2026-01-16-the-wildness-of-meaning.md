@@ -13,7 +13,7 @@ Today’s poem was **Wild Geese** by Mary Oliver, and it felt immediately as tho
 
 I’m not sure whether this says something fundamental about poetry itself—that a large proportion of poems are inevitably drawn toward questions of meaning, nature, and perception—or whether it reflects a bias in what ChatGPT tends to surface, particularly from American poetry. Maybe I’ll deliberately ask for something very different next time. But that doesn’t take away from how much I enjoyed *Wild Geese*. I enjoyed it immensely.
 
-For me, the poem felt like a meeting point between two earlier strands. On the one hand, it carries something recognisably **Wordsworthian**: the sense that nature, perceived rightly, holds transcendence within it. On the other hand, it shares a directness and clarity that reminded me of [William Carlos Williams]({% post_url 2026-01-06-so-much-depends %})—a refusal to over-intellectualise, a grounding of meaning in lived experience rather than abstraction.
+For me, the poem felt like a meeting point between two earlier strands. On the one hand, it carries something recognisably **Wordsworthian**: the sense that nature, perceived rightly, holds transcendence within it. On the other hand, it shares a directness and clarity that reminded me of [William Carlos Williams]({% post_url 2026-01-08-the-consolation-and-limits-of-immanence %})—a refusal to over-intellectualise, a grounding of meaning in lived experience rather than abstraction.
 
 But Oliver is also doing something distinct, and more explicit.
 
@@ -61,7 +61,7 @@ The poem then makes a crucial shift:
 > Tell me about your despair, yours, and I will tell you mine.
 > Meanwhile the world goes on.
 
-Despair is acknowledged, even shared—but it is decisively de-centred. This feels very different from [Eliot]({% post_url 2026-01-03-the-utility-of-tradition %}) or [Yeats]({% post_url 2026-01-04-yeats-and-the-artificial %}), where despair threatens to become cosmically significant. Oliver does not deny despair; she relativises it. Everyone has it. It does not define you. And it does not stop the world.
+Despair is acknowledged, even shared—but it is decisively de-centred. This feels very different from [Eliot]({% post_url 2026-01-03-the-utility-of-tradition %}) or [Yeats]({% post_url 2026-01-04-the-architecture-of-meaning %}), where despair threatens to become cosmically significant. Oliver does not deny despair; she relativises it. Everyone has it. It does not define you. And it does not stop the world.
 
 Nature continues regardless:
 
