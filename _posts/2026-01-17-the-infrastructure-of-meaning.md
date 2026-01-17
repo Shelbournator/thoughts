@@ -146,7 +146,7 @@ Emerson shows us how to find meaning in a red wheelbarrow. This is vital for the
 
 But Nietzsche warns us that a civilization cannot run on wheelbarrows alone. It requires an architecture of abstract coordination.
 
-![The Cup and the Aqueduct](/assets/img/graphs/cup-vs-aqueduct.png)
+![The Cup and the Aqueduct](/assets/img/graphs/cup-vs-aqueduct.png){: style="display:block; margin-left:auto; margin-right:auto; width:25%" }
 _Figure 1: The Immanent vs. The Structural. The individual needs the immediate relief of the cup (Emerson), but the civilization requires the engineering of the aqueduct (Nietzsche) to survive at scale._
 
 Poetry sits in the space between them—preserving access to immanent meaning while abstract systems strain under loads they were never designed to carry.
