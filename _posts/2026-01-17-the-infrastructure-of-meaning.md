@@ -1,7 +1,7 @@
 ---
 title: "The Infrastructure of Meaning: Nietzsche, Emerson, and the Civilizational Stack"
 date: 2026-01-17 09:00:00 +0000
-categories: [Mind, Systems]
+categories: [Systems, Civilisation]
 tags: [philosophy, nietzsche, emerson, poetry, systems-thinking, complexity]
 pin: false
 math: false
@@ -27,7 +27,7 @@ The **How** concerns execution within a system. The **Why** concerns the meaning
 
 ## Upstream vs. Downstream
 
-In my [Civilizational Stack]({% post_url 2026-02-10-the-civilizational-stack %}) post, I looked at why modern societies rationally push people toward STEM subjects. These disciplines produce clear material outcomes and measurable ROI.
+In my [Civilizational Stack]({% post_url 2026-01-10-the-civilisational-stack %}) post, I looked at why modern societies rationally push people toward STEM subjects. These disciplines produce clear material outcomes and measurable ROI.
 
 But structurally, STEM fields sit downstream. They are nested systems, built on top of broader conceptual foundations that they do not themselves interrogate.
 
