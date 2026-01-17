@@ -1,6 +1,6 @@
 ---
 title: "The Infrastructure of Meaning: Nietzsche, Emerson, and the Civilizational Stack"
-date: 2026-03-05 09:00:00 +0000
+date: 2026-01-17 09:00:00 +0000
 categories: [Mind, Systems]
 tags: [philosophy, nietzsche, emerson, poetry, systems-thinking, complexity]
 pin: false
