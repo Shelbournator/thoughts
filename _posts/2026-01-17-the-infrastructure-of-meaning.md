@@ -134,9 +134,12 @@ At that point, Truth must function **above** individual perspective. It must bec
 
 The Civil War is what happens when that shared grounding fails.
 
-Emerson himself struggled with this question and eventually disavowed some of pure individualism embedded in the Trascendentalist movement in favour of becoming an Abolitionist. Nietzsche's thinking would come to be aped by the Nazis, and one of his followers, Heidegger, would be a card carrying Nazi.
+Emerson himself recognized this scaling limit. Under the pressure of slavery, he pivoted from the pure individualism of the Transcendentalists to the collective moral absolute of Abolitionism. He acknowledged that some structural problems cannot be solved by the self alone.
 
-Most scholars agree that Nietzsche would not have been a Nazi: he wrote scathingly of German nationalism and enjoyed learning about other cultures, including French. However, one cannot help but feel that Nazism is somewhat of a failure mode of this way of thinking. When one opens up the moral foundations of civilisation for re-examination, it is very possible that something _worse_ may emerge.
+Nietzsche illustrates the opposite risk.
+
+While Nietzsche personally detested German nationalism, his architecture was co-opted by the Nazis and validated by followers like Heidegger. This is the catastrophic failure mode of the Deep Refactor.
+When you dismantle the load-bearing moral foundations of a civilization for re-examination, you remove the guardrails. You create the possibility of a better architecture, but you also open a vacuum. History shows that what fills that vacuum is often worse than what was removed.
 
 ## Conclusion
 
