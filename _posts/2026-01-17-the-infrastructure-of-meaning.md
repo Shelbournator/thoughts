@@ -134,6 +134,10 @@ At that point, Truth must function **above** individual perspective. It must bec
 
 The Civil War is what happens when that shared grounding fails.
 
+Emerson himself struggled with this question and eventually disavowed some of pure individualism embedded in the Trascendentalist movement in favour of becoming an Abolitionist. Nietzsche's thinking would come to be aped by the Nazis, and one of his followers, Heidegger, would be a card carrying Nazi.
+
+Most scholars agree that Nietzsche would not have been a Nazi: he wrote scathingly of German nationalism and enjoyed learning about other cultures, including French. However, one cannot help but feel that Nazism is somewhat of a failure mode of this way of thinking. When one opens up the moral foundations of civilisation for re-examination, it is very possible that something _worse_ may emerge.
+
 ## Conclusion
 
 The modern "Post-Truth" era is not primarily about lying. It is about the erosion of Truth’s role as a shared, transcendent ground.
