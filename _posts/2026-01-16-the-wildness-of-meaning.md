@@ -9,7 +9,7 @@ mermaid: false
 description: "Mary Oliver’s Wild Geese offers a consoling synthesis of immanence and transcendence—but raises questions about human-made meaning, concern, and home."
 ---
 
-Today’s poem was **Wild Geese** by Mary Oliver, and it felt immediately as though it belonged in the same ongoing conversation as the other poems I’ve been reading.
+Today’s poem was [**Wild Geese**](https://allpoetry.com/poem/15374223-Wild-geese-by-Mary-J-Oliver) by Mary Oliver, and it felt immediately as though it belonged in the same ongoing conversation as the other poems I’ve been reading.
 
 I’m not sure whether this says something fundamental about poetry itself—that a large proportion of poems are inevitably drawn toward questions of meaning, nature, and perception—or whether it reflects a bias in what ChatGPT tends to surface, particularly from American poetry. Maybe I’ll deliberately ask for something very different next time. But that doesn’t take away from how much I enjoyed *Wild Geese*. I enjoyed it immensely.
 
