@@ -155,7 +155,7 @@ This is a structural error. **Problem Definition is a Strategic Skill.**
 
 ### The Trap of Hindsight
 
-The difficulty of this judgment is obscured by **Hindsight Bias**.
+The difficulty of this judgment is obscured by [**Hindsight Bias**](https://en.wikipedia.org/wiki/Hindsight_bias)..
 
 Once a problem has been framed correctly (e.g., "This is an aortic aneurysm"), the solution path becomes linear and obvious. The ambiguity vanishes.
 
@@ -179,7 +179,7 @@ Because we only see the path that *was* taken, we forget the cost of finding it.
 
 When a team executes beautifully on a well-framed problem, they get the credit. When a team flails on an ill-framed problem, they get the blame. Rarely do we look upstream and ask: *Who defined the problem?*
 
-Our brains are actually systematically bad at remembering how difficult certain problems were solve once we know the solution. This is called the [Hindsight Bias](https://en.wikipedia.org/wiki/Hindsight_bias).
+Our brains are actually systematically bad at remembering how difficult certain problems were solve once we know the solution: Hindsight Bias.
 
 If an organization consistently attributes success to execution rather than framing, it learns the wrong lesson. It invests in scaling delivery capacity (adding more engineers/salespeople) while under-investing in the upstream capability (Strategic Architectural Judgement).
 
