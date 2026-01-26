@@ -105,7 +105,7 @@ Before the logic is articulated, the reframing looks weird. It doesn't fit the [
 The moment a problem is successfully reframed, the *previous* confusion evaporates. The solution appears inevitable. The "Search Space" that was ruled out (the 99% of bad options) becomes invisible. The SAS became the blue-print for modern Special Forces.
 
 This creates an **Attribution Error**:
-1.  **Framing (Phase 1):** High Value, Low Visibility. It looks like "thinking" or "talking."
+1.  **Framing (Phase 1):** Asymmetric Value, Low Visibility. It looks like "thinking" or "talking."
 2.  **Execution (Phase 2):** Linear Value, High Visibility. It looks like "work" (shipping code, closing deals).
 
 ```mermaid
