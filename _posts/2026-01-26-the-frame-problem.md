@@ -9,7 +9,7 @@ mermaid: true
 description: "Why smart teams get stuck on ill-defined problems, and why 'Lateral Thinking' is actually a mechanism for reducing search space."
 ---
 
-Some problems are harder to solve that they should be.
+Some problems are harder to solve than they should be.
 
 They're not just complex, exactly. More: resistant, awkward, oddly shaped. Ambiguous.
 
