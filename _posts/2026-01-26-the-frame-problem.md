@@ -76,7 +76,7 @@ A **Good Framing** collapses the **Search Space**. It turns an intractable probl
 graph TD
     subgraph "Well-Defined (Framed)"
     X[Start] --> Y{The Frame}
-    Y -->|Constraint Applied| Z[Target Search Space]
+    Y -->|Constraint Applied| Z[Targeted Search Space (Limited)]
     Z --> W[Solution]
     end
 
