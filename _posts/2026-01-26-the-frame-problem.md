@@ -17,7 +17,9 @@ I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-t
 
 We see the same pattern in personal and professional life; we see it across teams and organisations. Understanding the problem is often harder than solving it. 
 
-What’s missing isn’t execution; it's **Clarity**. Without it, there’s back-and-forth, partial fixes, and inefficiency.
+What’s missing isn’t execution; it's **Clarity**.
+
+Without it? Back-and-forth, partial fixes, and inefficiency.
 
 ## Ill-Defined Problems and Combinatorial Explosion
 
