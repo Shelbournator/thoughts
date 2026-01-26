@@ -161,6 +161,8 @@ Once a problem has been framed correctly (e.g., "This is an aortic aneurysm"), t
 
 This creates the attribution illusion. We look back at history—or a failed project—and say, "It was obvious what they should have done." We forget that before the frame was applied, the search space was near-infinite.
 
+The causes of WW2 are obvious and avoidable. The sports team manager shouldn't have subbed on that player. The bug in our system was caused by the Virtualization/Hypervisor layer.
+
 We see this in cognitive science puzzles like the **Candle Problem**.
 
 -   **The Setup:** You are given a candle, a box of thumbtacks, and matches. You must attach the candle to the wall so it doesn't drip wax.
