@@ -15,7 +15,7 @@ They're not just complex, exactly. More: resistant, awkward, oddly shaped. Ambig
 
 I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a problem (derailleur alignment), but it wasn't the real problem.
 
-We see the same pattern in personal and professional life; we see it across teams and organisations. Understanding the problem is often hard than solving it. 
+We see the same pattern in personal and professional life; we see it across teams and organisations. Understanding the problem is often harder than solving it. 
 
 What’s missing isn’t execution; it's **Clarity**. Without it, there’s back-and-forth, partial fixes, and inefficiency.
 
