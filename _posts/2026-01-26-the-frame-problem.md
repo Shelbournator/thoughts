@@ -9,11 +9,15 @@ mermaid: true
 description: "Why smart teams get stuck on ill-defined problems, and why 'Lateral Thinking' is actually a mechanism for reducing search space."
 ---
 
-Some problems are harder to sovle that they should be. They're not complex, exactly-just resistant awkward, oddly shaped. Ambiguous.
+Some problems are harder to sovle that they should be.
 
-I ran into an ambiguous problem recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I had a plausible solution (derailleur alignment), but the more I applied it, the less confident I became. The issue wasn’t effort or tools; it was orientation. I was solving *something*, but I didn’t yet understand what kind of problem I had.
+It's not just that they're not complex, exactly. More: resistant, awkward, oddly shaped. Ambiguous.
 
-That same pattern shows up constantly in organisations. A recurring issue bounces between teams. There’s back-and-forth, partial fixes, and long threads. Everyone is competent. Work is being done. But the problem keeps resurfacing.
+I ran into an ambiguous problem recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a plausible solution (derailleur alignment), only to realise that probably wasn't the problem. The issue wasn’t effort or tools; it was orientation.
+
+This same pattern shows up consistently across problem solving in different domains: our personal and professional lives, as teams, and as organisations.
+
+When it happens in business, there’s back-and-forth, partial fixes, and long threads. Everyone is competent. Work is being done. But the problem keeps resurfacing.
 
 What’s missing isn’t execution; it's **Clarity**.
 
