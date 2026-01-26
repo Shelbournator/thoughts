@@ -13,11 +13,11 @@ Some problems are harder to solve that they should be.
 
 They're not just complex, exactly. More: resistant, awkward, oddly shaped. Ambiguous.
 
-I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a plausible solution (derailleur alignment), only to realise that probably wasn't the problem. The issue wasn’t effort or tools; it was orientation.
+I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a solution (derailleur alignment), but it wasn't the real problem. The issue wasn’t effort or tools; it was orientation.
 
-This same pattern shows up consistently across problem solving in different domains: our personal and professional lives, as teams, and as organisations.
+This same pattern shows up consistently in different domains: personal and professional; as teams, and as organisations. Understanding the problem is often harder than solving.
 
-When it happens in business, there’s back-and-forth, partial fixes, and long threads. Everyone is competent. Work is being done. But the problem keeps resurfacing.
+In business, there’s back-and-forth, partial fixes, and long threads. Everyone is competent. Work is being done. But the problem keeps resurfacing.
 
 What’s missing isn’t execution; it's **Clarity**.
 
