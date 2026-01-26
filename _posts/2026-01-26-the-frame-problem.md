@@ -13,7 +13,7 @@ Some problems are harder to solve than they should be.
 
 They're not just complex, exactly. More: resistant, awkward, oddly shaped. Ambiguous.
 
-I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a solution (derailleur alignment), but that wasn't the real problem.
+I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a problem (derailleur alignment), but it wasn't the real problem.
 
 We see the same pattern in personal and professional life; we see it across teams and organisations. Understanding the problem is often hard than solving it. 
 
