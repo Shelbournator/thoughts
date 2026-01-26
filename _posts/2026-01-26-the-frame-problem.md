@@ -9,11 +9,11 @@ mermaid: true
 description: "Why smart teams get stuck on ill-defined problems, and why 'Lateral Thinking' is actually a mechanism for reducing search space."
 ---
 
-Some problems are harder to sovle that they should be.
+Some problems are harder to solve that they should be.
 
-It's not just that they're not complex, exactly. More: resistant, awkward, oddly shaped. Ambiguous.
+They're not just complex, exactly. More: resistant, awkward, oddly shaped. Ambiguous.
 
-I ran into an ambiguous problem recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a plausible solution (derailleur alignment), only to realise that probably wasn't the problem. The issue wasn’t effort or tools; it was orientation.
+I ran into one recently when [fixing my bike]({% post_url 2026-01-09-debugging-the-drivetrain %}). I spent lots of time fixing a plausible solution (derailleur alignment), only to realise that probably wasn't the problem. The issue wasn’t effort or tools; it was orientation.
 
 This same pattern shows up consistently across problem solving in different domains: our personal and professional lives, as teams, and as organisations.
 
