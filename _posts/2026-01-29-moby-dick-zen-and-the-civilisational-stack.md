@@ -10,9 +10,11 @@ description: "Debugging the Civilizational Stack. Why Total Meaning (Ahab) and N
 
 I've been thinking about the hidden architecture of meaning.
 
-In my piece on [The Civilizational Stack]({% post_url 2026-01-10-the-civilisational-stack %}), I described the **Nested Systems** that sit beneath the user interface of our culture. At the lowest level, this stack shapes the conditions of intelligibility: how the world, each other, and we ourselves come to feel real. Not only in the transcendent or analytical sense, but also in the poetic, immersive sense of being inside a living world rather than standing outside it.
+In my piece on [The Civilizational Stack]({% post_url 2026-01-10-the-civilisational-stack %}), I described the **Nested Systems** that sit beneath the user interface of our culture. At the lowest level, this stack shapes the conditions of intelligibility: what makes the world, each other, and ourselves feel real.
 
-But the system is throwing errors. Some modern thinkers in the Western tradition warn that the load-bearing components of our architecture are in danger of collapsing. Others point to *this feeling itself* being the bug, rather than the symptom.
+Not only in the transcendent or analytical sense, but also in the poetic, immersive sense of being inside a living world rather than standing outside it.
+
+But what if the system is throwing errors? Some modern thinkers in the Western tradition warn that the load-bearing components of our architecture are in danger of collapsing. Others point to *this feeling itself* being the bug, rather than the symptom.
 
 This is how Nietzsche and Emerson, respectively, attempted to patch this layer. But the topic demands we circle back. Heidegger called this the *hermeneutischer Zirkel*—the hermeneutic circle. By revisiting the central question from different angles, we allow the structure to reveal itself to us.
 
