@@ -1,6 +1,6 @@
 ---
 title: "Moby Dick, Zen, and the Civilizational Stack"
-date: 2026-01-30 09:00:00 +0000
+date: 2026-01-29 09:00:00 +0000
 categories: [Systems, Civilisation]
 tags: [civilizational-stack, meaning, nietzsche, heidegger, zen, architecture]
 toc: true
