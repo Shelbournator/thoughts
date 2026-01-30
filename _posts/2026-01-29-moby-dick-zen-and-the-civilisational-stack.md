@@ -18,7 +18,7 @@ But what if the Nest of Systems is throwing errors? Some modern thinkers in the 
 
 This is how Nietzsche and Emerson, respectively, attempted to patch this layer. But the topic demands we circle back. Heidegger called this the *hermeneutischer Zirkel*—the hermeneutic circle. By revisiting the central question from different angles, we allow the structure to reveal itself to us.
 
-This post continues the debugging log of the Western mind. We will trace three distinct attempts to repair our meaning-making machinery—from Melville’s diagnosis of "Total Meaning," to Heidegger’s attempt at an ontological refactor (and its parallels with Zen), and finally to the architectural limits of the Beat generation.
+This post continues the debugging log of the Western mind. We will trace three distinct attempts to repair our meaniang-making machinery—from Melville’s diagnosis of "Total Meaning," to Heidegger’s attempt at an ontological refactor (and its parallels with Zen), and finally to the architectural limits of the Beat generation.
 
 ## I. Ahab and the Failure of Monolithic Meaning
 
