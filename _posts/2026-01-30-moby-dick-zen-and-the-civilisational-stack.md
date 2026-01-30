@@ -27,9 +27,9 @@ Ahab’s fixation on the White Whale is exclusive. Everything else—friendship,
 
 This mirrors the industrial logic of whaling itself. To the industry, the whale is a unit of oil. To Ahab, the whale is a unit of metaphysical malice. Both views are **Instrumental**: they treat the world not as something to be inhabited, but as a locked door to be pierced.
 
-> [!WARNING]
 > **The Monolithic Error**
 > Once meaning takes the totalised form, it becomes violent—not because it is evil, but because it is overburdened. By demanding that one thing explain everything, Ahab renders the rest of the world invisible.
+> {: .prompt-warning }
 
 ### Ishmael: The Distributed Network
 Melville contrasts Ahab’s monomania with Ishmael’s **Pluralism**.
