@@ -320,8 +320,9 @@ This requires a shift in strategy.
 
 The lesson from Heidegger and Zen is that we can change how we inhabit the world without destroying the world itself.
 
-> [!TIP]
 > **The Engineering Principle**
+>
 > **Reorientation** is almost always preferable to **Rebuilding from the Ground Up**.
+{: .prompt-tip }
 
 It is safer, more robust, and more human to adjust our posture toward the architecture than to tear the architecture down, but that doesn’t mean we should be any less ambitious in Refactoring it for the Future.
