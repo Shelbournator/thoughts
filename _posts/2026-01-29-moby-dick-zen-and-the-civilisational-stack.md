@@ -54,13 +54,10 @@ Ishmael operates a *Distributed Network* of meaning, where nodes are loosely cou
 
 Crucially, he is open to *both* transcendence and immanence. He finds meaning in the scientific transcendence of objectivity—viewing objects in terms of pure facts. He finds meaning in the transcendence of Christian theology, oriented toward a power greater than the self. He finds meaning in the rituals of Queequeg and Polynesian life. But he also finds immanent meaning and enjoyment in the emergent rituals of the whaling ship itself—even in whale sperm. In his relationships with Queequeg and the other sailors. Everywhere he looks, the world remains meaningful—even in Ahab’s quest for the White Whale.
 
-> Squeeze! squeeze! squeeze! all the morning long; I squeezed that sperm till I myself almost melted into it; I squeezed that sperm till a strange sort of insanity came over me; and I found myself unwittingly squeezing my co-laborers’ hands in it, mistaking their hands > for the gentle globules. Such an abounding, affectionate, friendly, loving feeling did this avocation beget; that at last I was continually squeezing their hands, and looking up into their eyes sentimentally; as much as to say,- Oh! my dear fellow beings, why should > we longer cherish any social acerbities, or know the slightest ill-humor or envy! Come; let us squeeze hands all round; nay, let us all squeeze ourselves into each other; let us squeeze ourselves universally into the very milk and sperm of kindness.
+> Squeeze! squeeze! squeeze! all the morning long; I squeezed that sperm till I myself almost melted into it; I squeezed that sperm till a strange sort of insanity came over me... Such an abounding, affectionate, friendly, loving feeling did this avocation beget; that at last I was continually squeezing their hands, and looking up into their eyes sentimentally; as much as to say,- Oh! my dear fellow beings... let us squeeze ourselves universally into the very milk and sperm of kindness.
 > 
 > **Immanent meaning in Chapter 94. Ishmael transforms the profane industrial task of squeezing sperm into a vision of universal brotherhood.**
 {: .prompt-info }
-
-
-> **A strange scene in Chapter 94 of Moby-Dick sees Ishmael find a spirituo-religious escacy in the job of squeezing out whale sperm. Even in this most profane and strange of tasks can Ishmael find meaning.
 
 ### The Failure Mode: Substitution vs. Decentering
 
