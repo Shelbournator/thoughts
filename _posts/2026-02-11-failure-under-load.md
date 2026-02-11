@@ -66,20 +66,22 @@ When **Failure Under Load** happens, we are forced to suddenly rely on our **Pla
 
 ```mermaid
 graph TD
-    "High Level Model (The Map)"
+  subgraph "High Level Model (The Map)"
     A[Flat Tire] -->|Apply Fix| B[Resolved]
-    end
+  end
 
-    style A fill:#3d3d3d,stroke:#fff
+  style A fill:#3d3d3d,stroke:#fff,color:#fff
+```
 
+```mermaid
 graph TD
-  "Low Level Reality (The Territory)"
+  subgraph "Low Level Reality (The Territory)"
     X[Flat Tire] -->|Valve Interface Error| Y{Foam Explosion}
     Y -->|Panic| Z[High Stress Manual Fix]
     Z -->|Leverage Constraint| W[Stuck Tire Bead]
-    end
+  end
 
-    style Y fill:#b00b1e,stroke:#fff
+  style Y fill:#b00b1e,stroke:#fff,color:#fff
 ```
 
 Eventually I abandoned the quick fix and committed to doing the job properly—watching YouTube tutorials by the side of the road and consulting LLMs to figure out how to remove a tire for the first time. Luckily, I had already removed a [wheel]({% post_url 2026-01-08-the-protocol-of-maintenance %}).
