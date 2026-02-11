@@ -27,8 +27,8 @@ But this is a classic case of **Deceptive Simplicity** and **Emergent Complexity
 Systems appear simple only while they are working. Their complexity stays hidden until you need to actually do something with them.
 
 My mental model was:
-*   **Tire** $\rightarrow$ **Inner tube** $\rightarrow$ **Air**
-*   **Flat** $\rightarrow$ **Replace tube** $\rightarrow$ **Done**
+*   **Tire** → **Inner tube** → **Air**
+*   **Flat** → **Replace tube** → **Done**
 
 An abstraction that works perfectly _in theory_.
 
