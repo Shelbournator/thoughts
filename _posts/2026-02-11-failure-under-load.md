@@ -173,32 +173,30 @@ Soft tires increase rolling resistance and change the geometry of the bike under
 
 ```mermaid
 graph TD
-    A[<i>Crunching Noise</i>]
-    
+    A[Crunching Noise]
+
     subgraph "The Rabbit Hole (Complexity)"
-    B[Derailleur Alignment]
-    C[Chain Stretch]
-    D[Cable Tension]
+      B[Derailleur Alignment]
+      C[Chain Stretch]
+      D[Cable Tension]
     end
-    
+
     subgraph "The Reality (Fundamentals)"
-    E[<b>Tire Pressure</b><br><i>System Dampening</i>]
+      E[Tire Pressure\nSystem Dampening]
     end
 
     A -.->|My Intuition| B
     A -.->|My Intuition| C
     A -.->|My Intuition| D
-    
+
     E -->|Symptom| A
     E -->|Root Cause| F[Pinch Flat]
 
-    %% Green for the Correct Reality
     style E fill:#1a4d2e,stroke:#fff,color:#fff
-    
-    %% Red for the Incorrect Intuition
     style B fill:#662222,stroke:#fff,color:#fff
     style C fill:#662222,stroke:#fff,color:#fff
     style D fill:#662222,stroke:#fff,color:#fff
+
 ```
 
 I had framed the problem as “high-tech complexity” when it was really “low-tech fundamentals.”
