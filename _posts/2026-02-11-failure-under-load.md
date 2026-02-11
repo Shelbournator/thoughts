@@ -80,7 +80,7 @@ graph TD
     style Y fill:#b00b1e,stroke:#fff
 ```
 
-Eventually I abandoned the quick fix and committed to doing the job properly—watching YouTube tutorials by the side of the road and consulting LLMs to figure out how to remove a tire for the first time. Luckily, I had already removed a [wheel](link to post).
+Eventually I abandoned the quick fix and committed to doing the job properly—watching YouTube tutorials by the side of the road and consulting LLMs to figure out how to remove a tire for the first time. Luckily, I had already removed a [wheel](% post_url 2026-01-08-the-protocol-of-maintenance %).
 
 **The Lesson:** Theoretical knowledge structures the problem, but only **tactical knowledge** (muscle memory, leverage points, practical sequencing) solves it. It is hard to download tactical knowledge; you have to earn it through friction.
 
