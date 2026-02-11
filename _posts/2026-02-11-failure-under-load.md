@@ -181,7 +181,7 @@ graph TD
       D[Cable Tension]
     end
 
-    subgraph "The Reality (Fundamentals)"
+    subgraph "The Reality (Root Cause)"
       E[Tire Pressure\nSystem Dampening]
     end
 
@@ -190,7 +190,7 @@ graph TD
     A -.->|My Intuition| D
 
     E -->|Symptom| A
-    E -->|Root Cause| F[Pinch Flat]
+    E -->|Symptom| F[Pinch Flat]
 
     style E fill:#1a4d2e,stroke:#fff,color:#fff
     style B fill:#662222,stroke:#fff,color:#fff
