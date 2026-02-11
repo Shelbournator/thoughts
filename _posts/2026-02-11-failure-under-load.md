@@ -182,7 +182,7 @@ graph TD
     end
 
     subgraph "The Reality (Root Cause)"
-      E[Tire Pressure\nSystem Dampening]
+      E[Tire Pressure<br>System Dampening]
     end
 
     A -.->|My Intuition| B
