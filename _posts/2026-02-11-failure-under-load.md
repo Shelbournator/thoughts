@@ -66,17 +66,19 @@ When **Failure Under Load** happens, we are forced to suddenly rely on our **Pla
 
 ```mermaid
 graph TD
-    subgraph "High Level Model (The Map)"
+    "High Level Model (The Map)"
     A[Flat Tire] -->|Apply Fix| B[Resolved]
     end
 
-    subgraph "Low Level Reality (The Territory)"
+    style A fill:#3d3d3d,stroke:#fff
+
+graph TD
+  "Low Level Reality (The Territory)"
     X[Flat Tire] -->|Valve Interface Error| Y{Foam Explosion}
     Y -->|Panic| Z[High Stress Manual Fix]
     Z -->|Leverage Constraint| W[Stuck Tire Bead]
     end
 
-    style A fill:#3d3d3d,stroke:#fff
     style Y fill:#b00b1e,stroke:#fff
 ```
 
