@@ -1,4 +1,15 @@
-oday’s poem was [The Bear by Galway Kinnell](https://www.poetryfoundation.org/poems/42679/the-bear), and it immediately unsettled me.
+---
+title: "The Bear: Primal Meaning and the Necessity of Transcendence"
+date: 2026-02-16 09:00:00 +0000
+categories: [Mind, Culture]
+tags: [literature, galway-kinnell, poetry, poem-a-day]
+pin: false
+math: false
+mermaid: false
+description: "Galway Kinnell’s The Bear strips away consolation and forces the question of transcendence through shared suffering and survival."
+---
+
+Today’s poem was [The Bear by Galway Kinnell](https://www.poetryfoundation.org/poems/42679/the-bear), and it immediately unsettled me.
 
 *The Bear* follows a hungry hunter in the depths of winter tracking, eating, and eventually *inhabiting* a wounded bear. The setting creates a liminality: it happens at the edges of human consciousness, where the brute need for survival against the elements overwhelms everything else.
 
