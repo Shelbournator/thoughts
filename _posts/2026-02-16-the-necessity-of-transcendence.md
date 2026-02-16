@@ -1,7 +1,7 @@
 ---
 title: "The Bear: Primal Meaning and the Necessity of Transcendence"
 date: 2026-02-16 09:00:00 +0000
-categories: [Mind, Culture]
+categories: [Mind, Poem-a-Day]
 tags: [literature, galway-kinnell, poetry, poem-a-day]
 pin: false
 math: false
