@@ -30,7 +30,42 @@ Individuals are a stacked network of components in the same way as nations. At t
 
 These are not independent. They form a hierarchy of causal leverage. We can model indiviudals in the same way.
 
-#### First Order — Tools (Value Production) - What can you do?
+```mermaid
+    subgraph Macro ["The Nation (Macro)"]
+        M3["<b>Layer 3: Institutional Environment</b><br><i>Scaling Constraints</i>"]
+        M2["<b>Layer 2: Managerial Coordination</b><br><i>Resource Allocation</i>"]
+        M1["<b>Layer 1: Capital Investment</b><br><i>Production Capacity</i>"]
+        
+        M3 --> M2
+        M2 --> M1
+    end
+
+    subgraph Micro ["The Individual (Micro)"]
+        I3["<b>Layer 3: Environment</b><br><i>Scaling Multipliers</i>"]
+        I2["<b>Layer 2: Alignment</b><br><i>Allocative Efficiency</i>"]
+        I1["<b>Layer 1: Capabilities</b><br><i>Value Production</i>"]
+        
+        I3 --> I2
+        I2 --> I1
+    end
+
+    %% Structural Mapping
+    M3 -.-|Maps to| I3
+    M2 -.-|Maps to| I2
+    M1 -.-|Maps to| I1
+
+    %% Styling
+    style I3 fill:#1a4d2e,stroke:#fff,color:#fff
+    style I2 fill:#1a4d2e,stroke:#fff,color:#fff
+    style I1 fill:#1a4d2e,stroke:#fff,color:#fff
+    
+    style M3 fill:#3d3d3d,stroke:#fff,color:#fff
+    style M2 fill:#3d3d3d,stroke:#fff,color:#fff
+    style M1 fill:#3d3d3d,stroke:#fff,color:#fff
+   ```
+Each of these is crucial for increasing **productive leverage**, so let's break them down further.
+
+#### First Order — Capabilities (Value Production) - What can you do?
 This layer determines baseline productive capacity. Examples include:
 *   Technical skills
 *   Habits and execution reliability
@@ -39,7 +74,7 @@ This layer determines baseline productive capacity. Examples include:
 
 In economic terms, this is your **direct production function** — the rate at which inputs (time, effort) convert into outputs. Investment at this layer increases output **linearly**, because it is constrained by time.
 
-#### Second Order — Allocation (Value Alignment) - What does it create?
+#### Second Order — Allocation (Value Alignment) - What do you create?
 This layer determines where production is directed. It includes:
 *   Problem selection
 *   Comparative advantage recognition
