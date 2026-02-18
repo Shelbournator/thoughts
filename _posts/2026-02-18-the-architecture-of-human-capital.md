@@ -31,6 +31,7 @@ Individuals are a stacked network of components in the same way as nations. At t
 These are not independent. They form a hierarchy of causal leverage. We can model indiviudals in the same way.
 
 ```mermaid
+graph TD
     subgraph Macro ["The Nation (Macro)"]
         M3["<b>Layer 3: Institutional Environment</b><br><i>Scaling Constraints</i>"]
         M2["<b>Layer 2: Managerial Coordination</b><br><i>Resource Allocation</i>"]
