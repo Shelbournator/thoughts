@@ -14,7 +14,7 @@ This is analytically convenient, but structurally misleading.
 
 If we want to understand how individuals generate economic value — and how that capacity can be deliberately increased — we need a model that treats human capital not as a quantity, but as a **system**.
 
-Civilisation scales through [stacks]({% post_url 2026-01-10-the-civilisational-stack}). So do [organizations]({% post_url 2025-12-28-operating-systems-at-scale %}). So do [teams]({% post_url 2026-01-16-the-architecture-of-enablement %}). So do [individuals]({% post_url 2026-01-07-the-architecture-of-trust %}). The architecture of value creation is fractal: each layer nests within a higher-order constraint and governs the performance of the layer below. Human capital, properly understood, is not a collection of skills but a structured system embedded within larger systems.
+Civilisation scales through [stacks]({% post_url 2026-01-10-the-civilisational-stack %}). So do [organizations]({% post_url 2025-12-28-operating-systems-at-scale %}). So do [teams]({% post_url 2026-01-16-the-architecture-of-enablement %}). So do [individuals]({% post_url 2026-01-07-the-architecture-of-trust %}). The architecture of value creation is fractal: each layer nests within a higher-order constraint and governs the performance of the layer below. Human capital, properly understood, is not a collection of skills but a structured system embedded within larger systems.
 
 The relevant question is not: *How can I grow?*
 It is: **How can I increase my productive leverage?**
