@@ -30,7 +30,7 @@ At the macroeconomic level, productivity differences between nations are largely
 
 These are not independent. They form a hierarchy of causal leverage. The same hierarchy appears at the level of the individual.
 
-### First Order — Tools (Value Production)
+### First Order — Tools (Value Production) - What can you do?
 This layer determines baseline productive capacity. Examples include:
 *   Technical skills
 *   Habits and execution reliability
@@ -39,7 +39,7 @@ This layer determines baseline productive capacity. Examples include:
 
 In economic terms, this is your **direct production function** — the rate at which inputs (time, effort) convert into outputs. Investment at this layer increases output **linearly**, because it is constrained by time.
 
-### Second Order — Allocation (Value Alignment)
+### Second Order — Allocation (Value Alignment) - What does it create?
 This layer determines where production is directed. It includes:
 *   Problem selection
 *   Comparative advantage recognition
@@ -50,7 +50,7 @@ Two individuals with identical productive capacity can generate radically differ
 
 Increasing first-order capacity without second-order alignment is equivalent to scaling a mispriced asset: output rises, value does not.
 
-### Third Order — Environmental Multipliers (Value Scaling)
+### Third Order — Environmental Multipliers (Value Scaling) - Where are you doing it?
 This layer determines how strongly output is amplified. Examples:
 *   Industry growth rate
 *   Institutional infrastructure
