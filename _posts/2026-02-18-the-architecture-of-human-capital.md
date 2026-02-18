@@ -23,12 +23,12 @@ That requires decomposing human capital into its functional components and under
 
 ## I. Orders of Productive Effect
 
-At the macroeconomic level, productivity differences between nations are largely explained by three variables:
+Individuals are a stacked network of components in the same way as nations. At the macroeconomic level, productivity differences between nations are largely explained by three variables:
 *   Capital investment
 *   Managerial coordination
 *   Institutional environment
 
-These are not independent. They form a hierarchy of causal leverage. The same hierarchy appears at the level of the individual.
+These are not independent. They form a hierarchy of causal leverage. We can model indiviudals in the same way.
 
 ### First Order — Tools (Value Production) - What can you do?
 This layer determines baseline productive capacity. Examples include:
