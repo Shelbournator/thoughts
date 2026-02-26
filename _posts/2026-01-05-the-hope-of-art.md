@@ -1,7 +1,7 @@
 ---
 title: "Beauty as Ground: Keats and the Hope of Art"
 date: 2026-01-05 09:00:00 +0000
-categories: [Mind, Poem-a-Day]
+categories: [Being, Poem-a-Day]
 tags: [literature, keats, romanticism, poem-a-day]
 pin: false
 math: false
