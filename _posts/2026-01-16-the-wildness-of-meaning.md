@@ -1,7 +1,7 @@
 ---
 title: "Mary Oliver: The Wildness of Meaning"
 date: 2026-01-16 09:00:00 +0000
-categories: [Mind, Poem-a-Day]
+categories: [Being, Poem-a-Day]
 tags: [literature, mary-oliver, poetry, poem-a-day]
 pin: false
 math: false
