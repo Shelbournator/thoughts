@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Human Capital: Hardware, Software, and Fractal Scaling"
 date: 2026-02-18 09:00:00 +0000
-categories: [Systems, Mind]
+categories: [Systems, Economics]
 tags: [human-capital, economics, career, scaling, systems-thinking]
 toc: true
 mermaid: true
