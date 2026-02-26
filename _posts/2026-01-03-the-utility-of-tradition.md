@@ -1,7 +1,7 @@
 ---
 title: "The Utility of Tradition: Why Innovation Needs the Past"
 date: 2026-01-03 09:00:00 +0000
-categories: [Mind, Poem-a-Day]
+categories: [Being, Poem-a-Day]
 tags: [mental-models, literature, strategy, education, poem-a-day]
 pin: false
 math: false
