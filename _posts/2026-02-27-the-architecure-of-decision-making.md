@@ -186,9 +186,12 @@ Life becomes less dramatic. The "crises" that used to consume attention—bad de
 
 Improved decision-making, whether in personal life or professional, is one of the highest leverage areas. Decisions and framing are where assymetric value lives.
 
-As the system heals, the time horizon expands.
-*   The unhealthy system is trapped in the **Present**, reacting to the pain of previous bad decisions.
-*   The healthy system lives in the **Future**, planting seeds that will compound into options, resources, and freedom.
+Rationality is a meta-skill: a skill which improves other skills _and itself_. This means the returns are compounding.
+* The right choices put you on the right trajectories
+* The right trajectories expose you to the right information to improve your map
+* An improved map of reality improves your ability to make the right choices
+
+In other words, it improves our ability to learn the right skills, which circles back to the systemic health of decision-making capacities.
 
 For historical reasons, some people view rationality negatively: seeing it as about becoming "a robot", and "sucking the fun out of life". In practice, rationality is something we should all care about as much as we should about being healthy.
 
