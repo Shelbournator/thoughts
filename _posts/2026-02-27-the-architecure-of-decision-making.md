@@ -16,7 +16,7 @@ In my analysis of [Human Capital]({% post_url 2026-02-18-the-architecture-of-hum
 
 **Rationality is the Deepening of our Decision-Making and Understanding Capabilities.**
 
-It is not a "tool" you use to solve logic puzzles. It is a **System Property**. It is the structural integrity of your cognition—the degree to which your map matches the territory, and your actions match your goals.
+It is not a "tool" you use to solve logic puzzles. It is a **System Property**. It is the structural integrity of your cognition—the degree to which your understanding and decision-making machinery is capable of creating maps which match the territory, and actions which fulfil your goals.
 
 When the system is healthy, it helps us solve the **Allocation Problem** well. It ensures that your scarce resources (time, capital, energy) are directed toward high-value targets rather than just being spent efficiently on low-value ones.
 
