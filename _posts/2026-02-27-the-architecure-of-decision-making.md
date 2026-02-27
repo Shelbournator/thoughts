@@ -12,7 +12,7 @@ We obsess over **Optimization**. We hack our sleep, refine our workflows, and tr
 
 But optimizing components does not guarantee a functioning system. You can have high-performance parts (Intelligence, Energy, Skills) that fail to produce value because they lack **Coherence**.
 
-In my analysis of [Human Capital]({% post_url 2026-02-18-architecture-of-human-capital %}), I distinguished between **Accumulation** (adding skills) and **Deepening** (increasing leverage).
+In my analysis of [Human Capital]({% post_url 2026-02-18-the-architecture-of-human-capital %}), I distinguished between **Accumulation** (adding skills) and **Deepening** (increasing leverage).
 
 **Rationality is the Deepening of our Decision-Making and Understanding Capabilities.**
 
