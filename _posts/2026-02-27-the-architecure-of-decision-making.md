@@ -110,7 +110,7 @@ Cognitive science has shown that the human mind runs on "Legacy Code"—biases l
 
 It doesn't feel nice to be wrong. Even if objectively the best thing would be to correct our beliefs, we fear losing social status by acknowledging mistakes. The system prioritizes **Defense** over **Accuracy**. Without an active Third Order to override this default setting, the system defaults to protecting the ego rather than finding the truth.
 
-Let's dig further into each of these levels.
+Understanding these levels and how they interact is crucial for understanding Rationality as an interaction _between_ the levels.
 
 ### Level 1: First-Order Capacities (Components)
 These are the raw inputs.
