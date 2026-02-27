@@ -184,7 +184,7 @@ When a person begins to improve the health of their decision-making system, the 
 
 Life becomes less dramatic. The "crises" that used to consume attention—bad debt, toxic relationships, avoidable errors—start to fade, not because the world has become safer, but because the navigation system has stopped steering into rocks.
 
-Something similar happens in businesses: when 
+Improved decision-making, whether in personal life or professional, is one of the highest leverage areas. Decisions and framing are where assymetric value lives.
 
 As the system heals, the time horizon expands.
 *   The unhealthy system is trapped in the **Present**, reacting to the pain of previous bad decisions.
