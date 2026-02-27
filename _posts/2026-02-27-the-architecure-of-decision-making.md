@@ -1,4 +1,3 @@
-
 ---
 title: "Rationality as a System Property: The Architecture of Decision Making"
 date: 2026-02-27 17:00:00 +0000
@@ -9,13 +8,17 @@ mermaid: true
 description: "Rationality is not a trait; it is the systemic health of your belief and decision-making cognition. Mapping the three orders of high-quality decision making."
 ---
 
-We obsess over **Productivity**. We hack our sleep, optimize our workflows, and try to squeeze more output from every hour.
+We obsess over **Optimization**. We hack our sleep, refine our workflows, and try to squeeze more efficiency out of our days.
 
-Productivity is important, but it's a **Scalar**: it has magnitude, but no direction. You can be incredibly productive at digging a hole in the wrong place.
+But optimizing components does not guarantee a functioning system. You can have high-performance parts (Intelligence, Energy, Skills) that fail to produce value because they lack **Coherence**.
 
-**Rationality is the Vector.** It provides the direction.
+In my analysis of [Human Capital]({% post_url 2026-02-20-architecture-of-human-capital %}), I distinguished between **Accumulation** (adding skills) and **Deepening** (increasing leverage).
 
-Fundamental to agency—our ability to intentionally shape our lives—is **Decision-Making**. By making better decisions, we allocate our scarce resources (time, capital, energy) more effectively.
+**Rationality is the Deepening of our Decision-Making and Understanding Capabilities.**
+
+It is not a "tool" you use to solve logic puzzles. It is a **System Property**. It is the structural integrity of your cognition—the degree to which your map matches the territory, and your actions match your goals.
+
+When the system is healthy, it helps us solve the **Allocation Problem** well. It ensures that your scarce resources (time, capital, energy) are directed toward high-value targets rather than just being spent efficiently on low-value ones.
 
 Decisions are the highest-leverage points in a life. A single decision, made at the right time, acts as a fulcrum that alters the trajectory of an entire future.
 *   What to study.
@@ -23,7 +26,7 @@ Decisions are the highest-leverage points in a life. A single decision, made at 
 *   Who to partner with.
 *   Where to live.
 
-Across situations, the ability to make high-quality decisions is the most critical capacity a person can have—especially under time pressure and uncertainty.
+Across situations, the ability to make high-quality decisions—to maintain the integrity of the system under load—is the most critical capacity a person can have.
 
 Informally, we call this art **Rationality**.
 
