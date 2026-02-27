@@ -1,6 +1,6 @@
 ---
 title: "Rationality as a System Property: The Architecture of Decision Making"
-date: 2026-02-27 17:00:00 +0000
+date: 2026-02-27 12:00:00 +0000
 categories: [Systems, Cognition]
 tags: [rationality, decision-making, mental-models, systems-thinking, agency]
 toc: true
