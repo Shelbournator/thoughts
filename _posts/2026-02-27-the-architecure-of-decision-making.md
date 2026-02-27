@@ -78,15 +78,15 @@ Rationality has an analogous structure. It is the **Systemic Health** of belief-
 
 ```mermaid
 graph TD
-    subgraph "Level 3: Adaptation (The Architect)"
+    subgraph "Level 3: Adaptation"
     L3["<b>Reflection</b><br><i>Monitoring & Self-Correction</i>"]
     end
 
-    subgraph "Level 2: Regulation (The Manager)"
+    subgraph "Level 2: Regulation"
     L2["<b>Reasoning</b><br><i>Logic constrains Evidence</i>"]
     end
 
-    subgraph "Level 1: Capacity (The Worker)"
+    subgraph "Level 1: Capacity"
     L1["<b>Cognitive Capacities</b><br><i>Perception, Memory, Inference</i>"]
     end
 
