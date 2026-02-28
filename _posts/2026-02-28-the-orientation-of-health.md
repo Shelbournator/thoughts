@@ -9,13 +9,15 @@ mermaid: true
 ---
 The error began, as errors often do, with a loss of origin.
 
-When I first started going to the gym, the room was often empty. It was a calm, almost relaxing experience. My muscles appreciated really being used. Being in the gym almost felt like meditation. It reminded me of the days when I used to do yoga every day.
+I now know how rare this is, but when I first started going to the gym, the room was often empty. This made it a calm, almost relaxing experience. After a relatively sedentary life, my muscles really being used. Being in the gym was a great mix of: making progress of my life goals, my body feeling great, and a quiet place for my mind. The closest thing it reminded me of were the days when I used to do yoga every day.
 
-I would walk home from the session a few hours later and feel a sense of clarity in my mind and perception. Colours would be brighter, sharper. The night sky would draw me in with the sharp moon and stars twinkling mysteriously.
+I would walk home from the gym session a few hours later and feel a sense of clarity in my mind and perception. Colours would be brighter, sharper. The night sky would draw me in with the sharp moon and stars twinkling mysteriously.
 
-That feeling had a history.
+That feeling had a history. It was nostalgic to me.
 
-In my mid-twenties, I took a career break and went travelling to Australia. Early on, I worked on a small holding in the rainforest area of the southwest in New South Wales. It wasn't commercial; the family grew food to feed themselves.
+### I. The Origin
+
+In my twenties, I took a career break and went travelling to Australia. Early on, I worked on a small holding in the rainforest area of the southwest in New South Wales. It wasn't commercial; the family grew food to feed themselves.
 
 There were three people living on the farm, a couple and their friend, but one stood out. The husband had a quiet sort of confidence and gravitas. When he took me on a tour of the farm, he moved with a calm energy. He was an ex-rugby player, but he was also a yoga instructor.
 
