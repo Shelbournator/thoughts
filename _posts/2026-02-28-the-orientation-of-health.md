@@ -5,11 +5,8 @@ categories: [Being, Health]
 tags: [orientation, wisdom, mental-models, health, agency]
 toc: true
 mermaid: true
-description: "Rationality is not a trait; it is the systemic health of your belief and decision-making cognition. Mapping the three orders of high-quality decision making."
 
 ---
-### I. Orientation
-
 The error began, as errors often do, with a loss of origin.
 
 When I first started going to the gym, the room was often empty. It was a calm, almost relaxing experience. My muscles appreciated really being used. Being in the gym almost felt like meditation. It reminded me of the days when I used to do yoga every day.
