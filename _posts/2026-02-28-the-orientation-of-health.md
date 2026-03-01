@@ -86,7 +86,7 @@ I could lift heavier weights (unit test passed). I could run 5k (unit test passe
 
 ### IV. The Integration Test
 
-Around this time, I decided to shift to calisthenics. This was part of a [broader shift]({% post_url 2026-01-07-the-art-of-bike-mechanics %}) to move away from machines and towards self-reliant and anti-fragile systems. Calisthenics forced me to think from first principles.
+Around this time, I decided to shift to calisthenics. This was part of a [broader shift]({% post_url 2026-01-07-the-art-of-bike-mechanics %}) to move away from external systems and towards self-reliant and anti-fragile systems. Calisthenics forced me to think from first principles.
 
 Pull-ups are fundamental to calisthenics. I started working toward one.
 
