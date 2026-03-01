@@ -100,7 +100,7 @@ And my geometry was wrong.
 
 Gym work-outs can suffer from **Component Bias**. We focus on exercises which improve particular components, rather than compound exercises which work the workflow of muscles and movements. 
 
-Back to my shoulder: the underlying issue, once I finally understood what I was looking at, was entirely mundane. It was probably the result of mild kyphosis and lordosis. These are the classic structural adaptations of a body that spends too much time in chairs—the upper back rounds forward, the shoulders slump inward, and the lower back over-arches to compensate. It is the physical manifestation of a sedentary lifestyle.
+The underlying issue, once I finally understood it, was entirely mundane. It was probably the result of mild kyphosis and lordosis. These are the classic structural adaptations of a body that spends too much time in chairs—the upper back rounds forward, the shoulders slump inward, and the lower back over-arches to compensate. It is the physical manifestation of a sedentary lifestyle.
 
 The traditional gym exercises I had been doing for five years had completely failed to prevent or rehabilitate this structural drift. I had been building muscle, but I was building it on top of a compromised frame. In systems terms, I had been scaling the application layer while the infrastructure itself was warping to the shape of an office desk. By loading heavy weights onto a misaligned spine, the routine hadn't fixed the foundational problem; it had merely entrenched it.
 
