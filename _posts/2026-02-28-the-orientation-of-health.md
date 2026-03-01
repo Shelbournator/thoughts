@@ -60,7 +60,7 @@ The routine he gave me was highly optimised. Lots of exercises, training to fail
 
 In hindsight, I think made an architectural error. I thought I was simply updating a protocol—swapping one set of exercises for another at the application layer. In reality, I was accidentally overwriting deeper levels of the infrastructure. The new protocol was grounded in a fundamentally different orientation. I had done the equivalent of a meaning subsidy.
 
-In a previous post, I wrote about the danger of [Undocumented Implicit Primitives[({% post_url 2026-01-29-moby-dick-zen-and-the-civilisational-stack %})—the load-bearing assumptions a civilization relies on but never explicitly names. The exact same thing can happen in an individual life.
+In a previous post, I wrote about the danger of [Undocumented Implicit Primitives]({% post_url 2026-01-29-moby-dick-zen-and-the-civilisational-stack %})—the load-bearing assumptions a civilization relies on but never explicitly names. The exact same thing can happen in an individual life.
 
 My original orientation toward self-respect and groundedness was functioning well. But in discursive terms, it wasn't completely legible. It wasn't explicit to me. I hadn't articulated why the quiet gym felt so restorative; I just knew that it did. Because that meaning hadn't fully sedimented into infrastructure—because I didn't have the language to defend it—it was highly vulnerable.
 
