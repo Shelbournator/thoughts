@@ -46,6 +46,8 @@ It worked. I made progress. But more than the progress, it built that quality I 
 
 The routine provided a protocol. It translated a fundamental orientation—of self-respect, of being grounded, of caring for your body and yourself—into concrete, repeatable actions.
 
+So what went wrong?
+
 The drift happened slowly. A friend of mine started selling personalised training routines. He asked what my goals were.
 
 I said: _building muscle_.
