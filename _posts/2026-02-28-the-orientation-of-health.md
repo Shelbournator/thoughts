@@ -70,7 +70,7 @@ Because the true purpose of the practice hadn't been made explicit to myself, th
 
 Strength increased. Muscle mass increased. These were easy to measure, easy to compare. But the original meaning receded, not because I deliberately rejected it, but because a legible metric will always crowd out an illegible feeling.
 
-It seem technical. It seeemed effective. This was _the right way_ of going to the gym.
+It seem technical. It seemed effective. This was _the right way_ of going to the gym.
 
 It was only later, after a year or more, without the yoga I had done for years, that I felt my muscles were getting stiffer. My flexibility was reducing. And I still had a bad shoulder.
 
