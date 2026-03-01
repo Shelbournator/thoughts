@@ -86,7 +86,7 @@ I could lift heavier weights (unit test passed). I could run 5k (unit test passe
 
 ### IV. The Integration Test
 
-Around this time, I decided to shift to calisthenics. This was part of a [broader shift]({% post_url 2026-01-07-the-art-of-bike-mechanics %}) to move away from external systems and towards self-reliant and anti-fragile systems. Calisthenics forced me to think from first principles.
+Around this time, I decided to shift to calisthenics. This was part of a [broader shift]({% post_url 2026-01-07-the-art-of-bike-mechanics %}) to move away from external systems and towards self-reliant, anti-fragile ones. Calisthenics forced me to think from first principles.
 
 Pull-ups are fundamental to calisthenics. I started working toward one.
 
@@ -98,25 +98,29 @@ A pull-up functions as an integration test for upper body strength. Unlike machi
 
 And my geometry was wrong.
 
-Gym work-outs can suffer from **Component Bias**. We focus on exercises which improve particular components, rather than compound exercises which work the workflow of muscles and movements. 
+Gym workouts often suffer from **Component Bias**. We focus on exercises that maximize the output of individual components, rather than compound movements that test the entire kinetic workflow. 
 
-The underlying issue, once I finally understood it, was entirely mundane. It was probably the result of mild kyphosis and lordosis. These are the classic structural adaptations of a body that spends too much time in chairs—the upper back rounds forward, the shoulders slump inward, and the lower back over-arches to compensate. It is the physical manifestation of a sedentary lifestyle.
+The underlying issue, once I finally understood it, was entirely mundane: mild kyphosis and lordosis. These are the classic structural adaptations of a body that spends too much time in chairs—the upper back rounds forward, the shoulders slump inward, and the lower back over-arches to compensate. It is the physical manifestation of a sedentary lifestyle.
 
 The traditional gym exercises I had been doing for five years had completely failed to prevent or rehabilitate this structural drift. I had been building muscle, but I was building it on top of a compromised frame. In systems terms, I had been scaling the application layer while the infrastructure itself was warping to the shape of an office desk. By loading heavy weights onto a misaligned spine, the routine hadn't fixed the foundational problem; it had merely entrenched it.
 
 The shoulder pain wasn't a mysterious glitch. It was a mechanical bottleneck. When I hung from the bar, the force couldn't propagate cleanly because the architecture was crooked.
 
-Local strength is not sufficient. Alignment is required.
+Local strength is not sufficient. Alignment is required. In architectural terms, orientation and alignment are upstream; they are foundational. Two people can perform the exact same activity—working out—but if they are oriented toward different priorities, they are building fundamentally different systems. 
 
-It felt, at first, like five years of effort had been wasted. Like I had been revving in neutral. All that progress, and I still couldn’t do a single integrated movement.
+What's worse, alignment gaps are the most difficult bugs to spot.
+
+It felt, at first, like five years of effort had been wasted. Like I had been revving in neutral. All that progress, and I still couldn’t do this single integrated movement.
 
 But that feeling shifted as my physical awareness grew. The shoulder wasn’t a flaw I had failed to fix. It was a signal I hadn't been able to receive—because I hadn't put enough integrated load through the system to make the signal visible.
 
 You can’t find a foundation problem from the outside. You have to build on it first.
 
-### V. Refactoring
+Precisely in that moment of insight, when you finally see the foundational problem clearly, you are making **Deep Progress**. It feels like taking two steps back to take one step forward. But correcting orientation at the foundational layer is the most important work you can do—and the hardest technical debt to pay down.
 
-In software, when you realize your architecture can't support the scale and complexity you need, you stop shipping features and you start refactoring. You clean up the code. You resolve the dependencies.
+### V. Technical Debt & Refactoring
+
+In software, when you realize your architecture can't support the scale and complexity you need (**Technical Debt**), you stop shipping features and you start refactoring. You clean up the code. You resolve the dependencies.
 
 The body operates under similar constraints. Strength scales force production. Alignment determines whether that force can be transmitted safely.
 
@@ -128,7 +132,7 @@ I’ve brought the load right down. Refactoring produces fewer visible signals t
 
 ### VI. Synthesis
 
-When I started thinking from first principles about what I actually wanted from exercise—really wanted, not what was sendable in a message—I found myself back somewhere familiar.
+When I started thinking from first principles about what I actually wanted from exercise—really wanted, not what was sendable in a message—I found myself back somewhere familiar. Alignment problems tend to be invisible until you return to first principles.
 
 The quiet gym in Bristol. The walk home under the stars. The man on the farm.
 
