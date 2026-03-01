@@ -35,8 +35,10 @@ I first started going to the gym when I saw the WHO guidance. I realised that mu
 
 > It is recommended that:
 > All adults should undertake regular physical activity.
-> Adults should do at least 150–300 minutes of moderate-intensity aerobic physical activity; or at least 75–150 minutes of vigorous-intensity aerobic physical activity; or an equivalent combination of moderate- and vigorous-intensity activity throughout the week, for substantial health benefits.
-> Adults should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.
+> * Adults should do at least 150–300 minutes of moderate-intensity aerobic physical activity;
+> * or at least 75–150 minutes of vigorous-intensity aerobic physical activity;
+> * or an equivalent combination of moderate- and vigorous-intensity activity throughout the week, for substantial health benefits.
+> * Adults should also do muscle-strengthening activities at moderate or greater intensity that involve all major muscle groups on 2 or more days a week, as these provide additional health benefits.
 
 I found a routine online: a guide for skinny guys who wanted to bulk up.
 
