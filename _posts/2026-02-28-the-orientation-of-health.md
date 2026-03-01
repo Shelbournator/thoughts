@@ -9,7 +9,7 @@ mermaid: true
 ---
 The error began, as errors often do, with a loss of origin.
 
-I now know how rare this is, but when I first started going to the gym, the room was often empty. This made it a calm, almost relaxing experience. After a relatively sedentary life, my muscles really enjoyed being used. Being in the gym was a great mix of: making progress of my life goals, my body feeling great, and a quiet place for my mind. The closest thing it reminded me of were the days when I used to do yoga every day.
+I now know how rare this is, but when I first started going to the gym, the room was often empty. This made it a calm, almost relaxing experience. After a relatively sedentary life, my muscles really enjoyed being used. Being in the gym was a great mix of: making progress on my life goals, my body feeling great, and a quiet place for my mind. The closest thing it reminded me of were the days when I used to do yoga every day.
 
 I would walk home from the gym session a few hours later and feel a sense of clarity in my mind and perception. Colours would be brighter, sharper. The night sky would draw me in with the sharp moon and stars twinkling mysteriously.
 
