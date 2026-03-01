@@ -23,7 +23,7 @@ There were three people living on the farm, a couple and their friend, but one s
 
 He also looked _fundamentally_ healthy. Not "fitness industry" healthy, but functionally, structurally sound. It's hard to put your finger on it: a combination of a solid build, mental clarity, clear eyes, good skin, and any easy manner.
 
-I remember thinking: I want that energy. While staying on the farm, doing yoga sessions with him, my orientation shifted. I cotinued yoga afterwards and eventually took up meditation. I did it every day that year. I carried a yoga mat from hostel to hostel, rolling it out wherever I ended up. This wasn’t just a practice, it was an infrastructure that built on an underlying reorientation: groundedness, clarity, the sense of being at home in my own body.
+I remember thinking: I want that energy. While staying on the farm, doing yoga sessions with him, my orientation shifted. I continued yoga afterwards and eventually took up meditation. I did it every day that year. I carried a yoga mat from hostel to hostel, rolling it out wherever I ended up. This wasn’t just a practice, it was an infrastructure that built on an underlying reorientation: groundedness, clarity, the sense of being at home in my own body.
 
 That year changed my life forever. It wasn't just the yoga and meditation, of course, but in hindsight those were more crucial than I realised at the time.
 
