@@ -12,9 +12,9 @@ description: "In complex systems, the winning strategy isn’t better prediction
 > In complex systems, the winning strategy isn’t better prediction, but faster discovery—of both the problem and the solution—through interaction with reality.
 {: .prompt-tip }
 
-This principle appears again and again across very different domains. Whenever systems must operate under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
+This principle appears again and again across very different domains. Rationality and belief-updating, Agile SDLCs and iteration, science and experimentation, the free market and decentralised planning—whenever systems are operating under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
 
-There is a failure mode which follows the opposite logic. Instead of generating information through interaction with reality, the system attempts to determine the correct answer in advance. It substitutes **Prediction** for **Discovery**.
+This outperforms systems which operate on the opposite logic. Instead of generating information through interaction with reality, those systems attempt to determine the correct answer in advance. They substitute **Prediction** for **Discovery**.
 
 Planning and building both exist in every system. The difference is which one the system uses to generate knowledge and which one it uses to filter knowledge.
 
