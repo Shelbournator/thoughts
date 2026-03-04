@@ -14,7 +14,7 @@ description: "In complex systems, the winning strategy isn’t better prediction
 
 This principle appears again and again across very different domains.
 
-Rationality, the Agile SDLCs, science, the free market—whenever systems are operating under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
+Rationality, the Agile SDLC, science, the free market—whenever systems are operating under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
 
 This outperforms systems which operate on the opposite logic. Instead of generating information through interaction with reality, those systems attempt to determine the correct answer in advance. They substitute **Prediction** for **Discovery**.
 
