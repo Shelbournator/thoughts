@@ -152,7 +152,7 @@ In this sense, discovery systems are not merely faster. They are better at **fin
 
 ## VI. Conclusion: The Discovery Principle
 
-When viewed in isolation, practices like Agile, A/B testing, and Rapid Prototyping look like management techniques. But seen in a wider context, they are the organizational implementation of a fundamental law of physics.
+When viewed in isolation, practices like Agile, A/B testing, and Rapid Prototyping look like management techniques. But seen in a wider context, they are the organizational implementation of a fundamental systems law.
 
 Across biology, science, markets, and engineering, progress follows the same structure:
 1.  **Generate Variation**
