@@ -38,7 +38,7 @@ This model assumes the problem frame and solution space are already understood.
 *   **Innovation:** Incremental improvements legible within the existing frame.
 *   **Examples:** Central economic planning, Waterfall software development, large product specs.
 
-### 2. Discovery Alignment
+### 2. Discovery Orientation
 *Build → Generate Variation → Reality Reveals Signal → Planning Evaluates → Iterate*
 
 This model assumes the problem framing itself may be incomplete or wrong.
