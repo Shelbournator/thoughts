@@ -53,7 +53,6 @@ graph TD
     end
 
     style A fill:#b00b1e,stroke:#fff,color:#fff
-    style X fill:#1a4d2e,stroke:#fff,color:#fff
 ```
 
 ```mermaid
@@ -65,7 +64,6 @@ graph TD
     Z -->|Iterate| X
     end
 
-    style A fill:#b00b1e,stroke:#fff,color:#fff
     style X fill:#1a4d2e,stroke:#fff,color:#fff
 ```
 
