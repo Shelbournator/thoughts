@@ -144,7 +144,7 @@ A rational mind does not simply hold beliefs; it tests them against reality.
 
 Exploration explains why planning alone struggles with **Ill-Defined Problems**.
 
-As discussed in [The Architecture of the Problem]({% post_url 2026-01-26-the-frame-problem %}), when the frame itself is wrong, planning simply searches the wrong space more efficiently. You become better at solving the wrong problem.
+As discussed in [The Frame Problem]({% post_url 2026-01-26-the-frame-problem %}), when the frame itself is wrong, planning simply searches the wrong space more efficiently. You become better at solving the wrong problem.
 
 **Exploration**—tinkering, prototyping, interacting with the system—reveals constraints or opportunities that were invisible in advance. It helps collapse the search space by exposing what actually matters.
 
