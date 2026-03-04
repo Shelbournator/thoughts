@@ -12,7 +12,9 @@ description: "In complex systems, the winning strategy isn’t better prediction
 > In complex systems, the winning strategy isn’t better prediction, but faster discovery—of both the problem and the solution—through interaction with reality.
 {: .prompt-tip }
 
-This principle appears again and again across very different domains. Rationality and belief-updating, Agile SDLCs and iteration, science and experimentation, the free market and decentralised planning—whenever systems are operating under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
+This principle appears again and again across very different domains.
+
+Rationality and belief-updating, Agile SDLCs and iteration, science and experimentation, the free market and decentralised planning—whenever systems are operating under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
 
 This outperforms systems which operate on the opposite logic. Instead of generating information through interaction with reality, those systems attempt to determine the correct answer in advance. They substitute **Prediction** for **Discovery**.
 
@@ -26,7 +28,7 @@ Planning and building both exist in every system. The difference is which one th
 ## I. The Two Types of Orientation
 
 ### 1. Predictive Orientation
-*Plan $\rightarrow$ Choose Solution $\rightarrow$ Build $\rightarrow$ Reality Validates (or Refutes)*
+*Plan → Choose Solution → Build → Reality Validates (or Refutes)*
 
 This model assumes the problem frame and solution space are already understood.
 *   **Characteristics:** Top-down innovation, Model-driven decision-making.
@@ -35,7 +37,7 @@ This model assumes the problem frame and solution space are already understood.
 *   **Examples:** Central economic planning, Waterfall software development, large product specs.
 
 ### 2. Discovery Alignment
-*Build $\rightarrow$ Generate Variation $\rightarrow$ Reality Reveals Signal $\rightarrow$ Planning Evaluates $\rightarrow$ Iterate*
+*Build → Generate Variation → Reality Reveals Signal → Planning Evaluates → Iterate*
 
 This model assumes the problem framing itself may be incomplete or wrong.
 *   **Characteristics:** Bottom-up exploration, Experiment-driven learning.
@@ -49,6 +51,13 @@ graph TD
     A[<b>Plan</b><br><i>Theory</i>] -->|Long Cycle| B[<b>Build</b><br><i>Execution</i>]
     B -->|Release| C[<b>Reality Check</b><br><i>Pass/Fail</i>]
     end
+
+    style A fill:#b00b1e,stroke:#fff,color:#fff
+    style X fill:#1a4d2e,stroke:#fff,color:#fff
+```
+
+```mermaid
+graph TD
 
     subgraph "Discovery Loop"
     X[<b>Hypothesis</b><br><i>Best Guess</i>] -->|Short Cycle| Y[<b>Build MVP</b><br><i>Probe</i>]
@@ -65,7 +74,7 @@ graph TD
 For much of the 20th century, predictive planning was the rational strategy.
 Building things (aircraft, industrial systems, infrastructure) was slow and expensive. A single prototype could cost millions. The optimal strategy was:
 
-**Plan heavily $\rightarrow$ Minimize failure $\rightarrow$ Build once.**
+**Plan heavily → Minimize failure → Build once.**
 
 ### The Software Shock
 Software changed the economics of experimentation. Suddenly, prototypes were cheap, iteration was fast, and feedback was immediate.
@@ -91,14 +100,14 @@ Apple appears to succeed through prediction. Products like the iPhone look like 
 **Apple Still Uses Discovery — Just Earlier**
 Apple does not avoid experimentation. It moves the discovery process **Upstream**.
 Internally, Apple prototypes extensively: multiple hardware designs, interface experiments, component architectures.
-*   **Externally:** Predict $\rightarrow$ Launch
-*   **Internally:** Prototype $\rightarrow$ Test $\rightarrow$ Iterate $\rightarrow$ Select $\rightarrow$ Launch
+*   **Externally:** Predict → Launch
+*   **Internally:** Prototype → Test → Iterate → Select → Launch
 
 Apple is also a useful bridge because it shows that this principle is not limited to software. Even in hardware development, progress comes from generating variation.
 
 ### Discovery in Hardware: SpaceX
 The clearest example is **SpaceX**.
-Historically, aerospace followed a predictive model (Simulation $\rightarrow$ Perfect Design). SpaceX inverted this. They build prototypes quickly, fly them, observe what fails, and iterate.
+Historically, aerospace followed a predictive model (Simulation → Perfect Design). SpaceX inverted this. They build prototypes quickly, fly them, observe what fails, and iterate.
 
 *   Rockets explode.
 *   Structures buckle.
