@@ -16,7 +16,9 @@ This principle appears again and again across very different domains.
 
 Rationality, the Agile SDLC, science, the free market—whenever systems are operating under uncertainty, they converge on the same structure: **Generate variation, observe feedback from reality, and iterate.**
 
-This outperforms systems which operate on the opposite logic. Instead of generating information through interaction with reality, those systems attempt to determine the correct answer in advance. They substitute **Prediction** for **Discovery**.
+Across many domains, systems using this logic outperform systems using the opposite logic.
+
+The opposite logic: instead of generating information through interaction with reality, systems attempt to determine the correct answer in advance. They substitute **Prediction** for **Discovery**.
 
 Planning and building both exist in every system. The difference is which one the system uses to generate knowledge and which one it uses to filter knowledge.
 
