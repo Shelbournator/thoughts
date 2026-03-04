@@ -1,5 +1,5 @@
 ---
-title: "The Epistemic Asymmetry: Why Planning Cannot Replace Discovery"
+title: "The Discovery Principle: Why Planning Cannot Replace Discovery"
 date: 2026-03-04 09:00:00 +0000
 categories: [Systems, Strategy]
 tags: [agile, complexity, galls-law, evolutionary-systems, planning, discovery]
