@@ -50,7 +50,7 @@ Rationality is the **Integrity** of this loop. It is the state where:
 
 **Irrationality** is not "being emotional." It is a breakdown in system regulation.
 *   **Motivated Reasoning:** Emotion overrides Logic (Reasoning becomes a lawyer for feelings).
-*   **Low EQ:** Logic disconnects from Emotion (The system loses the signal for what matters).
+*   **EQ Failure:** Logic disconnects from Emotion (The system loses the signal for what matters).
 
 What we call emotional intelligence is hence a _subset_ of rationality.
 
