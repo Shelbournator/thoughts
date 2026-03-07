@@ -8,7 +8,7 @@ mermaid: true
 description: "Why the 'Spock' model of rationality is a category error. Mapping the feedback loops between Reason, Emotion, and Wisdom."
 ---
 
-"Rationality" is a technical term, but in everyday language, people hear something closer to "being coldly logical."
+In everyday language, when people hear rationality, they hear something like "being coldly logical." 
 
 When we describe a "rational person," we typically imagine someone who:
 *   Thinks logically.
