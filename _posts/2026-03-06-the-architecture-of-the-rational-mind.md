@@ -52,7 +52,7 @@ Rationality is the **Integrity** of this loop. It is the state where:
 *   **Motivated Reasoning:** Emotion overrides Logic (Reasoning becomes a lawyer for feelings).
 *   **EQ Failure:** Logic disconnects from Emotion (The system loses the signal for what matters).
 
-What we call emotional intelligence is hence a _subset_ of rationality.
+What we call emotional intelligence is a _subset_ of rationality.
 
 ## II. The Historical Bug: Plato vs. Descartes
 
