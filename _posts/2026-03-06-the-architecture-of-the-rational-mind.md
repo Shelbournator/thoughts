@@ -1,7 +1,7 @@
 ---
 title: "Dikaiosyne: The Forgotten Architecture of the Rational Mind"
 date: 2026-03-06 09:00:00 +0000
-categories: [Mind, Systems]
+categories: [Systems, Cognition]
 tags: [rationality, emotion, plato, cognitive-science, systems-thinking]
 toc: true
 mermaid: true
