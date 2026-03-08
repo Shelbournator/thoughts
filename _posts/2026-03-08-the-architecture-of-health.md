@@ -200,19 +200,22 @@ It is the physical terrain, yes, but it is also the social networks we inhabit, 
 When we view health through this integrated stack, the paradigm shifts entirely:
 
 ```mermaid
-graph TD
-    %% Define styles for the different layers of the stack
+flowchart TB
     classDef philosophical fill:#1a4d2e,stroke:#fff,stroke-width:2px,color:#fff
     classDef biological fill:#223c40,stroke:#fff,stroke-width:2px,color:#fff
     classDef civilizational fill:#3d3d3d,stroke:#fff,stroke-width:2px,color:#fff
     classDef procedural fill:#555555,stroke:#fff,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 
-    subgraph "The Architecture of Health"
-        L1("🧭 <b>Orientation (Plato)</b><br><i>What is the soul directed toward?</i>"):::philosophical
-        L2("🎯 <b>Function (Aristotle)</b><br><i>What capacities define a flourishing human?</i>"):::philosophical
-        L3("🧬 <b>Constraints (Evolution)</b><br><i>What baseline environment shaped these capacities?</i>"):::biological
-        L4("🏛️ <b>Enriched Environments (EEA+)</b><br><i>How can civilization accelerate development?</i>"):::civilizational
-        L5("📋 <b>Protocols (Techne)</b><br><i>What daily recipes support this architecture?</i>"):::procedural
+    subgraph H["The Architecture of Health"]
+        direction TB
+
+        L1["🧭 <b>Orientation (Plato)</b><br/><i>What is the soul directed toward?</i>"]:::philosophical
+        L2["🎯 <b>Function (Aristotle)</b><br/><i>What capacities define a flourishing human?</i>"]:::philosophical
+        L3["🧬 <b>Constraints (Evolution)</b><br/><i>What baseline environment shaped these capacities?</i>"]:::biological
+        L4["🏛️ <b>Enriched Environments (EEA+)</b><br/><i>How can civilization accelerate development?</i>"]:::civilizational
+        L5["📋 <b>Protocols (Techne)</b><br/><i>What daily recipes support this architecture?</i>"]:::procedural
+
+    
     end
 
     %% Edge connections with descriptive labels
