@@ -1,10 +1,10 @@
---- 
-title: "The Architecture of Health: Techne, Telos, and the Silent Overwrite"  
-date: 2026-03-08 09:00:00 +0000  
-categories: [Being, Health]  
-tags:[systems-thinking, mental-models, philosophy, health, evolution, orientation]  
-toc: true  
-mermaid: true  
+---
+title: "The Architecture of Health: Techne, Telos, and the Silent Overwrite"
+date: 2026-03-08 09:00:00 +0000
+categories: [Being, Health]
+tags: [systems-thinking, mental-models, philosophy, health, evolution, orientation]
+toc: true
+mermaid: true
 description: "Why following a recipe creates hidden fragility. Moving from workout protocols to the deepest architectural layers of human flourishing."
 ---
 
