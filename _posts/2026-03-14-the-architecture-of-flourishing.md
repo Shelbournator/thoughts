@@ -10,8 +10,6 @@ toc: true
 description: "You cannot engineer flourishing. You can only create the conditions for it. Carl Rogers, the actualising tendency, and why orientation is the deepest prerequisite for everything else."
 ---
  
-> **The Architecture of Flourishing**
->
 > You cannot engineer flourishing. You can only create the conditions for it.
 {: .prompt-tip }
  
