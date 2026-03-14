@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Systems: A History, A Dictionary, and A Toolkit"
 date: 2026-03-14 12:00:00 +0000
-categories:[Systems, Tools]
+categories: [Systems, Tools]
 tags: [systems-thinking, mental-models, complexity, history, engineering, architecture]
 toc: true
 mermaid: true
