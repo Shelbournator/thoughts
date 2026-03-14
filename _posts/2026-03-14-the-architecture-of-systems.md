@@ -1,4 +1,3 @@
-
 ---
 title: "The Architecture of Systems: A History, A Dictionary, and A Toolkit"
 date: 2026-03-14 12:00:00 +0000
