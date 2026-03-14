@@ -248,8 +248,10 @@ Instead of explicitly programming rules (Techne), we built architectures capable
 ## VI. The Modern Frontier: Multi-Scale Integration
 
 ```mermaid
-graph TD
+flowchart TB
     subgraph "The Multi-Scale Architecture"
+        direction TB
+
         L1["<b>Cultural & Institutional Systems</b><br><i>Governance, Markets, Norms</i>"]
         L2["<b>Cognitive & Artificial Systems</b><br><i>Human Minds, AI, Software</i>"]
         L3["<b>Biological & Ecological Systems</b><br><i>Organisms, Environments, Genetics</i>"]
