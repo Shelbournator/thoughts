@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Flourishing: Why Orientation Comes First"
 date: 2026-03-14 12:00:00 +0000
-categories: [Systems, Being]
+categories: [Being, Orientation]
 tags: [flourishing, orientation, rogers, psychology, systems-thinking, meaning, health]
 pin: false
 math: false
