@@ -5,6 +5,7 @@ categories: [Systems, Tools]
 tags: [systems-thinking, mental-models, complexity, history, engineering, architecture]
 toc: true
 mermaid: true
+math: true
 description: "A definitive guide to systems thinking. The history, the dictionary, and the toolkit for understanding and building in a complex world."
 ---
 
