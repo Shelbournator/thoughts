@@ -188,6 +188,10 @@ The moment flourishing becomes a goal — something to achieve, something to mea
 
 This is Rogers' paradox of change, and it is genuinely paradoxical.
 
+> Carl Rogers' paradox of change: "The curious paradox is that when I accept myself just as I am, then I can change".
+> This means that lasting personal transformation requires first fully accepting one's current reality, flaws, and feelings, rather than forcing change through self-loathing or denial.
+{: .prompt-tip }
+
 The pathway to becoming more fully yourself is not through directed effort at this layer — not because effort is wrong, but because this layer responds to a different kind of work. Above it, push harder. At it, create the conditions. The sequence is: alignment first, then scaling. Movement becomes possible only through the suspension of that effort — through creating a space in which you are accepted, by another person, by a practice, by an environment, by yourself, exactly as you are. In that acceptance, without any forcing, what was blocked begins to move.
 
 The plant doesn't try to grow. It just grows, when the conditions are right.
