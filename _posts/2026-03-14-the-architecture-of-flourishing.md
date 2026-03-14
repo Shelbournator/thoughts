@@ -2,7 +2,7 @@
 title: "The Architecture of Flourishing: Why Orientation Comes First"
 date: 2026-03-14 12:00:00 +0000
 categories: [Systems, Being]
-tags:[flourishing, orientation, rogers, psychology, systems-thinking, meaning, health]
+tags: [flourishing, orientation, rogers, psychology, systems-thinking, meaning, health]
 pin: false
 math: false
 mermaid: true
@@ -232,7 +232,7 @@ The gap between the two is the cost of the evaluative environment. This idea of 
 
 But the cost is not just psychological or philosophical. It is operational.
 
-In the[architecture of trust]({% post_url 2026-01-07-the-architecture-of-trust %}) post, I wrote about how fear destroys the transmission layer. When people are protecting themselves from internal threat, they stop sharing information, stop taking risks, stop surfacing errors. The network stops transmitting. The system optimises for self-protection rather than value creation.
+In the [architecture of trust]({% post_url 2026-01-07-the-architecture-of-trust %}) post, I wrote about how fear destroys the transmission layer. When people are protecting themselves from internal threat, they stop sharing information, stop taking risks, stop surfacing errors. The network stops transmitting. The system optimises for self-protection rather than value creation.
 
 That's not a metaphor. It's the direct organisational consequence of conditions of worth at scale.
 
