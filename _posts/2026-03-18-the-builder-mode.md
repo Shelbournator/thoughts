@@ -24,13 +24,9 @@ In an environment of total uncertainty, "management" is the wrong word. Manageme
   
 
 > **The Core Insight**
-
 > Modern organisations divide work into two categories: Individual Contributors (ICs) and Managers. But this binary only functions once a system is already stable.
-
 >
-
 > In environments of deep uncertainty, a third function is required: **The Builder**. The Builder does not execute within the system, nor do they merely coordinate it. They operate close to reality to extract the signal, codify the pattern, and engineer the conditions that turn individual performance into reproducible, scalable capability.
-
 {: .prompt-info }
 
   
