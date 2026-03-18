@@ -7,7 +7,6 @@ tags:[org-design, leadership, scaling, complexity, systems-thinking, management]
 toc: true
 mermaid: true
 description: "Why the IC vs. Manager split fails under uncertainty, why the player-coach model breaks, and the true function of senior leadership."
-
 ---
 
 I keep returning to David Stirling as an archetype.
