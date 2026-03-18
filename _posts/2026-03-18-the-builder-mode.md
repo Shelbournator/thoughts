@@ -1,4 +1,3 @@
-
 ---
 title: "The Builder Mode: Beyond the IC/Manager Split"
 date: 2026-03-18 12:00:00 +0000
