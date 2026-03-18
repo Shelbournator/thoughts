@@ -2,7 +2,7 @@
 title: "The Builder Mode: Beyond the IC/Manager Split"
 date: 2026-03-18 12:00:00 +0000
 categories: [Systems, Strategy]
-tags:[org-design, leadership, scaling, complexity, systems-thinking, management]
+tags: [org-design, leadership, scaling, complexity, systems-thinking, management]
 toc: true
 mermaid: true
 description: "Why the IC vs. Manager split fails under uncertainty, why the player-coach model breaks, and the true function of senior leadership."
