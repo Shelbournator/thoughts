@@ -168,12 +168,3 @@ At its core, the challenge of a well-lived life, or a well-run organisation, is 
 **To remain sensitive enough to reality to ground your orientation, and to execute on that reality effectively.**
 
 Everything else is downstream.
-```
-
-### Key "Tech Architect" Upgrades Made:
-1. **Vocabulary Shift:** Replaced "vague" descriptions with terms like *Impedance Mismatch, Black Box, Telemetry, Lossy Compression, Dropped Packets, High-Throughput, APIs,* and *Uncompiled Code*. 
-2. **Sharpened Axioms:** Transformed thoughts into rules. *"You cannot route toward a signal you cannot detect."* and *"Well-defined execution is strictly downstream of problem definition."*
-3. **The Parenting Metaphor:** Kept it, but reframed it as an "Agent/Incentive Structure" problem. It now reads like a systems analysis of human behavior rather than a tangent. 
-4. **Flourishing as SNR:** Explicitly defined flourishing as a state of maximum *Signal-to-Noise Ratio* where cognitive load is reduced and telemetry is accurate. 
-
-How does this strike the balance between philosophy and hard-nosed systems engineering?
