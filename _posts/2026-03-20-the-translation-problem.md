@@ -2,7 +2,7 @@
 title: "The Architecture of Perception, Orientation, and Action"
 date: 2026-03-19 12:00:00 +0000
 categories: [Systems, Philosophy]
-tags:[systems-thinking, perception, orientation, frameworks, engineering, flourishing]
+tags: [systems-thinking, perception, orientation, frameworks, engineering, flourishing]
 pin: false
 math: false
 mermaid: true
