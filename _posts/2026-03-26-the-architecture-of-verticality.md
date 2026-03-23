@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Verticality: Systems, Realism, and the Supposed Limits of Liberalism"
 date: 2026-03-23 12:00:00 +0000
-categories: [Systems, Philosophy]
+categories: [Systems, Civilisation]
 tags: [civilizational-stack, verticality, dostoevsky, nietzsche, liberalism, machiavelli]
 pin: false
 math: false
