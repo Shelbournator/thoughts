@@ -10,7 +10,7 @@ toc: true
 description: "How the West refactored its civilisational stack, the realist pivot of Machiavelli and Hobbes, and why liberalism’s undocumented dependencies leave it vertically vulnerable."
 ---
 
-Modern liberal democracies are masterpieces of horizontal engineering. Through free markets, common law, and institutional checks and balances, they are incredibly effective at managing resources, resolving disputes procedurally, and minimizing visible friction across a decentralized network. 
+Modern liberal democracies are masterpieces of horizontal engineering. Through free markets, civic engagement, and institutional checks and balances, they are incredibly effective at managing resources, resolving disputes procedurally, and minimizing visible friction across a decentralized network. 
 
 But a highly optimized system can run flawlessly and still feel profoundly empty if it lacks a higher orientation. To its sharpest critics, this is liberalism's fatal structural flaw. 
 
@@ -18,7 +18,7 @@ Thinkers as different as Fyodor Dostoevsky and Friedrich Nietzsche looked at the
 
 This criticism is incredibly powerful, but a systems-level diagnosis reveals something more complicated. It isn't that liberalism completely lacks a vertical axis; it’s that its verticality is an *undocumented dependency*. 
 
-In the Anglosphere, liberalism runs on a hidden substrate of interiorised Protestantism and historical common law. It possesses a *de facto* moral verticality, but because this foundation is heavily obfuscated by modern procedural language, the system cannot easily defend or articulate its own roots. Dostoevsky and Nietzsche were pointing at a very real structural vulnerability. 
+In the Anglosphere, liberalism runs on a hidden substrate of interiorised Protestantism and historical civic culture. It possesses a *de facto* moral verticality, but because this foundation is heavily obfuscated by modern procedural language, the system cannot easily defend or articulate its own roots. Dostoevsky and Nietzsche were pointing at a very real structural vulnerability. 
 
 To see why liberalism appears vertically hollow, why it is so vulnerable to this critique, and why it actually relies on the very structures it claims to have outgrown, we have to look at how the West refactored its civilisational stack.
 
