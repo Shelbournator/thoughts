@@ -70,8 +70,6 @@ graph TD
     end
     
     style R2 fill:#1a1a1a,stroke:#fff,color:#fff
-    style M1 fill:#b00b1e,stroke:#fff,color:#fff
-    style M2 fill:#b00b1e,stroke:#fff,color:#fff
     style SM fill:#1a4d2e,stroke:#fff,color:#fff
 ```
 
