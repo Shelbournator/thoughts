@@ -1,7 +1,7 @@
 ---
 title: "Alignment Without Control: Plato, Translation, and the Architecture of Leadership"
 date: 2026-04-01 00:00:00 +0000
-categories: [Systems, Leadership]
+categories: [Build, Leadership]
 tags: [philosophy, org-design, mental-models, systems-thinking, plato]
 pin: false
 math: false
