@@ -96,9 +96,9 @@ Understanding this layered architecture explains one of the most persistent geop
 ```mermaid
 graph TD
     subgraph "The Liberal Stack"
-    L1[<b>The Interface (Institutions)</b><br><i>Constitutions, Elections, Courts</i><br>Legible & easily copied] 
-    L2[<b>The Backend (Dispositions)</b><br><i>Voluntary restraint, trust, tolerance</i><br>Socially embedded & hard to replicate]
-    L3[<b>The Substrate (Moral Verticality)</b><br><i>Historical narratives, deep culture</i><br>Invisible & takes centuries to build]
+    L1["<b>The Interface (Institutions)</b><br><i>Constitutions, Elections, Courts</i><br>Legible & easily copied"] 
+    L2["<b>The Backend (Dispositions)</b><br><i>Voluntary restraint, trust, tolerance</i><br>Socially embedded & hard to replicate"]
+    L3["<b>The Substrate (Moral Verticality)</b><br><i>Historical narratives, deep culture</i><br>Invisible & takes centuries to build"]
     end
 
     L1 -->|Runs on| L2
