@@ -26,7 +26,7 @@ Once you take that step, the question changes. It is no longer: *What does liber
 
 ## The Architectural Paradox of Neutrality
 
-In my [recent piece on leadership]({% post_url 2026-03-25-alignment-without-control %}), I explored the concept of **non-domination**—the ability to coordinate people through shared understanding and alignment rather than arbitrary control. At its core, liberalism is the attempt to scale that exact principle into a civilisational architecture. It is a solution to a specific structural problem: **how to coordinate a society without relying primarily on coercion.**
+In my [recent piece on leadership]({% post_url 2026-04-01-alignment-without-control %}), I explored the concept of **non-domination**—the ability to coordinate people through shared understanding and alignment rather than arbitrary control. At its core, liberalism is the attempt to scale that exact principle into a civilisational architecture. It is a solution to a specific structural problem: **how to coordinate a society without relying primarily on coercion.**
 
 Liberalism is designed to accommodate disagreement. It creates a framework in which individuals can hold entirely different conceptions of the "good life" while still participating in a shared political order. Because of this, liberalism must present itself as procedurally neutral at the level of the interface, even while depending on non-neutral conditions beneath it. It provides an interface—rights, procedures, and constraints—that allows different ways of life to coexist without the system taking a hard position on which is ultimately correct. 
 
@@ -52,7 +52,7 @@ This implies a heavy set of underlying dependencies. For the liberal interface t
 3. **Accept unfavourable outcomes** (like losing an election) without reverting to force. (Intemperance)
 4. **Defer to abstract rules** rather than immediate tribal advantage. (Partiality)
 
-These are not institutional properties. They are *dispositions*—patterns of moral psychology and behaviour that exist prior to, and beneath, formal structures. As I noted in the [Translation Problem]({% post_url 2026-03-25-alignment-without-control %}), resolving conflict without coercion requires competing factions to share a baseline orientation toward the same underlying reality. If that shared baseline (the backend) doesn't exist, models cannot be translated, pluralism becomes zero-sum, and the system fractures.
+These are not institutional properties. They are *dispositions*—patterns of moral psychology and behaviour that exist prior to, and beneath, formal structures. As I noted in the [Translation Problem]({% post_url 2026-04-01-alignment-without-control %}), resolving conflict without coercion requires competing factions to share a baseline orientation toward the same underlying reality. If that shared baseline (the backend) doesn't exist, models cannot be translated, pluralism becomes zero-sum, and the system fractures.
 
 These dispositions are not optional enhancements. Any system that attempts to minimise coercion must generate these behaviours somewhere. If they are not internalised, they must be imposed.
 
@@ -139,5 +139,5 @@ Critics focus on the same surface layer and find it lacking. They argue that lib
 
 At the level of institutions, liberalism *is* thin. But at the level of the full civilisational stack, it is incredibly thick—relying on deeply implicit, historically inherited moral structures. 
 
-If we want to understand liberal systems, we have to stop analysing the interface in isolation. Just as [Plato recognised]({% post_url 2026-03-25-alignment-without-control %}) that true education is an orientation of the soul, a functioning political system requires an orientation of the culture. The real unit of analysis lies in the layers beneath: the moral psychology, social norms, and civilisational architecture that actually sustain the system.
+If we want to understand liberal systems, we have to stop analysing the interface in isolation. Just as [Plato recognised]({% post_url 2026-04-01-alignment-without-control %}) that true education is an orientation of the soul, a functioning political system requires an orientation of the culture. The real unit of analysis lies in the layers beneath: the moral psychology, social norms, and civilisational architecture that actually sustain the system.
 
