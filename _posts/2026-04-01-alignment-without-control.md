@@ -56,14 +56,19 @@ graph TD
         R -->|Filtered by Context| M2[Model B: e.g. Engineering]
         M1 <-->|Apparent Conflict| M2
     end
-    
+
+    style R fill:#1a1a1a,stroke:#fff,color:#fff
+    style M1 fill:#b00b1e,stroke:#fff,color:#fff
+    style M2 fill:#b00b1e,stroke:#fff,color:#fff
+```
+```mermaid
+graph TD
     subgraph "The Translated State"
         R2[Underlying Reality] --> SM[Shared System Model]
         M1_B[Model A] -->|Translated| SM
         M2_B[Model B] -->|Translated| SM
     end
     
-    style R fill:#1a1a1a,stroke:#fff,color:#fff
     style R2 fill:#1a1a1a,stroke:#fff,color:#fff
     style M1 fill:#b00b1e,stroke:#fff,color:#fff
     style M2 fill:#b00b1e,stroke:#fff,color:#fff
