@@ -123,7 +123,7 @@ The result is a predictable pattern of distortion. Elections take place, but out
 
 Part of the difficulty is that, in the modern world, even participants in liberal societies are often only weakly connected to the intellectual and moral traditions that underlie the system.
 
-Even a century ago, most thinking people would be deeply versd in the civilisational canon. Today, most people do not encounter liberalism through John Locke, Adam Smith, or John Stuart Mill, nor through sustained engagement with the religious, philosophical, and historical frameworks that shaped the system’s underlying structure. The majority of people may not even know who these people are.
+Even a century ago, most thinking people would be deeply versed in the civilisational canon. Today, most people do not encounter liberalism through John Locke, Adam Smith, or John Stuart Mill, nor through sustained engagement with the religious, philosophical, and historical frameworks that shaped the system’s underlying structure. The majority of people may not even know who these people are. A fundamental culture shift has happened away from reading and toward videos and other digital media.
 
 Instead, they interact with liberalism primarily through its interface—institutions, rights, and procedural norms—without direct access to the deeper layers that give those elements their coherence.
 
