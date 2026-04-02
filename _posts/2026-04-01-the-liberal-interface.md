@@ -94,11 +94,12 @@ It creates a structural tension: when the shared civic narrative fragments, the 
 Understanding this layered architecture explains one of the most persistent geopolitical failures of the last century: why exporting liberalism so rarely works. 
 
 ```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
 graph TD
     subgraph "The Liberal Stack"
-        L1["The Interface (Institutions)<br/>Constitutions, Elections, Courts<br/>Highly legible & easily copied"] 
-        L2["The Backend (Dispositions)<br/>Voluntary restraint, trust, tolerance<br/>Socially embedded & hard to replicate"]
-        L3["The Substrate (Moral Verticality)<br/>Historical narratives, deep culture<br/>Invisible & takes centuries to build"]
+        L1["The Interface (Institutions)\nConstitutions, Elections, Courts\nHighly legible & easily copied"] 
+        L2["The Backend (Dispositions)\nVoluntary restraint, trust, tolerance\nSocially embedded & hard to replicate"]
+        L3["The Substrate (Moral Verticality)\nHistorical narratives, deep culture\nInvisible & takes centuries to build"]
     end
 
     L1 -->|Runs on| L2
