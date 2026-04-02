@@ -94,20 +94,21 @@ It creates a structural tension: when the shared civic narrative fragments, the 
 Understanding this layered architecture explains one of the most persistent geopolitical failures of the last century: why exporting liberalism so rarely works. 
 
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-graph TD
+<div style="width: 150%; max-width: 150%; position: relative; left: 50%; transform: translateX(-50%);">
+
+graph LR
     subgraph "The Liberal Stack"
-        L1["The Interface (Institutions)\nConstitutions, Elections, Courts\nHighly legible & easily copied"] 
-        L2["The Backend (Dispositions)\nVoluntary restraint, trust, tolerance\nSocially embedded & hard to replicate"]
-        L3["The Substrate (Moral Verticality)\nHistorical narratives, deep culture\nInvisible & takes centuries to build"]
+    L1[<b>The Interface (Institutions)</b><br><i>Constitutions, Elections, Courts, Rights</i><br>Highly legible. Easily copied.] 
+    L2[<b>The Backend (Dispositions)</b><br><i>Voluntary restraint, trust, outgroup tolerance</i><br>Socially embedded. Hard to replicate.]
+    L3[<b>The Substrate (Moral Verticality)</b><br><i>Historical narratives, religion, deep culture</i><br>Invisible. Takes centuries to build.]
     end
 
     L1 -->|Runs on| L2
     L2 -->|Grounded in| L3
 
-    style L1 fill:#223c40,stroke:#fff,color:#fff,stroke-width:2px
-    style L2 fill:#1a4d2e,stroke:#fff,color:#fff,stroke-width:2px
-    style L3 fill:#1a1a1a,stroke:#fff,color:#fff,stroke-width:2px
+    style L1 fill:#223c40,stroke:#fff,color:#fff
+    style L2 fill:#1a4d2e,stroke:#fff,color:#fff
+    style L3 fill:#1a1a1a,stroke:#fff,color:#fff
 ```
 
 When Western nations attempt to export liberalism, they export the **Interface**. Constitutions, electoral frameworks, and court systems can be specified, codified, and implemented rapidly. They are legible and transferable. 
