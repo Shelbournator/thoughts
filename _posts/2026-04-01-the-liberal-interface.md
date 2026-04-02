@@ -97,9 +97,9 @@ Understanding this layered architecture explains one of the most persistent geop
 %%{init: { "flowchart": { "htmlLabels": false } } }%%
 graph TD
     subgraph S["The Liberal Stack"]
-        L1["The Interface (Institutions)<br/>Constitutions, Elections, Courts, Rights<br/>Highly legible. Easily copied."]
-        L2["The Backend (Dispositions)<br/>Voluntary restraint, trust, outgroup tolerance<br/>Socially embedded. Hard to replicate."]
-        L3["The Substrate (Moral Verticality)<br/>Historical narratives, religion, deep culture<br/>Invisible. Takes centuries to build."]
+        L1["The Interface (Institutions)<br/>Highly legible. Easily copied."]
+        L2["The Backend (Dispositions)<br/>Socially embedded. Hard to replicate."]
+        L3["The Substrate (Moral Verticality)<br/>Invisible. Takes centuries to build."]
     end
 
     L1 -->|Runs on| L2
