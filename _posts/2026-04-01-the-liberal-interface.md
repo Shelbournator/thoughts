@@ -110,7 +110,7 @@ graph TD
     style L2 fill:#1a4d2e,stroke:#fff,color:#fff
     style L3 fill:#1a1a1a,stroke:#fff,color:#fff
 ```
-{: style="width: 150%; max-width: 150%; margin-left: -25%;"}
+{: style="width: 200%; max-width: 150%; margin-left: -25%;"}
 
 When Western nations attempt to export liberalism, they export the **Interface**. Constitutions, electoral frameworks, and court systems can be specified, codified, and implemented rapidly. They are legible and transferable. 
 
