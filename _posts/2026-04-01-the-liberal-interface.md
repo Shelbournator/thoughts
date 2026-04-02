@@ -96,17 +96,17 @@ Understanding this layered architecture explains one of the most persistent geop
 ```mermaid
 graph TD
     subgraph "The Liberal Stack"
-    L1["<b>The Interface (Institutions)</b><br><i>Constitutions, Elections, Courts</i><br>Legible & easily copied"] 
-    L2["<b>The Backend (Dispositions)</b><br><i>Voluntary restraint, trust, tolerance</i><br>Socially embedded & hard to replicate"]
-    L3["<b>The Substrate (Moral Verticality)</b><br><i>Historical narratives, deep culture</i><br>Invisible & takes centuries to build"]
+        L1["The Interface (Institutions)<br/>Constitutions, Elections, Courts<br/>Highly legible & easily copied"] 
+        L2["The Backend (Dispositions)<br/>Voluntary restraint, trust, tolerance<br/>Socially embedded & hard to replicate"]
+        L3["The Substrate (Moral Verticality)<br/>Historical narratives, deep culture<br/>Invisible & takes centuries to build"]
     end
 
     L1 -->|Runs on| L2
     L2 -->|Grounded in| L3
 
-    style L1 fill:#223c40,stroke:#fff,color:#fff
-    style L2 fill:#1a4d2e,stroke:#fff,color:#fff
-    style L3 fill:#1a1a1a,stroke:#fff,color:#fff
+    style L1 fill:#223c40,stroke:#fff,color:#fff,stroke-width:2px
+    style L2 fill:#1a4d2e,stroke:#fff,color:#fff,stroke-width:2px
+    style L3 fill:#1a1a1a,stroke:#fff,color:#fff,stroke-width:2px
 ```
 
 When Western nations attempt to export liberalism, they export the **Interface**. Constitutions, electoral frameworks, and court systems can be specified, codified, and implemented rapidly. They are legible and transferable. 
