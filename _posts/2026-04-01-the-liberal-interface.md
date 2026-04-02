@@ -93,9 +93,18 @@ It creates a structural tension: when the shared civic narrative fragments, the 
 
 Understanding this layered architecture explains one of the most persistent geopolitical failures of the last century: why exporting liberalism so rarely works. 
 
-<div style="width: 150%; margin-left: -25%;">
 ```mermaid
-%%{init: { "flowchart": { "htmlLabels": false } } }%%
+%%{init: {
+  "flowchart": {
+    "htmlLabels": false,
+    "nodeSpacing": 40,
+    "rankSpacing": 60,
+    "padding": 20
+  },
+  "themeVariables": {
+    "fontSize": "20px"
+  }
+} }%%
 graph TD
     subgraph S["The Liberal Stack"]
         L1["The Interface (Institutions)<br/>Highly legible.<br/>Easily copied."]
@@ -110,7 +119,7 @@ graph TD
     style L1 fill:#223c40,stroke:#fff,color:#fff
     style L2 fill:#1a4d2e,stroke:#fff,color:#fff
     style L3 fill:#1a1a1a,stroke:#fff,color:#fff
-</div> ```
+```
 
 
 When Western nations attempt to export liberalism, they export the **Interface**. Constitutions, electoral frameworks, and court systems can be specified, codified, and implemented rapidly. They are legible and transferable. 
