@@ -1,6 +1,6 @@
 ---
 title: "Decision-Relevant Simplicity: The Sweet Spot Between Speed and Correctness"
-date: 2026-04-18 12:00:00 +0000
+date: 2026-04-15 09:00:00 +0000
 categories: [Systems, Strategy]
 tags: [decision-making, complexity, architecture, mental-models, systems-thinking]
 pin: false
