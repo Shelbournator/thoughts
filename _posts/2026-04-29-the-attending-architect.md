@@ -98,7 +98,7 @@ Two people can have the exact same title and operate at completely different lev
 ```mermaid
 graph TD
     subgraph "Level 1: Execution Layer (Downstream)"
-        E1["Problem Arrives"] --> E2["Assigned to Team"] --> E3["Senior Engineer Executes /<br> Fixes"]
+        E1["Problem Arrives"] --> E2["Assigned to Team"] --> E3["Senior Function Executes /<br> Fixes"]
     end
 
     style E3 fill:#3d3d3d,stroke:#fff,color:#fff
@@ -107,7 +107,7 @@ graph TD
 graph TD
 
     subgraph "Level 2: Coordination Layer (Midstream)"
-        C1["Problem Arrives"] --> C2["Execution Fails / Stalls"] --> C3["Senior Engineer Unblocks /<br> Coordinates"]
+        C1["Problem Arrives"] --> C2["Execution Fails / Stalls"] --> C3["Senior Function Unblocks /<br> Coordinates"]
     end
 
     style C3 fill:#223c40,stroke:#fff,color:#fff
@@ -115,7 +115,7 @@ graph TD
 ```mermaid
 graph TD
     subgraph "Level 3: Judgment Layer (Upstream)"
-        J1["Ambiguity Arrives"] --> J2{"Senior Engineer Classifies &<br> Routes"}
+        J1["Ambiguity Arrives"] --> J2{"Senior Function Classifies &<br> Routes"}
         J2 -->|Standard| J3["Team Executes"]
         J2 -->|Complex| J4["Specialist Team"]
     end
