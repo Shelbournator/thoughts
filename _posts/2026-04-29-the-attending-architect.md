@@ -12,7 +12,7 @@ description: "Why most technical organizations fail at triage, and what engineer
 
 I was recently watching *The Pitt*, a medical drama set in a Pittsburgh emergency department where each episode unfolds in real-time over the course of a single shift. 
 
-What initially caught my attention was the role of the Senior Emergency Attending Physician—Doctor Robinavitch—the way he steps into the most critical cases, makes rapid decisions under uncertainty, and directs the response across the team. But the more interesting realization came a level deeper.
+What initially caught my attention was the role of the Senior Emergency Attending Physician, Doctor Robinavitch—the way he steps into the most critical cases, makes rapid decisions under uncertainty, and directs the response across the team. But the more interesting realization came a level deeper.
 
 That behavior only makes sense because of how emergency departments actually operate as systems.
 
