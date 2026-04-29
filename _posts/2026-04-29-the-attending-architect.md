@@ -1,6 +1,6 @@
 ---
 title: "The Attending Architect: Triage, Uncertainty, and the Leverage of Problem Definition"
-date: 2026-04-29 0800:00:00 +0000
+date: 2026-04-29 08:00:00 +0000
 categories: [Systems, Strategy]
 tags: [systems-thinking, architecture, leverage, organizational-design, triage]
 pin: false
