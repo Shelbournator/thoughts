@@ -101,18 +101,25 @@ graph TD
         E1[Problem Arrives] --> E2[Assigned to Team] --> E3[Senior Engineer Executes / Fixes]
     end
 
+    style E3 fill:#3d3d3d,stroke:#fff,color:#fff
+```
+```mermaid
+graph TD
+
     subgraph "Level 2: Coordination Layer (Midstream)"
         C1[Problem Arrives] --> C2[Execution Fails / Stalls] --> C3[Senior Engineer Unblocks / Coordinates]
     end
 
+    style C3 fill:#223c40,stroke:#fff,color:#fff
+```
+```mermaid
+graph TD
     subgraph "Level 3: Judgment Layer (Upstream)"
         J1[Ambiguity Arrives] --> J2{Senior Engineer Classifies & Routes}
         J2 -->|Standard| J3[Team Executes]
         J2 -->|Complex| J4[Specialist Team]
     end
 
-    style E3 fill:#3d3d3d,stroke:#fff,color:#fff
-    style C3 fill:#223c40,stroke:#fff,color:#fff
     style J2 fill:#1a4d2e,stroke:#fff,color:#fff
 ```
 
