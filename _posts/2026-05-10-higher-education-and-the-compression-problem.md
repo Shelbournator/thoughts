@@ -2,7 +2,7 @@
 title: "Higher Education and the Compression Problem"
 date: 2026-05-10 09:00:00 +0000
 categories: [Systems, Education]
-tags:[higher-education, education, systems-thinking, credentials, research]
+tags: [higher-education, education, systems-thinking, credentials, research]
 pin: false
 math: false
 mermaid: false
