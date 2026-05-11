@@ -2,7 +2,7 @@
 title: "From Paideia to Credentials: The Historical Layers of Higher Education"
 date: 2026-05-11 09:00:00 +0000
 categories: [Systems, Education]
-tags:[higher-education, liberal-education, paideia, bildung, credentials, research]
+tags: [higher-education, liberal-education, paideia, bildung, credentials, research]
 pin: false
 math: false
 mermaid: false
