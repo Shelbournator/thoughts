@@ -10,17 +10,21 @@ toc: true
 description: "How liberal education, civic formation, research, application, and credentialling became layered into the modern university."
 ---
 
-In my [previous notes]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}), I returned to the problem space that current higher education is one solution within.
+In my [previous notes]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}), I argued that the modern university is best understood as a "Research-Credentialling Hybrid." But it did not begin that way, and it rarely describes itself that way.
 
-The modern university did not begin as a Research-Credentialling Hybrid. It inherited older ideals of education, many of which still shape how universities describe themselves even when they no longer govern the underlying incentive structure.
+When we listen to how universities talk about their mission—and how society argues about what they *should* be doing—we hear a chaotic mix of demands. We expect them to uncover universal truths, forge democratic citizens, train elite leaders, drive economic innovation, and print reliable employment credentials, all at the same time. 
 
-To understand the modern university, we have to treat it like a complex software architecture built on thousands of years of legacy code. Universities have been sites of learning, formation, elite reproduction, civic preparation, religious training, professional preparation, research, application, and credentialling. These purposes did not arrive all at once, they were patched in over centuries, and they do not naturally align. 
+The reason these demands constantly contradict one another is that the modern university is not a cleanly designed system. It is a geological accumulation of civilisational legacy code. 
 
-To understand the system we have today, we also need to decompile it and look at the historical layers of the stack.
+To understand the system we have today, we have to recognize that different historical eras patched entirely different objective functions into the institution. When a professor defends the pursuit of pure truth, they are running ancient Greek code. When a dean talks about cultivating "leadership and duty," they may be running Roman and British imperial scripts. When a department demands rigorous, specialized knowledge production, it is executing code from a 19th-century Prussian refactor. And when a student demands a degree that guarantees a job, they are interacting with the modern credentialling interface.
 
-## The Baseline OS: Oxbridge, Oral Formation, and the Liberal Arts
+These purposes did not arrive all at once, and they do not always naturally align. They were layered on top of one another over centuries, creating profound structural tensions.
 
-One way into the genealogy is through the older Oxbridge model, because it preserves many of the tensions that later become visible across higher education more generally: oral formation, liberal learning, character, elite preparation, and eventually the pressure of written assessment, research, and credentials.
+To debug the modern university, we therefore need to decompile it. We have to trace how the core objective function of education migrated across eras: from the Greek *paideia* (forming the soul), to the Islamic and medieval preservation of knowledge, to the British cultivation of character, to the Prussian orientation towards *Bildung*, and finally to the modern research-credentialling machine.
+
+## Oxbridge, Oral Formation, and the Liberal Arts
+
+From an Anglo-American standpoint, the most direct way to unpack this genealogy is through the older Oxbridge model. It is a crucial transition point because it preserves many of the tensions that later become visible across higher education more generally: oral formation, liberal learning, character, elite preparation, and eventually the pressure of written assessment, research, and credentials.
 
 Besides Oxford and Cambridge themselves, the original colleges in America (Harvard in 1636, Yale in 1701) were also heavily shaped by the English collegiate and classical tradition. The Oxbridge model was not primarily oriented toward research as an output. Although many influential thinkers passed through it, the model itself was an operating system centred on close, high-fidelity relationships between tutors and students.
 
