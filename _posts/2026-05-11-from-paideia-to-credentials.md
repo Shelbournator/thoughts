@@ -30,7 +30,7 @@ Besides Oxford and Cambridge themselves, the original colleges in America (Harva
 
 This collegial relationship was historically largely oral: a small number of students would share a tutor, with whom they would conduct disputations, often in Latin. This reflects the medieval model of humanistic education.
 
-Richard Bentley, Master of Trinity College, Cambridge, is often associated with an early use of written assessment in the early 18th century, though the broader shift was gradual and uneven. The shift toward written assessment was a structural necessity partly driven by the increasing technical complexity of subjects such as Newtonian mathematics, where evaluating extended proofs in purely oral formats was difficult. Written examinations were subsequently applied more broadly, including in classical studies.
+Richard Bentley, Master of Trinity College, Cambridge, is often associated with an early use of written assessment in the early 18th century, though the broader shift was gradual and uneven. (Written exams had already been introduced in China during the Han dynasty.) The shift toward written assessment was a structural necessity partly driven by the increasing technical complexity of subjects such as Newtonian mathematics, where evaluating extended proofs in purely oral formats was difficult. Written examinations were subsequently applied more broadly, including in classical studies.
 
 However, when Harvard and Yale were founded, they drew heavily on the English university tradition. Classical languages, rhetoric, logic, theology, and disputation remained central to the inherited educational model.
 
