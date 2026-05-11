@@ -9,7 +9,7 @@ mermaid: false
 description: "Why higher education is better understood as a historically accumulated hybrid than as a single function."
 ---
 
-As Thomas Aquinas said, omne verum vero consonat, or every truth agrees with every other truth.
+As Thomas Aquinas said, _omne verum vero consonat_, or every truth agrees with every other truth.
 
 One of the themes of these notes has been that, within the right architectural frame, there is a place for everything and everything is in its right place.
 
