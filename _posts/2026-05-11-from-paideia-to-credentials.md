@@ -20,13 +20,17 @@ To understand the system we have today, we also need to decompile it and look at
 
 ## The Baseline OS: Oxbridge, Oral Formation, and the Liberal Arts
 
-One way into the genealogy is through the older Oxbridge model, because it preserves many of the tensions that later become visible across higher education more generally. 
+One way into the genealogy is through the older Oxbridge model, because it preserves many of the tensions that later become visible across higher education more generally: oral formation, liberal learning, character, elite preparation, and eventually the pressure of written assessment, research, and credentials.
 
-Besides Oxford and Cambridge themselves, the original colleges in America (Harvard in 1636, Yale in 1701) were also heavily shaped by the English collegiate and classical tradition. This model was *not* primarily oriented toward research as an output. It was an operating system centred on close, high-fidelity relationships between tutors and students.
+Besides Oxford and Cambridge themselves, the original colleges in America (Harvard in 1636, Yale in 1701) were also heavily shaped by the English collegiate and classical tradition. The Oxbridge model was not primarily oriented toward research as an output. Although many influential thinkers passed through it, the model itself was an operating system centred on close, high-fidelity relationships between tutors and students.
 
-This collegial relationship was historically oral: a small number of students would share a tutor, with whom they would conduct disputations, often in Latin. Richard Bentley, Master of Trinity College, Cambridge, is often associated with the introduction of written assessment in the 18th century. This shift was a structural necessity driven by the increasing technical complexity of subjects such as Newtonian mathematics, where evaluating extended proofs in purely oral formats created too much latency. 
+This collegial relationship was historically largely oral: a small number of students would share a tutor, with whom they would conduct disputations, often in Latin. This reflects the medieval model of humanistic education.
 
-However, at its core, the Oxbridge model was oriented toward the formation of character and virtue, structured around the seven liberal arts:
+Richard Bentley, Master of Trinity College, Cambridge, is often associated with an early use of written assessment in the early 18th century, though the broader shift was gradual and uneven. The shift toward written assessment was a structural necessity partly driven by the increasing technical complexity of subjects such as Newtonian mathematics, where evaluating extended proofs in purely oral formats was difficult. Written examinations were subsequently applied more broadly, including in classical studies.
+
+However, when Harvard and Yale were founded, they drew heavily on the English university tradition. Classical languages, rhetoric, logic, theology, and disputation remained central to the inherited educational model.
+
+The Oxbridge model at this time was oriented toward the formation of character or virtue, structured around the seven liberal arts:
 
 **The Trivium**
 *   Grammar
@@ -39,7 +43,9 @@ However, at its core, the Oxbridge model was oriented toward the formation of ch
 *   Astronomy
 *   Music (understood as harmony and ratio)
 
-These arts were originally studied through pre-medieval classical texts. This curriculum was not simply a bundle of subjects; it was a way of inheriting a civilisation. The liberal arts do not begin as a neutral list of disciplines. They emerge from an ancient architectural question: *what kind of person is education supposed to produce?*
+What may not be obvious from these names is that this constituted a classical education in the full sense. These arts were originally studied in Latin, and later Greek, through pre-medieval classical texts. This is one reason the question of [tradition]({% post_url 2026-01-03-the-utility-of-tradition %}) matters: the curriculum was not simply a bundle of subjects, but a way of inheriting a civilisation.
+
+To understand this, we need to go back to the beginning of the tradition. The liberal arts do not begin as a neutral list of subjects. They emerge from older architectural questions, such as: what kind of person is education supposed to produce?
 
 ## Greek Paideia and Civic Formation
 
