@@ -2,185 +2,131 @@
 title: "Higher Education and the Compression Problem"
 date: 2026-05-10 09:00:00 +0000
 categories: [Systems, Education]
-tags: [higher-education, education, systems-thinking, credentials, research]
+tags:[higher-education, education, systems-thinking, credentials, research]
 pin: false
 math: false
 mermaid: false
 description: "Why higher education is better understood as a historically accumulated hybrid than as a single function."
 ---
 
-As Thomas Aquinas said, _omne verum vero consonat_, or every truth agrees with every other truth.
+As Thomas Aquinas said, _omne verum vero consonat_—every truth agrees with every other truth.
 
-One of the themes of these notes has been that, within the right architectural frame, there is a place for everything and everything is in its right place.
+One of the themes of these notes has been that, within the right architectural frame, there is a place for everything and everything is in its right place. That does not mean every tension disappears; constraints and trade-offs often remain exactly where they were. What changes is that competing claims can be located at the right layer, allowing apparent contradictions to be understood as structural relationships.
 
-That does not mean every tension disappears. The constraints and trade-offs often remain exactly where they were. What changes is that competing claims can be located at the right layer, so that apparent contradictions become structural relationships.
+Higher education is a perfect test case for this. 
 
-Higher education is a good test case for this.
-
-It is understood and used as a route to employment, a credential, a research engine, a coming-of-age experience, a public good, a status hierarchy, and a site of personal formation. Each description captures something real. Each becomes misleading when treated as the whole.
+It is understood and used as a route to employment, a credential, a research engine, a coming-of-age experience, a public good, a status hierarchy, and a site of personal formation. Each description captures something real. But each becomes profoundly misleading when treated as the whole.
 
 The problem is not just that higher education is difficult to describe. It is that higher education is a complex, high-dimensional solution to multiple problems across different layers, and any single description tends to compress the system around just one of its functions.
 
 ## Compression and Legibility
 
-Each of us has limited [cognitive bandwidth](https://en.wikipedia.org/wiki/Cognitive_load). To cope with complexity, we rely—both consciously and unconsciously—on compression. Reality is too high-dimensional to process directly.
+To cope with complexity, we rely—both consciously and unconsciously—on compression. Reality is simply too high-dimensional to process directly.
 
-As I argued in [Decision-Relevant Simplicity]({% post_url 2026-04-15-decision-relevant-simplicity %}), useful judgement depends on reducing the problem space while preserving the variables that can change the decision. This is closely related to the [frame problem]({% post_url 2026-01-26-the-frame-problem %}): before a system can act intelligently, it has to determine which features of reality are decision-relevant.
+As I argued in [Decision-Relevant Simplicity]({% post_url 2026-04-15-decision-relevant-simplicity %}), useful judgement depends on reducing the problem space while preserving the variables that can actually change the decision. This is closely related to the [frame problem]({% post_url 2026-01-26-the-frame-problem %}): before a system can act intelligently, it has to determine which features of reality are decision-relevant. 
 
-That is not optional. At any moment, billions of variables could be relevant. In practice, we rule out most of the options before the decision even starts: when deciding what to have for breakfast, we don't consider every single object in our house. We filter the search space down to "foods", or maybe even "breakfast foods".
+This is not optional. Like all systems, the human mind has hard bottlenecks—working memory and attention being two of the strictest. Compression is how we make reality legible enough to reason about. Even more deeply, as Kant would say, our access to reality is mediated by the structures of perception. We do not encounter the *Ding an sich* (thing-in-itself) directly. The map is not the territory; the map is already compressed before we even experience it.
 
-Like all systems, the human mind has hard bottlenecks: working memory and attention are two of the most limited resources. This is a fundamental constraint of information processing, not simply an inconvenience. We simply have to rely on shortcuts.
+But compression has failure modes, and when making high-stakes decisions, we must be aware of them.
 
-Compression is how we make reality legible enough to reason about. Even more deeply, as Kant would say, our access to reality is mediated by the structures of perception and cognition. We do not encounter the _Ding an sich_ (thing-in-itself) directly. The map is not the territory. The whole of reality as we experience it is generated by our minds and perceptual systems, and it is _already compressed before we experience it_.
+The most obvious failure mode is when our compression of reality is simply wrong. Black-and-white thinking, straw-manning, and category errors occur when we simplify an institution into a smaller, less accurate version of itself. Sometimes this is adversarial (compressing an opposing view to dismiss it); sometimes it is social (converging on a shared compression to sort allies from enemies). A map is useful precisely because it leaves things out, but it becomes dangerous when we forget what it excluded.
 
-But compression has failure modes. Any time we need to make high stakes decisions, we should be aware of our cognitive limitations.
+The subtler failure mode is orientation. Two compressions can both be locally useful while preserving entirely different variables. One keeps the economic signal and drops moral formation; another keeps research and drops employability. 
 
-The most obvious failure mode is when our compression of reality is simply wrong. Black-and-white thinking, strawmanning, category errors, false binaries, and other fallacies often occur when we simplify something—a situation, an argument, a person, an institution—into a smaller and less accurate version of itself.
+This is why compression magnifies tribalism. As I argued in[Alignment Without Control]({% post_url 2026-04-01-alignment-without-control %}), people can be largely aligned on the underlying reality while appearing to fiercely disagree, simply because they are operating through different compressions of it.
 
-Sometimes the error is adversarial: we compress an opposing view into its weakest or most ridiculous form so that it can be dismissed. Sometimes it is cognitive: we mistake a useful category for a natural boundary, or a partial model for the thing itself. Sometimes it is social: a group converges on a shared compression because it is easy to repeat, easy to signal, and useful for sorting allies from enemies.
+Finally, compression determines what a system can see. It helps us move faster, but it prevents innovation when excluded variables turn out to be decisive. Many disruptive startups are built purely on identifying a gap that incumbents have learned not to see—a user need, a cost structure, or a technological shift that their compression filtered out. 
 
-In each case, the problem is not simplification as such. The problem is that the simplification loses contact with the underlying reality. A map is useful because it leaves things out; it becomes dangerous when we forget what it has left out, or when something it excluded turns out to matter.
-
-The subtler failure mode is orientation.
-
-Two compressions can both be locally useful while preserving different variables. One keeps the economic signal and drops formation. Another keeps research and drops employability. Another keeps personal transformation and drops institutional constraints.
-
-This is why compression can magnify disagreement, polarisation, siloing, and tribalism. As I argued in [Alignment Without Control]({% post_url 2026-04-01-alignment-without-control %}), people can be largely aligned on the underlying reality while appearing to disagree because they are operating through different models of it. The apparent gap is often not a disagreement about everything. It is a smaller disagreement amplified by compression.
-
-Compression also determines what a system can see.
-
-It helps us move faster by removing variables, but it can prevent innovation when excluded variables turn out to be decisive. Many disruptive startups are built on identifying gaps in existing solutions that incumbents, despite greater resources and network effects, have not addressed.
-
-This is not only a matter of seeing that an existing solution is bad. Often the existing solution is good within its own compression. The opportunity appears because the compression itself has excluded something: a user need, a cost structure, a distribution channel, a behavioural shift, a technological affordance, or a frustration that incumbents have learned not to see.
-
-This is why one of Peter Thiel’s interview questions is so powerful: what is something everyone thinks is true, but is wrong? The question is not merely contrarian. It is architectural. It asks where the shared model of reality has become too compressed, too inherited, or too self-confirming.
-
-Seeing those gaps is the basis of competitive edge. It requires thinking from first principles: returning to the problem space, identifying the trade-offs and constraints at each level, and understanding not only what the system does, but why it is structured that way.
-
-That is close to Aristotle’s concept of the [architekton]({% post_url 2026-03-08-the-architecture-of-health %}) (master builder), who understands the underlying reasons for a system.
+This is why Peter Thiel’s interview question, to paraphrase—*What is an important truth that very few people agree with you on?*—is so powerful. It is an architectural question. It asks where the shared model of reality has become too compressed, inherited, or self-confirming. Seeing those gaps is the basis of competitive edge. It requires thinking from first principles: returning to the problem space and understanding not only what a system does, but why it is structured that way.
 
 ## The Higher Education Compression
 
-Higher education matters because the compression is not only analytical. It is practical.
+Higher education matters because its compression is not merely analytical; it is intensely practical. 
 
-The current Western schooling system funnels many capable young adults into higher education at precisely the point when they are making decisions that shape their skills, identity, debt, networks, work, and status.
+The current Western schooling system funnels the vast majority of capable young adults into higher education at precisely the point when they are making decisions that shape their skills, identity, debt, and status.
 
 Understanding this system clearly matters for several different users:
+*   Young adults and parents making life-shaping financial decisions.
+*   Employers trying to infer capability from educational history.
+*   Universities trying to understand what functions they actually perform.
+*   Governments trying to balance productivity, research, and civic value.
 
-- Young adults and parents making life-shaping decisions
-- Students trying to understand the return on investment of higher education
-- Employers trying to infer capability from educational history
-- Universities trying to understand what functions they actually perform
-- Governments trying to understand the relationship between higher education, productivity, research, civic engagement and public value
+This is the compression problem at the heart of higher education: different groups identify real functions, but then mistakes that function for the whole. 
 
-This is the compression problem at the heart of higher education: each account identifies a real function, then mistakes that function for the whole. The argument of this piece is that the modern university is better understood as a historically accumulated hybrid: part institution of formation, part research system, and part credentialling mechanism.
+The argument of these notes is that the modern university is better understood as a historically accumulated hybrid: part institution of formation, part research system, and part credentialling mechanism. These functions are not naturally aligned. They come from different historical moments, answer to different incentives, and produce different kinds of value. 
 
-These functions are not naturally aligned. They come from different historical moments, answer to different incentives, and produce different kinds of value. Many contemporary arguments about higher education are really arguments over which of these functions should be treated as primary.
+Many contemporary arguments about higher education are simply arguments over which of these functions should be allowed to dominate the others.
 
 ## Returning to the Problem Space
 
-One of the best ways to break out of a solution framing is to return to the problem space.
+One of the best ways to break out of an inherited solution is to return to the problem space. To do that, we need to understand the *telos* (purpose) of higher education in the broadest sense.
 
-To do that, we need to understand what higher education is—the telos (end or purpose) in the broadest sense, even outside of our current compression.
+The name gives us the first cut. Higher education is a particular type of educational institution. It is denoted as “higher” because it is more selective, demanding, and specialised than what came before it. 
 
-The name gives us the first cut. Higher education is a particular type of educational institution. It is denoted as “higher” because it is more selective, demanding, specialised, and—nominally—more valuable.
+Stepping down one layer, we must ask what kind of institution an *educational* institution is. Most institutions involve education of some kind—the military has bootcamps; corporations have onboarding—but education is not their primary orientation. An educational institution is nominally oriented toward structured learning above all else.
 
-That means we need to step down one layer and ask what kind of institution an educational institution is.
+Crucially, education does not require an institution. It can occur within semi-institutional settings (like MOOCs), through private mentoring, or via highly effective, self-directed routines. History is full of towering autodidacts—from Leonardo da Vinci and Benjamin Franklin to Frederick Douglass and Albert Einstein. 
 
-Educational institutions are primarily oriented—again, nominally—towards education. Although, most institutions involve education of some kind, even if it is just onboarding new employees or members, it is not their primary orientation. The military, for example, includes education in the form of bootcamps, drilling, and classroom instruction, but the military is not primarily oriented towards education.
-
-Education does not only happen within institutions. It can occur within semi-institutional settings—such as massive open online courses (MOOCs)—or in non-institutional settings with private tutors, sports coaches, or mentoring. Individuals can also undertake self-directed educational routines, often for extrinsic reasons such as passing professional qualifications, but sometimes for intrinsic reasons: because they are fascinated by the subject, or because they want to develop their skills, capacities, and judgement.
-
-People who achieve a high degree of self-directed education are often referred to as autodidacts. Some notable figures frequently described in this way include Leonardo da Vinci, William Shakespeare, David Hume, Benjamin Franklin, Albert Einstein, Mary Anning, Charles Darwin, William Blake, Thomas Edison, Nikola Tesla, Frederick Douglass, the Wright brothers, George Boole, Baruch Spinoza, Frank Lloyd Wright, Gottfried Leibniz, and Florence Nightingale.
-
-The fact that so many major figures were not straightforward products of institutionalised education is worth pausing over. But we can return to that later.
+The fact that so many world-historic figures were not straightforward products of institutionalised education reveals a foundational architectural principle: learning is a property of the individual agent, not the institution. The institution merely provides the scaffolding.
 
 ## Education as Structured Learning
 
-If higher education is often defended or criticised in terms of learning, then the next question is what kind of learning we mean?
+If higher education is defended in terms of learning, we must ask: what kind of learning do we mean? The word looks simple, but it covers a vast spectrum of transformations—some cognitive, some practical, and some deeply existential.
 
-The word looks simple, but it covers a wide range of transformations: some guided and some self-directed, some cognitive and some moral, practical, or even existential.
+"Learning" is the closest we can get to a system primitive in this space. It is a property of adaptive systems. In a basic input-output model, a system learns when its mapping from inputs to outputs improves with experience. 
 
-Learning is something that people do continuously through experience. There are different levels of structure to that learning, and what is typically called education tends to sit toward the more structured end—either in terms of the process or the intended outcomes.
+Machine learning makes this structure explicit: an algorithm optimizes its behavior through exposure, feedback, and reward. Human learning is obviously not reducible to algorithmic training, but the analogy clarifies that learning depends heavily on the environment. Developmental psychology points to a similar distinction: guided learning is highly effective for transmitting established frameworks, while unstructured exploration is required to develop agency and discover boundaries.
 
-The term “education” is also often associated with cognitive domains, though there is no universally agreed boundary.
-
-All things considered, "learning" is probably the closest we can get to a system primitive in this space. It is a property of adaptive systems. In a basic input–output (I–O) model, a system can be said to learn when its mapping from inputs to outputs improves with experience.
-
-Machine learning makes this basic structure explicit: a system improves its mapping from inputs to outputs through exposure, feedback, or reward. Human learning is not reducible to this, but the analogy helps clarify that learning depends on both experience and environment. Developmental psychology points to a similar distinction: guided learning is effective for transmitting established knowledge and frameworks, while less structured exploration supports agency, creativity, and boundary discovery.
-
-Learning also varies by person. Much learning involves extracting structure from experience, and structured approaches often accelerate that process by making patterns, feedback, and constraints easier to see. But people differ in how quickly they notice those patterns. More intelligent, sensitive, perceptive, or attentive learners may extract useful structure from the same environment more quickly than others, even without additional formal instruction.
-
-In learning, like in orientation, some outcomes are improved by reducing direction—where this paradox of change applies, less intervention can sometimes produce better results.
+Learning also varies wildly by person. Much of learning involves extracting structure from experience. Highly perceptive or attentive learners may extract useful structure from an environment rapidly, even without formal instruction. And just as in orientation, some outcomes are improved by reducing direction; where the paradox of change applies, less intervention often produces better results.
 
 ## Learning as Transformation
 
-Taking a step further back, learning can be understood as a type of transformation.
+Taking a step further back, learning can be understood as a holistic transformation. 
 
-It typically denotes a positive, usually internal, transformation: changes not only in knowledge, domain skill, and practical competence, but also in beliefs, worldview, values, agency, judgement, adaptability, wisdom, character, empathy, resilience, intuition, clarity, coherence, self-control, ambiguity tolerance, and pro-sociality.
+It typically denotes a positive internal state-change: upgrades not only in domain knowledge and practical competence, but in worldview, agency, resilience, ambiguity tolerance, and character. 
 
-This breadth matters. It shows that learning can concern the whole person, while still including the acquisition of domain knowledge, marketable skills, and practical competence. But the whole person is not a simple object. People are complex adaptive systems, shaped by temperament, attention, incentives, relationships, institutions, culture, embodiment, and environment. This is one reason why narrow educational framings often fail to map cleanly onto real-world capability—and also why attempts to revolutionise education often fail when they try to redesign the architecture without understanding the problem space: the trade-offs, the institutional constraints, and the undocumented structures that hold the system together.
+This breadth matters. It shows that learning concerns the *whole person*. Because humans are complex adaptive systems, shaped by incentives, culture, and embodiment, narrow educational framings often fail to map cleanly onto real-world capability. It is also why attempts to "revolutionise" education so often fail—they try to redesign the architecture without understanding the institutional constraints that hold the system together.
 
-This does not mean every learning process is good.
+Furthermore, because learning is simply a biological adaptation to an environment, it is entirely possible to learn the *wrong* things. 
 
-There is generally a positive normative bent, but learning processes can also reinforce unhealthy, unproductive, or maladaptive behaviours. At one level, drug addiction can be understood as a form of pathological learning: reward systems reinforce behaviours that do not contribute to overall flourishing.
-
-Learning is environment-specific. People may acquire behaviours that “work” in one setting—gaining status, approval, or short-term reward—but become counterproductive in another. Cultural and organisational differences create subtler versions of the same problem: behaviours that lead to success in one context may not be rewarded in another.
-
-The boundary between learning and other forms of inner change is therefore blurry. Therapy, belief updating, changes in values, and shifts in identity may all involve learning, but they are not always reducible to learning in a narrow cognitive sense.
+A system will adapt to whatever incentives it is given. At a neurological level, drug addiction can be understood as a form of pathological learning: reward systems reinforce behaviours that do not contribute to flourishing. Similarly, students may acquire behaviours that “work” perfectly in the context of a university (gaming rubrics, optimizing for status) that become actively counterproductive in the real world. 
 
 ## Universities as Producers of People and Knowledge
 
-This exploration of the range and ambiguity of learning is not just a tangent. It clarifies why “higher education is for learning” is not yet an answer. Once learning is understood as broad, environment-specific, and unevenly distributed across learners, the institutional question becomes harder: which kinds of learning can a university realistically cultivate, certify, or support?
+This ambiguity clarifies why “higher education is for learning” is an insufficient answer. Once learning is understood as broad, environment-specific, and highly variable, the institutional question becomes much harder: *Which kinds of learning can a university actually cultivate, certify, and scale?*
 
-Universities today are typically oriented toward producing two broad classes of outcomes: people and knowledge.
+Today, universities are structurally oriented toward producing two broad classes of outcomes: **knowledge** and **people**.
 
-On the knowledge side, universities serve the functions of maintaining and producing knowledge.
+Historically, rooted in monastic traditions, universities were oriented toward maintaining and transmitting existing knowledge. Contemporary universities, however, are evaluated heavily on their *new* research output. “Publish or perish” defines the academic incentive structure across almost every discipline.
 
-Historically, universities were more strongly oriented toward maintaining and transmitting existing knowledge, and were influenced in part by monastic traditions, which played a significant role in preserving texts and learning in medieval Europe.
+In STEM, optimizing for published papers aligns reasonably well with actual knowledge production (though it creates incentives to maximise volume over impact). But in the humanities, this industrial incentive structure has had a profound, distorting effect. 
 
-Contemporary universities are often evaluated based on their research output. “Publish or perish” is a common description of academic incentives, not only in STEM fields but also in disciplines such as literature, philosophy, and history.
+When disciplines like literature and history are forced into a production-oriented research model, scholars are incentivized to generate an endless supply of novel interpretations. This helps explain the rapid adoption of critical theories (structuralism, deconstruction, post-colonialism) at institutions like Cambridge and Yale. From a systems perspective, these theories act as highly effective *compression algorithms*—mechanical lenses applied to historical texts to reliably generate "novel" papers, often at the expense of broader intellectual formation.
 
-Journal articles are a primary metric by which faculty are evaluated in many research-intensive institutions. In STEM and other technical areas, this can align reasonably well with knowledge production, though it can also create incentives to maximise publication volume over impact. In the humanities, it tends to incentivise increasing specialisation and incremental reinterpretation over scholarship oriented toward intellectual formation, general understanding, and the cultivation of judgment.
+On the "people" side, universities serve the function of producing experts and an educated class. Yet, the teaching is carried out by academics whose primary incentives are entirely oriented toward research. In the best cases, students get to learn from world-class experts. In weaker cases, teaching is treated as a secondary administrative burden.
 
-This can result in a large number of highly specialised analyses—for example, niche interpretive approaches to William Shakespeare—with relatively less emphasis on broader questions of interpretation, character, or the transformative aspects of the texts.
+The economic model of the Anglosphere university highlights this structural mismatch. Students increasingly finance the institution through tuition and debt. Yet institutional spending grows heavily in administration, and faculty are evaluated almost entirely on research. 
 
-This reflects a broader historical shift within some academic fields. Universities such as University of Cambridge and Yale University, long associated with humanistic literary traditions, have shifted in their primary orientation towards approaches such as structuralism, Marxism, deconstruction, and postcolonial theory.
-
-More on that later.
-
-On the people side, universities serve the function of producing experts and an educated class in the population.
-
-That said, teaching is typically carried out by academics whose primary incentives are oriented toward research. In the best cases, students are exposed to leading experts and can learn from their methods and approaches. In weaker cases, teaching may be secondary to research, and students may need to take a more self-directed approach to their education.
-
-The economic model of higher education differs across countries. In parts of the Anglosphere, it has shifted toward a system in which a significant portion of funding comes from tuition fees, often supported by student loans. Despite this, academic evaluation of faculty remains heavily weighted toward research output. Students increasingly finance their education through debt, even as institutional spending grows in administrative and non-teaching areas, while faculty are funded and evaluated primarily on research rather than teaching.
-
-Universities themselves are often assessed through league tables that combine measures such as research quality, graduate outcomes, and student satisfaction. Over time, institutional behaviour can become oriented toward improving performance on these metrics.
-
-In this sense, the league tables function as an optimisation target for universities.
+Universities themselves are assessed through league tables that combine measures like research quality, graduate outcomes, and student satisfaction. Over time, the league tables become the ultimate optimization target, and institutional behaviour conforms entirely to the metrics.
 
 ## The Research-Credentialling Hybrid
 
-This is the institutional structure I am calling the Research–Credentialling Hybrid (RCH). The university is not simply a place where students learn from researchers. It is a system in which research production, student formation, and credential allocation are held together inside one institutional form.
+This brings us to the actual architecture of the modern system: **The Research-Credentialling Hybrid (RCH)**. 
 
-The credentialling function matters because degrees connect the internal life of the university to the wider economy and status system. They certify, signal, filter, and allocate opportunity, even when the underlying education is uneven or difficult to measure.
+The university is not simply a place where students learn from researchers. It is a system in which research production, student formation, and credential allocation are bolted together inside a single institutional form.
 
-Many of these institutions are extremely old, and in the case of University of Cambridge and Yale University, their departments and the broader organisations themselves have gone through various kinds of reorientation over time.
+The credentialling function is the crucial binding agent. Degrees connect the internal life of the university to the external economy. They certify, signal, filter, and allocate opportunity, even when the underlying educational transformation of the student is highly uneven or impossible to measure.
 
-The RCH, sometimes described as part of the neo-liberal model, predates the neoliberal moment. Its origins are often traced back to the 19th century, particularly to developments in the United States and Germany.
+The RCH is often blamed on late-20th-century "neoliberalism," but its origins go much deeper, tracing back to the integration of the German research model and the American administrative model in the 19th century. 
 
 ## The First Layer
 
 This gives us the first layer of the problem.
 
-Higher education is not one thing. It is a compressed name for several functions held together inside one institutional form.
+Higher education is not one thing. It is a compressed name for several functions held together inside one institutional form. Therefore, many arguments about higher education are not really arguments about the same object. They are arguments between competing compressions: employment, credentialling, research, formation, status, and public value.
 
-That means many arguments about higher education are not really arguments about the same object. They are arguments between different compressions of the object: employment, credentialling, research, formation, status, public value, and social transition.
+Once those functions are separated, the disagreement becomes precise. The question is no longer whether higher education is "broken" in the abstract. The question is which function is being evaluated, how that value is measured, and whether the modern university is the right architecture for producing it.
 
-Once those functions are separated, the disagreement becomes more precise. The question is no longer whether higher education is valuable or broken in the abstract. The question is which function is being evaluated, what kind of value it produces, how that value is measured, and whether the modern university is the right architecture for producing it.
-
-To understand why those functions sit together so uneasily, we need to look at how they arrived there.
-
-The modern university is not a clean design. It is a historical accumulation: liberal education, civic formation, elite reproduction, research, professional training, public value, and credentialling layered into one institution.
+To understand why those functions sit together so uneasily, we need to look at how they arrived there. The modern university is not a clean design. It is a historical accumulation: liberal education, civic formation, elite reproduction, research, professional training, and credentialling layered into one institution over centuries. 
 
 That genealogy is where the next post begins.
