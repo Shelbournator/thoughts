@@ -10,7 +10,7 @@ toc: true
 description: "How higher education produces economic, civic, intellectual, professional, social, cultural, and developmental value, and why those forms of value are not equally legible."
 ---
 
-As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url 026-05-11-from-paideia-to-credentials %}), most arguments about higher education fail before they begin because they compress the institution too early.
+As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url 2026-05-11-from-paideia-to-credentials %}), most arguments about higher education fail before they begin because they compress the institution too early.
 
 Compression is not always a mistake; it is often necessary. We need shorthand models in order to think, argue, compare, and decide. A slogan, a ranking, a credential, or a single metric can all be useful for some purposes. The problem begins when a compressed model is used for a task that requires a full architectural view.
 
