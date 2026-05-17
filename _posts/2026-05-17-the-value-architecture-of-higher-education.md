@@ -10,7 +10,7 @@ toc: true
 description: "How higher education produces economic, civic, intellectual, professional, social, cultural, and developmental value, and why those forms of value are not equally legible."
 ---
 
-As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-04-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url 2026-05-05-from-paideia-to-credentials-the-historical-layers-of-higher-education %}), most arguments about higher education fail before they begin because they compress the institution too early.
+As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url 026-05-11-from-paideia-to-credentials %}), most arguments about higher education fail before they begin because they compress the institution too early.
 
 Compression is not always a mistake; it is often necessary. We need shorthand models in order to think, argue, compare, and decide. A slogan, a ranking, a credential, or a single metric can all be useful for some purposes. The problem begins when a compressed model is used for a task that requires a full architectural view.
 
@@ -58,7 +58,7 @@ A university may increase a student’s earnings, deepen their judgement, preser
 
 Foundational work is fundamentally illegible at the point of production. Its value may only become visible years later, when a person faces uncertainty, exercises judgement, leads under pressure, or applies a deep framework in a situation no syllabus could have anticipated.
 
-This connects back to [Aristotle’s distinction]({% post_url 2026-05-05-from-paideia-to-credentials-the-historical-layers-of-higher-education %}) between different kinds of knowledge. Outputs closer to *epistēmē* (demonstrable knowledge) or *poiēsis* (production) can be inspected, counted, or compared. Others are closer to *phronēsis*: practical judgement exercised in concrete situations under uncertainty. Modern institutions are much better at measuring the former than the latter. But the fact that *phronēsis* is harder to certify does not make it less valuable; in open, complex environments, it is precisely the capacity that matters most.
+This connects back to [Aristotle’s distinction]({% post_url 2026-05-11-from-paideia-to-credentials %}) between different kinds of knowledge. Outputs closer to *epistēmē* (demonstrable knowledge) or *poiēsis* (production) can be inspected, counted, or compared. Others are closer to *phronēsis*: practical judgement exercised in concrete situations under uncertainty. Modern institutions are much better at measuring the former than the latter. But the fact that *phronēsis* is harder to certify does not make it less valuable; in open, complex environments, it is precisely the capacity that matters most.
 
 This is one reason the older ideals of liberal education and *Bildung* should not be dismissed too quickly. The ability to think for oneself under conditions of uncertainty may be hard to measure, but it is deeply valuable. The same is true of intellectual breadth, moral seriousness, courage, and character. These capacities may not map cleanly onto a job description, but they shape how someone acts when the environment becomes ambiguous, novel, or difficult.
 
@@ -120,7 +120,7 @@ Bill Gates illustrates a different version of the same pattern. He has argued th
 
 Other examples point toward the breadth of education that technology can reward. Reid Hoffman (LinkedIn) and Stewart Butterfield (Slack) have both connected their philosophical training to entrepreneurship and leadership. Patrick and John Collison (Stripe) can be read as part of a broader pattern of technological entrepreneurship joined to intellectual curiosity, progress-oriented thinking, and cross-domain reading. These examples are not arguments *against* education. They are evidence that the forms of education most valuable at the frontier often exceed what the credential itself can certify.
 
-Frontier environments create selection pressure for capacities that resemble older educational ideals: [Bildung]({% post_url 2026-05-05-from-paideia-to-credentials-the-historical-layers-of-higher-education %}) as intellectual autonomy, classics and humanism as civilisational thinking, and liberal education as the cultivation of judgement under uncertainty.
+Frontier environments create selection pressure for capacities that resemble older educational ideals: [Bildung]({% post_url 2026-05-11-from-paideia-to-credentials %}) as intellectual autonomy, classics and humanism as civilisational thinking, and liberal education as the cultivation of judgement under uncertainty.
 
 One reason *Bildung* matters is that technically specific skills can often be acquired later by people with strong intellectual autonomy and self-directed learning capacity. Humboldt made this point directly over two centuries ago:
 
