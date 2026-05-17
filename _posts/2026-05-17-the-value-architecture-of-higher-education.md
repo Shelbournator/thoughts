@@ -10,25 +10,21 @@ toc: true
 description: "How higher education produces economic, civic, intellectual, professional, social, cultural, and developmental value, and why those forms of value are not equally legible."
 ---
 
-As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url 2026-05-11-from-paideia-to-credentials %}), most arguments about higher education fail before they begin because they compress the institution too early.
+Listen to any debate about higher education, and you will quickly realise the participants are arguing about entirely different institutions. 
 
-Compression is not always a mistake; it is often necessary. We need shorthand models in order to think, argue, compare, and decide. A slogan, a ranking, a credential, or a single metric can all be useful for some purposes. The problem begins when a compressed model is used for a task that requires a full architectural view.
+One person defends a research engine. Another critiques an employment pipeline. A third argues about civic formation, social mobility, or status signalling. The disagreement looks ideological, but underneath, it is purely architectural: different people are treating one specific form of value as if it were the whole machine.
 
-If we are asking what value higher education can produce, for whom, by what mechanisms, and at what cost, shorthand is no longer enough. At that point, we need a way to separate the different forms of value the institution produces, how those values are generated, where they conflict, which parts are invisible from the outside, and which forms of value matter most to individuals and civilisation over time.
+In [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url post_url 2026-05-11-from-paideia-to-credentials %}), I mapped how this happened—how centuries of history bolted completely different objective functions into a single system. 
 
-One person is arguing about employability. Another is arguing about research. Another is arguing about civic formation, social mobility, intellectual culture, professional competence, or status signalling. The disagreement often looks ideological, but underneath it is architectural: different people are treating different forms of value as if they were the whole.
+But to evaluate this system today, we need to move past the history and look at what it actually outputs. 
 
-The difficulty is that many of these forms of value are real. Employability matters. Research matters. Civic formation, intellectual culture, social mobility, personal development, and legitimacy also matter. But they do not all matter in the same way, to the same people, over the same timescale, or through the same mechanisms. Some value is private, some public; some economic, some civic; some immediate and measurable, some delayed, diffuse, and incredibly hard to attribute.
+Why do frontier tech founders dismiss the value of degrees, yet still cluster relentlessly around Stanford? Are universities actually increasing students' capabilities, or are they just running a massively expensive sorting algorithm for employers? Why does the modern system ruthlessly reward research output, while ignoring the cultivation of practical wisdom and judgement? And if we can identify these different functions, do they all still need to be bundled inside the same monolithic institution?
 
-Higher education is therefore not trying to do one thing. It is trying to hold together multiple forms of value inside a single institutional form. That can be powerful: one reason universities have endured is that they bundle teaching, research, credentialling, socialisation, networks, and cultural transmission in ways that reinforce each other. But it also creates immense tension, because one organisation struggles to maximise all of these values at once.
+To answer these questions, we need an architectural view of value. 
 
-Taking a step back, different societies must choose different priorities. A society worried about innovation may emphasise research and technical capability. A society worried about civic fragmentation may emphasise shared culture, judgement, and citizenship. A society worried about productivity may emphasise employability. None of these choices is neutral, and none removes the trade-offs.
+Higher education is not trying to do one thing. It is a historically accumulated engine that produces economic, civic, intellectual, professional, social, cultural, and existential value. But these forms of value do not work in the same way, to the same people, over the same timescale, or through the same mechanisms. Some value is private, some public; some is immediate and measurable, while some is delayed, diffuse, and incredibly hard to attribute.
 
-There is nothing wrong with evaluating one form of value narrowly. But once we name a value, we have to audit the system. Is the university actually producing that value? Is it producing it well? And is the university the best institutional form for producing it?
-
-If the aim is to produce well-rounded human beings, we have to ask whether universities do that better than travel, work, friendship, responsibility, or ordinary life experience. If the aim is to produce innovative knowledge, we have to ask whether universities are the best environment for discovery, or whether some knowledge is better produced in independent institutes, startups, or by autodidacts. If the aim is to preserve civilisation's knowledge base, we have to ask whether universities are still maintaining, transmitting, and renewing that inheritance.
-
-This is why the problem is architectural. Higher education is not one value-producing machine. It is a historically accumulated institution that produces many forms of value at once. The central question is therefore not which single value should dominate, but how to separate the forms of value clearly enough to ask better questions: what is being produced, for whom, by what mechanism, at what cost, and with what trade-offs?
+The central question is therefore not which single value should dominate. It is how to decompile these forms of value clearly enough to ask better questions: what is actually being produced, for whom, by what mechanism, at what cost, and with what trade-offs?
 
 ## The Broader Functions of Higher Education
 
