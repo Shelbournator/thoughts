@@ -22,7 +22,7 @@ The difficulty is that many of these forms of value are real. Employability matt
 
 Higher education is therefore not trying to do one thing. It is trying to hold together multiple forms of value inside a single institutional form. That can be powerful: one reason universities have endured is that they bundle teaching, research, credentialling, socialisation, networks, and cultural transmission in ways that reinforce each other. But it also creates immense tension, because one organisation struggles to maximise all of these values at once.
 
-Different societies must choose different priorities. A society worried about innovation may emphasise research and technical capability. A society worried about civic fragmentation may emphasise shared culture, judgement, and citizenship. A society worried about productivity may emphasise employability. None of these choices is neutral, and none removes the trade-offs.
+Taking a step back, different societies must choose different priorities. A society worried about innovation may emphasise research and technical capability. A society worried about civic fragmentation may emphasise shared culture, judgement, and citizenship. A society worried about productivity may emphasise employability. None of these choices is neutral, and none removes the trade-offs.
 
 There is nothing wrong with evaluating one form of value narrowly. But once we name a value, we have to audit the system. Is the university actually producing that value? Is it producing it well? And is the university the best institutional form for producing it?
 
