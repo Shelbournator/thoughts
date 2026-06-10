@@ -12,7 +12,7 @@ description: "Taste, judgment, and learning what better means."
 
 In [Calisthenics & The Shape of Deep Practice]({% post_url 2026-06-10-the-shape-of-deep-practice %}), I identified **Deep Practices**. Like other practices, they also rely on protocols—like a gym routine or a recipe—is a tool for optimization, but a deep practice forces those isolated parts back into contact with a whole-system outcome.
 
-I have been circling this idea for a while. In exploring [how perception shapes action]({% post_url 2026-03-19-the-architecture-of-perception-orientation-and-action %}) and how [rationality functions as a feedback loop with reality]({% post_url 2026-03-06-the-architecture-of-the-rational-mind %}), a recurring theme has emerged: we are formed by the environments we participate in, if we're sensitive to it.
+I have been circling this idea for a while. In exploring [how perception shapes action]({% post_url 2026-03-20-the-translation-problem %}) and how [rationality functions as a feedback loop with reality]({% post_url 2026-03-06-the-architecture-of-the-rational-mind %}), a recurring theme has emerged: we are formed by the environments we participate in, if we're sensitive to it.
 
 Deep practices are the specific environments where this formation is most visible. They are inherently developmental. They do not merely give us new skills; they actively retrain our perception, refine our judgment, and recalibrate our orientation toward reality. 
 
