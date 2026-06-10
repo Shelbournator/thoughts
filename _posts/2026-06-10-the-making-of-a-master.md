@@ -116,7 +116,7 @@ It asks for a deepening system sense: an ability to feel how subtle inputs affec
 
 So the point is not to set recipe against practice, or theory against experience.
 
-Aristotle distinguished technical knowledge from practical wisdom: *techne* from [*phronesis*]({% post_url 2026-05-06-the-value-architecture-of-higher-education %}#why-research-and-credentials-become-dominant). One concerns how to make something; the other concerns judgment about what the situation calls for. He treated these as meaningfully distinct. My suspicion is that in real practices they sit closer together than the sharp distinction can make it seem. 
+Aristotle distinguished technical knowledge from practical wisdom: *techne* from [*phronesis*]({% post_url 2026-05-17-the-value-architecture-of-higher-education %}#why-research-and-credentials-become-dominant). One concerns how to make something; the other concerns judgment about what the situation calls for. He treated these as meaningfully distinct. My suspicion is that in real practices they sit closer together than the sharp distinction can make it seem. 
 
 Cooking shows why. The recipe may carry technical knowledge, but the cook has to perceive the particulars: *this heat, this ingredient, this appetite, this moment.* Judgment is not added after technique. It enters into technique and changes how technique is used.
 
