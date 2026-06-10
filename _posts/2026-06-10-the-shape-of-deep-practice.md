@@ -1,7 +1,7 @@
 ---
 title: "Calisthenics & The Shape of Deep Practice"
 date: 2026-06-10 09:00:00 +0000
-categories: [Systems, Being]
+categories: [Being, Mastery]
 tags: [practice, mastery, systems-thinking, integration, perception]
 pin: false
 math: false
