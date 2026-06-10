@@ -378,7 +378,7 @@ The recipe says. The chef says. The tradition says. The internet says. The AI sa
 
 In each case, one part of cooking has detached from the whole.
 
-The step, the technique, the taste, the aesthetic, the novelty, the authority: each can be [useful compressions]({% post_url 2026-05-04-higher-education-and-the-compression-problem %}) when they remain answerable to the meal. Each becomes distorting when it stops receiving feedback from the whole-system outcome.
+The step, the technique, the taste, the aesthetic, the novelty, the authority: each can be [useful compressions]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) when they remain answerable to the meal. Each becomes distorting when it stops receiving feedback from the whole-system outcome.
 
 Cooking becomes deep only when these parts are pulled back into relationship.
 
