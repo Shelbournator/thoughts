@@ -239,4 +239,3 @@ Martial arts seemed to. So did sports, [bike mechanics]({% post_url 2026-01-07-t
 I do not want to force all of these into a system too quickly.
 
 For now, the point is simpler: some practices are deeper than they first appear because they keep bringing the practitioner back into contact with reality. They begin as things we do. Over time, if we keep listening, they become ways reality forms us.
-
