@@ -14,7 +14,7 @@ Listen to any debate about higher education, and you will quickly realise the pa
 
 One person defends a research engine. Another critiques an employment pipeline. A third argues about civic formation, social mobility, or status signalling. The disagreement looks ideological, but underneath, it is purely architectural: different people are treating one specific form of value as if it were the whole machine.
 
-In [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url post_url 2026-05-11-from-paideia-to-credentials %}), I mapped how this happened—how centuries of history bolted completely different objective functions into a single system. 
+In [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}) and [From Paideia to Credentials]({% post_url 2026-05-11-from-paideia-to-credentials %}), I mapped how this happened—how centuries of history bolted completely different objective functions into a single system. 
 
 But to evaluate this system today, we need to move past the history and look at what it actually outputs. 
 
