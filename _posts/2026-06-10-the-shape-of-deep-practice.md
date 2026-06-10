@@ -10,7 +10,9 @@ toc: true
 description: "Pull-ups, recipes, and the difference between optimization and development."
 ---
 
-I used to think I was reasonably fit. Not elite, not especially athletic, but fit in the ordinary modern sense: I went to the gym, lifted weights, followed programs, tracked progress, and could point to numbers moving in the right direction. There was structure, effort, and consistency. By most of the usual signals, something was working.
+I used to think I was reasonably fit.
+
+Not elite, not especially athletic, but fit in the ordinary modern sense: I went to the gym, lifted weights, followed programs, tracked progress, and could point to numbers moving in the right direction. There was structure, effort, and consistency. By most of the usual signals, something was working.
 
 Then I tried to get serious about calisthenics, and the first lesson was embarrassingly simple: I could not do what I thought my strength should allow me to do. 
 
