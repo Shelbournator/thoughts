@@ -1,7 +1,7 @@
 ---
 title: "Cookery & The Making of a Master"
 date: 2026-06-10 12:00:00 +0000
-categories: [Systems, Being]
+categories: [Being, Mastery]
 tags: [practice, mastery, systems-thinking, integration, perception]
 pin: false
 math: false
