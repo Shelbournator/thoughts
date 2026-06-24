@@ -10,7 +10,7 @@ toc: true
 description: "How the British ideal of character emerged from chivalry, gentlemanly formation, public-school discipline, and the tension between stoic strength and emotional development."
 ---
 
-I [previously wrote]{% post_url 2026-05-11-from-paideia-to-credentials %} about educational ideals that existed before the contemporary credentialling system came to dominate education around the world. One of those ideals was the British ideal of character.
+[I previously wrote]({% post_url 2026-05-11-from-paideia-to-credentials %}) about educational ideals that existed before the contemporary credentialling system came to dominate education around the world. One of those ideals was the British ideal of character.
 
 That ideal deserves a closer look, because it is easy to caricature from the outside. To modern eyes, it can appear cold, class-bound, emotionally stunted, imperial, or simply out of date. There are good reasons for that reaction. But the more interesting question is not whether the older ideal had failure modes. It clearly did. The more interesting question is what problem it was trying to solve, what truths it preserved, and what was lost when the surrounding culture moved away from it.
 
