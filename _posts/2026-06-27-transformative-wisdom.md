@@ -78,7 +78,7 @@ Transformative learning changes the architecture into which facts are received.
 
 Accommodation is difficult because our existing models are compressions of reality.
 
-As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-04-higher-education-and-the-compression-problem %}), each of us has limited cognitive bandwidth. We cannot process the world in full fidelity, so we rely on categories, assumptions, heuristics, and inherited frames to make it legible enough to navigate.
+As I argued in [Higher Education and the Compression Problem]({% post_url 2026-05-10-higher-education-and-the-compression-problem %}), each of us has limited cognitive bandwidth. We cannot process the world in full fidelity, so we rely on categories, assumptions, heuristics, and inherited frames to make it legible enough to navigate.
 
 These compressions are necessary. They also make contradiction expensive.
 
